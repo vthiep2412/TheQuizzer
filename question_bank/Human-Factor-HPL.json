@@ -1,0 +1,6125 @@
+[
+  {
+    "bankName": "Human-Factor-HPL"
+  },
+  {
+    "id": 1,
+    "code": "",
+    "type": "MulChoice",
+    "question": "More than 75% of accidents are caused by?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Pilot Error",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Mechanical Failure",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Human Error",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Breakdown in Communication",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Airmanship is?",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "Common sense and good aviation practices and high standards in the air",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Being able to fly competently",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Looking after your passengers in flight",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Responding correctly to all Radio calls made during the flight",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "code": "",
+    "type": "MulChoice",
+    "question": "During what stage(s) of pregnancy is a pilot not recommended to fly?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "First and last 3 months",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "First 3 months last 2 months",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Last 3 months",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "They can fly at any time during pregnancy",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The approximate percentage of oxygen in the atmosphere at ground level is:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "0.05",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "0.2",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "0.4",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "0.8",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Who in the aviation industry is responsible for flight safety?",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "Aircrew and Ground crew",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Aircrew",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Management, Aircrew, Ground crew and ATC",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Everyone involved",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which of the following is most true?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Regular exercise is an impediment to losing weight since it increases the metabolic rate",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Regular exercise is beneficial to general health, and is the only effective way to lose weight",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Regular exercise is beneficial to general health, but the most efficient way to lose weight is by reducing calorie consumption",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Regular exercise and reduction in calorie consumption are both essential in order to lose weight",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Pilot judgment:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "Pilot judgment requires the pilot to think and act rapidly at all times",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Pilot judgment should never involve any input from other persons.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Pilot judgment is less important for private pilots than airline captains.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Poor pilot judgment is a leading cause of accidents today.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "code": "",
+    "type": "MulChoice",
+    "question": "How long is a Class 1 Medical valid for if you are under 40 years of age?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "60 months.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "6 months.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "12 months.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "50 months.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "code": "",
+    "type": "MulChoice",
+    "question": "How long is a Class 1 Medical valid for if you are over 40 years of age?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "60 months.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "6 months.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "12 months.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "50 months.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "code": "",
+    "type": "MulChoice",
+    "question": "\"Non-verbal communication\":",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "is unimportant, inherited and cannot be taught.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "rarely causes accidents.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "constitutes approximately 70% of human communication.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "means \"a sterile cockpit\" below 10 000 feet.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The Partial Pressure of oxygen in the lungs required for normal functioning is?",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "760 mm Hg",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "150 mm Hg",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "120 mm Hg",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "102 mm Hg",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "code": "",
+    "type": "MulChoice",
+    "question": "You are flying in a pressurised aircraft at 8,000 ft a passenger who has previously mentioned they are scared of flying. They are breathing heavily and complain about feeling light headed the most likely cause is?",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "The Bends",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Hypoxia",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Oxygen Paradox",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Hyperventilation",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "code": "",
+    "type": "MulChoice",
+    "question": "You are unsure as to whether a person is suffering from Hypoxia or Hyperventilation your best action is to?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Do nothing",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Get them to breath into a paper bag",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Give them oxygen",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Cool them down",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "code": "",
+    "type": "MulChoice",
+    "question": "When flying at 34,000 feet on 100% oxygen the partial pressure of oxygen in the lungs is?",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "760 mm Hg",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "150 mm Hg",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "120 mm Hg",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "102 mm Hg",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Hypoxia:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "has few symptoms and is easily recognised.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "affects all pilots in the same way.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "can occur very subtly and is therefore very dangerous.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "tolerance can be improved with practice and \"recency\".",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "code": "",
+    "type": "MulChoice",
+    "question": "A good guide to visual scanning, which takes into account the limitations of human vision, is to:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "Scan slowly across the horizon without stopping",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Scan in 20 degree sectors, taking 2 seconds for each sector.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Scan in 40 degree sectors, taking 2 seconds for each sector.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Scan slowly up and down and across without stopping",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "code": "",
+    "type": "MulChoice",
+    "question": "In humans the most powerful sense for maintaining orientation comes from :",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "The eyes (vision).",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "The balance organs.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "The proprioceptive organs (seat of the pants).",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "The inner ear (vestibular apparatus).",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "code": "",
+    "type": "MulChoice",
+    "question": "You have a passenger suffering from hypoxia and decide to treat their condition by supplying them with oxygen. On supplying them with oxygen their symptoms appear to get worse. What should you do next?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Take them off the oxygen immediately as it is making the situation worse.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Perform CPR",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Continue to supply them with oxygen",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Get them to breathe into a paper bag as they now have too much oxygen in their system",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The transfer of oxygen from the alveoli to the blood can be described by:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "the law of diffusion",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Henry's Law",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Dalton's Law",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Boyle's Law",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The normal rate of breathing of an adult at rest is about:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "16 cycles per minute",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "72 cycles per minute",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "32 cycles per minute",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "4 cycles per minute",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The transfer of carbon dioxide from the blood to the alveoli can be described by:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Boyles Law",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Dalton's Law",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "the law of diffusion",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Henry's Law",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The partial pressure of carbon dioxide in the alveoli is:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "higher than the pressure of carbon dioxide in the blood",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "the same as in the atmospheric air",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "lower than the pressure of carbon dioxide in the atmospheric air.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "lower than in the blood",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Healthy people are usually capable of compensating for a lack of oxygen up to:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "10000 - 12000 feet",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "25000 feet",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "20000 feet",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "15000 feet",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "code": "",
+    "type": "MulChoice",
+    "question": "When flying above 10.000 feet hypoxia arises because:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "the partial oxygen pressure is lower than at sea level.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "the percentage of oxygen is lower than at sea level",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "the composition of the air is different from sea level",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "the composition of the blood changes",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Saturation of oxygen in the blood at sea level is approximately 98%. This saturation decreases with: 1. decreasing air pressure; 2. carbon monoxide poisoning; 3. increasing altitude; 4. increasing air pressure",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "1, 2 and 4 are correct, 3 is false",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "2, 3 and 4 are correct, 1 is false",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "1, 2 and 3 are correct, 4 is false",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "1, 3 and 4 are correct, 2 is false",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Hypoxia is a situation in which the cells",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "have a shortage of oxygen",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "have a shortage of carbon dioxide",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "are saturated with oxygen",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "are saturated with nitrogen",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The severity of hypoxia depends on the:1. rate of decompression; 2. physical fitness; 3. flight level; 4. individual tolerance",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "2,3 and 4 are correct, 1 is false",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "1,2 and 3 are correct, 4 is false",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "1 and 3 are correct, 2 and 4 are false",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "1,2,3 and 4 are correct",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Early symptoms of hypoxia could be: 1. Euphoria; 2. decreased rate and depth of breathing; 3. lack of concentration; 4. visual disturbances",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "1,2 and 3 are correct",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "1,2,3 and 4 are correct",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "1,2 and 4 are correct",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "1,3 and 4 are correct",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "code": "",
+    "type": "MulChoice",
+    "question": "One of the most dangerous symptoms of hypoxia concerning flight safety is:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "reduced coordination of limb movements, causing the pilot to spin",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "impaired judgement",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "hyperventilation, causing emotional stress",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "cyanosis, reducing then pilots ability to hear",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which of the following symptoms can indicate hypoxia? 1. Blue lips and finger nails; 2. Euphoria; 3. Flatulence.; 4.Unconsciousness..",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "1, 2 and 3 are correct.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "2, 3 and 4 are correct.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "1, 2 and 4 are correct.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "1, 3 and 4 are correct.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Among the functions below, which is the most sensitive to hypoxia?",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "Hearing",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Motor coordination",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Speech.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Night vision",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "code": "",
+    "type": "MulChoice",
+    "question": "You are crossing the Alps in a non-pressurised aircraft at an altitude of 15.000 feet. You do not use the oxygen mask because you feel fine. This is unsafe, because:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "your judgement could be impaired",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "you will get the bends",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "the blood-pressure can get too low",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "the blood-pressure can get too high",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "code": "",
+    "type": "MulChoice",
+    "question": "During a night flight at 10,000 feet you notice that your visual acuity has decreased. In this case you can increase your acuity by:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "scanning sectors of the field of vision",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "closing one eye",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "dim the instrument lights",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "breathing extra oxygen through the oxygen mask.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "code": "",
+    "type": "MulChoice",
+    "question": "During flight all crewmembers have one or more of the following symptoms: 1. blue lips; 2. mental disturbances; 3. tingling sensations in arms and/or legs; 4. reduction of peripheral vision. Which is the possible cause?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Glaucoma.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Hypothermia.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Hypoxia.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Hypoglycaemia.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which measure(s) will help to compensate for hypoxia? 1. Descend below 10 000 FT; 2. Breathe 100 % oxygen; 3. Climb to or above 10 000 FT; 4. Reduce physical activities.",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "1, 2 and 3 are correct",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "1, 2 and 4 are correct",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "1 and 2 are correct, 3 and 4 are false",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "only 1 is correct",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "code": "",
+    "type": "MulChoice",
+    "question": "A pilot can prevent hypoxia by:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "using additional oxygen when flying above 10000 ft",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "not exceeding a cabin pressure altitude of 20000 ft",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "swallowing, yawing and applying the Valsalva method",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "relying on the body's built in warning system recognizing any stage of hypoxia",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Hyperventilation is:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "a too high percentage of nitrogen in the blood",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "a decreased lung ventilation",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "an increased lung ventilation",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "a too high percentage of oxygen in the blood.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Hyperventilation is:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "an increased heart rate caused by an increasing blood pressure",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "a normal compensatory physiological reaction to a drop in partial oxygen pressure (i.e. when climbing a high mountain)",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "a reduction of partial oxygen pressure in the brain",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "an increased heart rate caused by a decreasing blood-pressure",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "code": "",
+    "type": "MulChoice",
+    "question": "When hyperventilating you should:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "control your rate and depth of breathing",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "use the oxygen mask",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "apply the Valsalva method",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "descend",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Oxygen is transported around the body using?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "White blood cells’",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Veins",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Haemoglobin",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Bronchi",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The ability to withstand g forces is reduced by a number of factors, among these factors are:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "Smoking, obesity and vibrations",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Hypoxia, fatigue and vibrations",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Physical fitness, heat and hypotension",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Low blood sugar, obesity and hypoxia",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The blood-pressure depends on: 1. the work of the heart; 2. the peripheral resistance; 3. the elasticity of the arterial walls; 4. the blood volume and viscosity",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "1,2 and 3 are correct, 4 is false",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "1,3 and 4 are correct, 2 is false",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "1,2,3 and 4 are correct",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "2,3 and 4 are correct, 1 is false",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Changes in blood-pressure are measured by:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "adrenal glands",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "arterioles",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "pacemakers",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "pressoreceptors",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Thepressoreceptors are located in",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "the intestines",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "the carotid and aortic arterial vessels",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "the lungs",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "the heart",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "code": "",
+    "type": "MulChoice",
+    "question": "When the pressoreceptors signal a lowering of the blood-pressure there are adaptation mechanisms which result in: 1. an increase of respiratory activity; 2. the arterioles to constrict; 3. an increase of cardiac output; 4. the heart rate to rise",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "1,3 and 4 are correct, 2 is false",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "2,3 and 4 are correct, 1 is false",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "1,2 and 3 are correct, 4 is false",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "1,2 and 4 are correct, 3 is false",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The physiological effects of accelerations to the human body depend on: 1. the duration of the G-forces; 2. the onset rate of the G-forces; 3. the magnitude of the G-forces; 4. the direction of the G-forces.",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "1,2,3 and 4 are correct",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "1and 4 are correct, 3 is false",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "2,3 and 4 are correct, 1 is false",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "1,2,3 are correct, 4 is false",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Positive g will cause the blood-pressure to the brain to:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "increase",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "remain constant",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "first increase, then decrease",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "decrease",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "code": "",
+    "type": "MulChoice",
+    "question": "A pilot should not fly immediately after donating blood because:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "the chance you get the bends is higher after blood-donation",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "you have an increased susceptibility to fainting",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "your heart rate is too low after blood-donation",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "your blood-pressure is too low after blood-donation",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "code": "",
+    "type": "MulChoice",
+    "question": "In order to reduce the risk of coronary artery disease, exercise should:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "be avoided since raising the heart rate shortens the life of the heart",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "double the resting heart rate for at least 20 minutes, three times a week",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "triple the resting heart rate for 20 minutes, once a week",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "double the resting heart rate for at least an hour, five times a week",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The heart muscle is supplied with blood by:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "ventricles",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "the auricles",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "the pulmonary veins",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "the coronary arteries",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Pain in the joints ('the bends') is a symptom of:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "decompression sickness",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "hypoxia",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "air-sickness",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "barotrauma",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The Bends' as a symptom of decompression sickness consists of:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "pain in the joints",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "loss of peripheral vision",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "CNS-disturbances",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "pain in the thorax and a cough",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The primary symptom of Decompression sickness/illness is:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "the Chokes",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "the Bends",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "neurological damages to the CNS",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "red coloured cheeks and lips",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which of the following gases is fundamentally responsible for decompression sickness?",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "Carbon dioxide.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Oxygen.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Sodium.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Nitrogen.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which of the following are correct. \ni.        Cones are found around the centre of the retina\nii.        Rods are used for colour vision\niii.        Rods are good for night vision\niv.        There are more Rods than Cones\nv.        Cones are used for the peripheral vision",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "i, ii, iii, iv, v",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "i, iii, iv",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "ii, iv, v",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "i, ii, iv",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The best Scanning Technique is",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "10° every 5 seconds",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "20° every 2 seconds",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "30° every 2 seconds",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "45° every 4 seconds",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Approximately how long does it take to fully adapt our eyes at night",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "10 minutes",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "15 minutes",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "20 minutes",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "30 minutes",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The term astigmatism means?",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "Long Sightedness",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Lazy Eye’",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Short Sightedness",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Irregular Eyeball",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "code": "",
+    "type": "MulChoice",
+    "question": "“Cones and Rods” are:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "Associated with the eye",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Associated with the strength of a pilot",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Flying in IMC conditions",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Whiteout",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The Effect You Get When You Look At A Steady Distant Light At Night And It Starts To Move Around Erratically Is Called:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "Auto kinetic effect",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Break-off phenomenon",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "The leans",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Coriolis illusion",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Generally, the time required for dark adaptation is:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "1/10 sec",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "10 sec",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "10 min",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "30 min",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Adaptation is",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "the reflection of the light at the cornea",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "the change of the diameter of the pupil",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "the adjustment of the crystalline lens to focus light on the retina",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "the adjustment of the eyes to high or low levels of illumination",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The time required for complete adaptation is:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "for day and night: 30 min",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "for high levels of illumination 10 minutes and for low levels of illumination 30 minutes",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "for night 10 sec and for day 30 min",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "for high levels of illumination 10 sec and for full dark adaptation 30 min",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The requirement of good sunglasses is to",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "absorb enough visible light to eliminate glare without decreasing visual acuity",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "increase the time for dark adaptation",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "eliminate distortion in aircraft windshields",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "fit to the pilots individual taste",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Scanning at night should be performed by:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "slight eye movements to the side of the object",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "avoiding food containing Vitamin A",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "concentrated fixation on an object (image must fall on the fovea)",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "scanning with one eye open",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Hypoxia can affect night vision:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "less than day vision",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "and causes the autokinetic phenomena",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "at approximately 5000'",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "and causes hyperventilation",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The fovea is",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "where the optic nerves come together with the pupil",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "the area of the blind spot (optic disc)",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "the area of best day vision and best night vision",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "the area of best day vision and no night vision at all",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The retina of the eye",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "is the light-sensitive inner lining of the eye containing the photoreceptors essential for vision",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "only regulates the light that falls into the eye",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "is the muscle, changing the size of the crystalline lens",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "filters the UV-light",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Visual perception of depth at close to medium distance is primarily due to:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "binocular vision",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "the high sensitivity of the retina",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "peripheral vision",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "interactions between cones and rods",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Autokinetic illusion is:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "the sensation during a radial acceleration of seeing a fixed reference point moving into the opposite direction of the acceleration",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "an illusion in which a stationary point of light, if stared at for several seconds in the dark, may - without a frame of reference - appear to move",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "poor interpretation of the surrounding world",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "a conflict between the visual system and bodily sensations",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "code": "",
+    "type": "MulChoice",
+    "question": "With regard to central vision, which of the following statements are correct? -1: It is due to the functioning of rods; -2: It enables details, colours and movement to be seen; -3: Its very active both during the day and at night; -4: It represents a zone where about 150000 cones per mm are located to give high resolution capacity",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "1,2,2004",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "2,4",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "1,3",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "2,3,2004",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which of the following is correct?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "The Kinesthetic channel is the most important channel in flying",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "70% - 80% of information processed by man enters the visual channel",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "40% of information processed by man enters the visual channel",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Hearing is the most important sense for man",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The ability of the human eye to read alphanumeric information:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "is limited to the foveal area of the retina",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "is governed by peripheral vision over an area of approximately 20 degrees of angle",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "is almost equally shared by the entire retina",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "is limited to daytime using the rod cells",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The amount of light which strikes the retina is controlled by:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "the ciliary body",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "the pupil",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "the lens",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "the cornea",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "code": "",
+    "type": "MulChoice",
+    "question": "When focussing on near objects:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "the shape of lens gets flatter",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "the cornea gets smaller",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "the shape of lens gets more spherical",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "the pupil gets larger",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The ability of the lens to change its shape is called:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "binocular vision",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "depth perception",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "accommodation",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "adaptation",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The mechanism of accommodation is controlled by:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "the functioning of the muscles of the eye",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "the elasticity of the optic nerves",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "the diameter of the pupil",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "the functioning of the ciliary muscle around the lens",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Glaucoma is due to:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "Damage to the eyeball due to high altitude",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Drop in pressure of the liquid around the eye",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Excess light on the eyeball",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Increase in pressure of the liquid within the eye",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "code": "",
+    "type": "MulChoice",
+    "question": "When you stare at a single light against the dark (i.e.. an isolated star) you will find the light appears to move after some time. This phenomenon is called:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "black hole illusion",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "autokinetic phenomenon",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "leans",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "coriolis illusion",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "code": "",
+    "type": "MulChoice",
+    "question": "To prevent empty field myopia at higher altitudes:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "one should concentrate only on instruments",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "it is recommended that a pilot focuses on an object known to be approximately one metre away",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "one should book an appointment with an opthalmologist as soon as possible",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "it is recommended that a pilot uses short sharp scans, or periodically focuses on a distant object such as a wingtip or cloud edge",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Night vision:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "requires 5 minutes to reach its best performance",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "requires up to 30 minutes to reach its best performance",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "is insensitive to lightning flashes in storms",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "is insensitive to short duration light sources",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The cornea and the crystalline lens of the eye:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "allow for the regulation of the amount of light admitted into the eye",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "keep the retina clean and healthy",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "permit the reception and conversion of visual stimuli to images interpreted by the brain",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "cause the convergence of light rays onto the retina",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What factors can lead to a deterioration in vision? 1. Hypoxia; 2. Smoking; 3. Poor diet, lacking Vitamin A; 4. Exposure to bright lights. Which of the following lists all the correct statements?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "1 and 3",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "1, 2, 3 and 4",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "1, 3 and 4",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "2 and 4",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "code": "",
+    "type": "MulChoice",
+    "question": "If the Eustachian Tube becomes blocked ear pain can be severe during?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Climb",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Level Flight",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Descent",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "At high altitude",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Somatogyral Illusion occurs when?",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "The pilot has the leans",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "The pilot becomes dehydrated",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "The pilot experiences strong G – Force",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "The Pilot experiences Hypoglycaemia",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "code": "",
+    "type": "MulChoice",
+    "question": "If disoriented a Pilot should believe:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Vestibular signals",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Vision and inner mix",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Instruments",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "None of the above",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The proprioceptive senses ('Seat of-the-Pants-Sense')",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "is a natural human instinct, always indicating the correct attitude",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "may give incorrect information, when outside visual reference is lost",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "can neither be used for motor coordination in IMC and VMC",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "can be used, if trained, to avoid spatial disorientation in IMC",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which force(s) affect(s) the otoliths in the utriculus and sacculus?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Gravity alone",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Linear acceleration and angular acceleration",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Gravity and linear acceleration",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Angular acceleration",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The semicircular canals of the inner ear monitor",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "movements with constant speeds",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "relative speed and linear accelerations",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "angular accelerations",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "gravity",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which part of the inner ear is responsible for the perception of sound?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "The semicircular canals",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "The sacculus and utriculus",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "The cochlea",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "The Eustachian tube",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which part of the vestibular apparatus is affected by changes in gravity and linear acceleration?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "The semicircular canals",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "The cochlea",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "The sacculus and utriculus",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "The eustachian tube",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which part of the vestibular apparatus is responsible for the detection of angular acceleration?",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "The sacculus and utriculus",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "The cochlea",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "The Eustachian tube",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "The semicircular canals",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The vestibular apparatus",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "reacts to linear/angular acceleration and gravity",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "reacts to vibrations of the cochlea",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "reacts to pressure changes in the middle ear",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "gives the impression of hearing",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which is the audible range to human hearing?",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "Between 20 Hz and 20 KHz",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Between 20 Hz and 20 MHz",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Between 20 KHz and 20 KHz",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Between 20 MHz and 20 000MHz",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The damaging effects of noise on the pilot depends on: 1. The intensity of the noise; 2. The frequency of the noise; 3. The exposure time to noise; 4. Proper use of the headset in the cockpit. Which of the following lists all the correct statements?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "2, 3 and 4",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "1, 2, 3 and 4",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "3 only",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "1 and 4",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The Vestibular Apparatus consists of the:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "Eustachian tube and the semi-circular canals",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Semi-circular canals and the otoliths",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Eustachian tube and the pinna",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Cochlea and the auditory nerve",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Noise induced hearing loss is influenced by",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "the suddenness of onset of a noise",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "the duration of a noise but not its intensity",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "the intensity of the noise but not its duration",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "the duration and intensity of a noise",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Barotrauma of the middle ear is usually accompanied by",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "noises in the ear",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "dizziness",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "pain in the joints",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "a reduction in hearing ability and the feeling of increasing pressure",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The human ear is capable of perceiving vibrations between the frequencies",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "20 - 20000 Hz",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "30 - 15000 dB",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "20000 - 40000 Hz",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "0 - 16 Hz",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Any prolonged exposure to noise in excess of 90 dB can result in:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "presbycusis (effects of aging)",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "conductive hearing loss",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "a ruptured ear drum",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "noise induced hearing loss",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Noise induced hearing loss (NIHL) is caused by:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "a blocked Eustachian tube",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "damage to the sensitive membrane in the cochlea due to overexposure to noise",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "reduced mobility of the ossicles",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "pressure differences on both sides of the eardrum",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Hearing Tests are carried out during pilot medicals to:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "detect reversible NIHL.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "detect early signs of deafness.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "detect early presbyopia.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "detect vestibular dysfunction.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which of the following statements concerning barotrauma are correct?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "It is caused by an increase in the partial pressure of oxygen associated with a decrease in altitude",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "It is more likely to occur during ascent then during a rapid descent",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "It is caused by pressure differentials between gases in hollow cavities of the body and the ambient pressure",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "It is mainly associated with a sink rate which exceeds the ability of the body to balance its internal pressures",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Pain in the middle ear during descent may be eased by:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "increasing the rate of descent",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "blocking the effected ear with the palm of your hand",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "using an oxygen mask",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "levelling off and possibly climbing",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The function of the Eustachian tube is to equalise the pressure between the:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "middle ear and the external atmosphere",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "sinuses",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "nose, throat and the external atmosphere",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "sinuses of the nose and the external atmosphere",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What counter-measure can be used against barotrauma of the middle ear?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "Increase rate of descent",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Close the mouth, pinch the nose tight and blow out thereby increasing the pressure in the mouth and throat. At the same time try to swallow or move lower jaw",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Pilots should apply anti-cold remedies prior every flight to prevent barotrauma in the middle ear",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Stop climbing, start descent",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "code": "",
+    "type": "MulChoice",
+    "question": "A barotrauma of the middle ear",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "is more likely, when the pilot is flying with a respiratory infection and during descent",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "is to be expected during rapid decompressions, but an emergency descent immediately following the decompression will eliminate the problem",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "causes severe pain in the sinuses",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "is only caused by large pressure changes during climb",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which counter-measure can a pilot use against a barotrauma of the middle ear?",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "Stop chewing and swallowing movements",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Increase the rate of descent",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Use drugs against a cold",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Stop descending, climb again and then descend with reduced sink rate",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Barotrauma of the middle ear most likely will occur",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "when descending rapidly",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "in sudden steep turns",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "when climbing",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "during a long high altitude flight",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Equalization of pressure is limited between the middle ear and the ambient, when:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "the nose is pinched",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "the eustachian tube is blocked",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "barotrauma exists in the sinuses",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "you breath through the mouth",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "code": "",
+    "type": "MulChoice",
+    "question": "A barotrauma of the middle ear is:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "a bacterial infection of the middle ear",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "a dilatation of the Eustachian tube",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "an acute or chronic trauma to the middle ear caused by a difference of pressure on either side of the eardrum",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "an infection of the middle ear caused by rapid decompression",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The Eustachian tube is the passage way between the:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "nose, throat and the external auditory canal",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "nose, throat and inner ear",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "sinuses and the throat",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "throat and the middle ear",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which part of the ear could be affected due to air pressure changes during climb and/or descent?",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "The cochlea",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "The semicircular canals",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "The saccules and utricles",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "The Eustachian tube and the tympanic membrane (ear drum)",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Illuminated anti-collision lights in IMC",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "can cause disorientation",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "will effect the pilots binocular vision",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "will improve the pilots depth perception",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "can cause colour-illusions",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What is understood by air-sickness?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "An illness caused by evaporation of gases in the blood",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "A sensory conflict within the vestibular system accompanied by nausea and vomiting",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "An illness caused by an infection of the middle ear",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "An illness caused by reduced air pressure",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Flying a coordinated level turn will",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "first give the impression of climb , then the impression of descent",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "make the blood being pooled in the head",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "make the body's pressure receptors feel an increased pressure along the body's vertical axis",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "make the seat-of-the-pants sense feel a decreased pressure along the body's vertical axis",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which sensations does a pilot get, when he is rolling out of a prolonged level turn?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "Flying straight and level",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Turning in the opposite direction",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Turning into the original direction",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Climbing",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "code": "",
+    "type": "MulChoice",
+    "question": "How can a pilot overcome vertigo, encountered during a real or simulated instrument flight? 1. Establish and maintain an effective instrument cross-check; 2. Always believe the instruments; never trust your sense of feeling; 3. Ignore arising illusions; 4. Move the head sidewards and back and forth to 'shake-off' illusions.",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "Only 4 is correct",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "1and 2 are correct, 3 and 4 are false",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "1, 2, 3 and 4 are correct",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "1, 2 and 3 are correct",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Dizziness and tumbling sensations, when making head movements in a tight turn, are symptoms of",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "Pilot's vertigo'",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Oculogravic illusion'",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Flicker-vertigo'",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Nystagmus'",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Pilot's vertigo'",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "is the condition of dizziness and/or tumbling sensation caused by contradictory impulses to the central nervous system (CNS)",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "announces the beginning of airsickness",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "is the sensation of climbing caused by a strong linear acceleration",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "is the sensation to keep a rotation after completing a turn",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What can a pilot do to avoid 'Flicker vertigo' when flying in the clouds?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Dim the cockpit lights to avoid reflections",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Engage the autopilot until breaking the clouds",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Switch strobe-lights off",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Fly straight and level and avoid head movements",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 122,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What do you do, when you are affected by 'pilot's vertigo'? 1. Establish and maintain an effective instrument cross-check; 2. Believe the instruments; 3. Ignore illusions; 4. Minimize head movements.",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "1, 2, 3 and 4 are correct",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Only 4 is false",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "1 and 2 are correct, 3 and 4 are false",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "1, 2 and 3 are correct, 4 is false",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 123,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What is the correct action to counteract vertigo?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "Reduce rate of breathing until all symptoms disappear, then breathe again normally",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Believe the instruments",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Rely on the information from the semicircular canals, since these will be transmitting correct information",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Concentrate on the vertical speed indicator",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 124,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The risk of spatial disorientation increases when:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "the pilot is buckled tightly to his/her seat and cannot sense the attitude changes of the aircraft by the Seat-of-the-Pants-Sense",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "the pilot is performing an effective instrument cross-check and is ignoring illusions",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "there is contradictory information between the instruments and the vestibular organs",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "information from the vestibular organ in the inner ear are ignored",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 125,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which flight-manoeuvre will most likely induce vertigo? Turning the head while",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "banking",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "flying straight and level",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "descending",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "climbing",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 126,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The proprioceptors do not orient an individual to his/her surroundings, but informs him/her of",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "our surroundings",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "a touch on the skin",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "the condition in the body itself",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "the relative motion and relative position of his body parts",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 127,
+    "code": "",
+    "type": "MulChoice",
+    "question": "1. In case of conflicting information you can always trust your Seat-of-the-Pants-Sense; 2. In case of conflicting information between the sensory organs and the instruments you must believe the instruments.",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "1 and 2 are correct",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "1 is false, 2 is correct",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "1 and 2 are false",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "1 is correct, 2 is false",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 128,
+    "code": "",
+    "type": "MulChoice",
+    "question": "If you are subjected to an illusion during night flying you should:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "continue on instruments",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "use your oxygen mask",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "scan the surroundings",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "dim the cockpit lighting",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 129,
+    "code": "",
+    "type": "MulChoice",
+    "question": "If you are disorientated during night flying you must:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "look outside",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "rely on your instruments",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "check your rate of breathing - do not breathe too fast",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "descend",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 130,
+    "code": "",
+    "type": "MulChoice",
+    "question": "How can spatial disorientation in IMC be avoided? By",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "moving the head into the direction of the resultant vertical.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "believing your body senses only.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "looking outside whenever possible ignoring the attitude indicator.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "maintaining a good instrument cross check.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 131,
+    "code": "",
+    "type": "MulChoice",
+    "question": "On experiencing a vestibular illusion in straight and level flight, it is recommended that:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "you close your eyes for a moment so that the oculo-vestibular conflict disappears",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "you tilt your head to the side opposite to the turn to nullify the stimulus causing the illusion",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "you rely on your sensations only, as humans are much more reliable than flight instruments",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "you avoid head movements and rely on your instruments",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 132,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Information such as codes or symbols are stored as?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Episodic Memory",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Short Term Memory",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Semantic Memory",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Random Access Memory",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 133,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Motor skills:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "are those skills needed particularly by maintenance engineers working on engines",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "are those human capabilities which, when learned, require little conscious attention",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "are those skills which need to be constantly thought about and decided upon, particularly by experienced pilots",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "involve hand/eye co-ordination and are innate (i.e. you either have them, or you don’t)",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 134,
+    "code": "",
+    "type": "MulChoice",
+    "question": "In the simplified model of the way in which the human brain functions:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "All of the sensation and sensory information which enters the brain is processed by it.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "When making decisions, the brain uses information stored in the long term memory, but not the sensation and sensory memory.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Information processing is a continual process of receiving, sorting, deciding upon, filing or discarding data.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "A person can consider and make a conscious decision on several different matters at the same time",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 135,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The capacity of the short-term memory is:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "about 30 items",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "very limited - only one item",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "unlimited",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "about 7 items",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 136,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Working memory enables us, for example:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "to ignore messages for other aircraft",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "to store a large amount of visual information for about 0.5 seconds",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "to remember our own name",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "to remember a clearance long enough to write it down",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 137,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Long-term memory is an essential component of the pilot's knowledge and expertise.",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "Long-term memory stores knowledge on a temporary basis",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "The capacity of long-term memory is limited",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "The recovery of information from long-term memory is immediate and easy",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "It is desirable to pre-activate knowledge stored in long-term memory to have it available when required",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 138,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The main limitation of the long-term memory is:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "the quantity of data which may be stored",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "if enough information is entered at the same time, saturation may take place",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "unless information is accessed from time to time, retrieval of information can be difficult",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "the data storage time",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 139,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Concerning the capacity of the human long-term memory",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "it is structurally limited in terms of storage capacity, but unlimited in terms of storage time",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "it is structurally limited in terms of storage time but not in terms of capacity",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "its storage capacity is unlimited",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "its mode of storing information is passive, making memory searches effective",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 140,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Name the commonest problem of the Long Term Memory and how would you counteract it?",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "Unless an item is recalled regularly, it becomes more and more difficult to retrieve from the LTM store.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Recent events can become muddled in the LTM. Careful attention to detail associated with with \"memory bench marking\" will go a long way towards avoiding this tendency.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Facts can be stored in the episodic memory instead of the semantic memory. Careful attention in learning will counteract this error.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Any item can be recalled from the LTM with ease as long as it has been stored correctly.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 141,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Working memory:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "is unlimited in size",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "is sensitive to interruptions which may erase all or some of its contents",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "varies considerably in size between an expert pilot and a novice pilot",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "is unlimited in duration",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 142,
+    "code": "",
+    "type": "MulChoice",
+    "question": "A pilot accustomed to landing on a wide runway may find, when approaching to a narrow runway, that he/she is at a:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "lower than actual height with the tendency to overshoot",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "greater height than he actually is with the tendency to land short",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "lower height and the impression of landing slow",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "greater height and the impression of landing short",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 143,
+    "code": "",
+    "type": "MulChoice",
+    "question": "A pilot approaching a runway which is narrower than normal may feel he is at a greater height than he actually is. To compensate he may fly a",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "flatter than normal approach with the tendency to undershoot",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "higher than normal approach with the tendency to overshoot",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "compensatory glide path and stall out",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "compensatory glide path and land long",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 144,
+    "code": "",
+    "type": "MulChoice",
+    "question": "A shining light is fading out (i. e. when flying into fog, dust or haze). What kind of illusion could the pilot get?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "The source of light stands still",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "The source of light is approaching him with increasing speed",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "The source of light moves away from him",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "The light source will make the pilot believe, that he is climbing",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 145,
+    "code": "",
+    "type": "MulChoice",
+    "question": "A pilot is used to land on small and narrow runways only. Approaching a larger and wider runway can lead to:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "a flatter than normal approach with the risk of 'ducking under'",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "a steeper than normal approach dropping low",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "the risk to land short of the overrun",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "an early or high 'round out'",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 146,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which of the following statements is correct concerning flight in an environment of low contrast (fog, snow, darkness, haze)?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "It is impossible to detect objects.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "It is difficult to estimate the correct speed and size of approaching objects.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "It is unlikely that visual illusions occur.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "There is no problem to estimate the correct speed and size of approaching objects.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 147,
+    "code": "",
+    "type": "MulChoice",
+    "question": "A pilot approaching an upsloping runway.",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "is performing a steeper than normal approach, landing long",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "establishes a higher than normal approach speed",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "may feel that he is higher than actual. This illusion may cause him to land short.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "establishes a slower than normal approach speed with the risk of stalling out",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 148,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The area in front of a threshold descends towards the threshold. Possible danger is:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "approach is lower than normal and may result in a short landing",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "to drop far below the glide path",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "to misjudge the length of the runway",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "approach is higher than normal and may result in a long landing",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 149,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What illusion may occur if an aircraft is flying into fog, snow or haze?",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "Objects will appear bigger in size than in reality",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Objects will appear closer than they really are",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Objects seem to move slower than in reality",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Objects seem to be farther away than in reality",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 150,
+    "code": "",
+    "type": "MulChoice",
+    "question": "How is haze effecting your perception?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Objects will give better contrast.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Haze makes the eyes to focus at infinity",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Objects seem to be further away than in reality.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Objects seem to be closer than in reality.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 151,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The 'Black hole' phenomenon occurs during approaches at night and over water, jungle or desert. When the pilot is lacking visual cues other than those of the aerodrome there is an illusion of",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "being too close, landing long",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "climbing",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "being too high and too far away, dropping low and landing short",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "being too low, flying a steeper approach than normal",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 152,
+    "code": "",
+    "type": "MulChoice",
+    "question": "You fly VFR from your home base (runway width 45 m) to a small airfield (runway width 27 m). On reaching your destination there is a risk of performing a:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "high approach with undershoot",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "high approach with overshoot",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "low approach with overshoot",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "low approach with undershoot",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 153,
+    "code": "",
+    "type": "MulChoice",
+    "question": "You fly VFR from your home base (runway width 27 m), to an international airport (runway width 45 m). On reaching your destination there is a risk of performing a:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "high approach with overshoot",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "low approach with undershoot",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "low approach with overshoot",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "high approach with undershoot",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 154,
+    "code": "",
+    "type": "MulChoice",
+    "question": "On approach, by day, in snowy conditions, without reference to glideslope information:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "there is a risk of you underestimating your speed",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "estimation of height and distance is not a problem for a well-trained pilot",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "judgement of height is extremely difficult",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "there is a risk of you entering a spin",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 155,
+    "code": "",
+    "type": "MulChoice",
+    "question": "When the weather is foggy, on approach, a pilot may get a feeling of:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "the airfield being further away than actually is",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "aircraft altitude being lower than it actually is",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "his/her eyes focusing on infinity",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "his/her visual field shrinking (i.e. tunnel vision)",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 156,
+    "code": "",
+    "type": "MulChoice",
+    "question": "A pilot may get the illusion of low altitude on approach although the aircraft is on the correct glidepath:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "when the runway is unusually narrow",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "when the runway is wider than he is used to",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "depending on the approach speed of the aircraft",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "on night approaches only",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 157,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Among the factors which can cause illusions while taxiing are:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "visibility and distance",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "distance from the edge of the taxiway and taxi lighting",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "relative movement and cockpit height above the ground",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "distance from the edge of the taxiway and cockpit lighting",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 158,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The unique organisation of characteristics which determine the typical or standard behaviour of an individual is known as:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "heredity",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "development",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "learning",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "personality",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 159,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which of the following elements make up the personality of an individual? 1. Heredity; 2. Childhood environment; 3. Upbringing; 4. Past experience",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "2,3",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "1,2,2004",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "2,3,2004",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "1,2,3,4",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 160,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Contrary to a person's personality, attitudes:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "form part of personality and that, as a result, they cannot be changed in an adult",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "are non-evolutive adaptation procedures regardless of the result of the actions associated with them",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Are the product of personal disposition and past experience with reference to an object or a situation",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "are essentially driving forces behind changes in personality",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 161,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which of the following statements in regard to motivation is correct?",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "Too much motivation may result in hypovigilance and thus in a decrease in attention",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Low motivation will guarantee adequate attention management capabilities",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Motivation will reduce the task automation process",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Extremely high motivation in combination with excessive stress will limit attention management capabilities",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 162,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Attitudes are defined as:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "the conditions necessary for carrying out an activity",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "the genetic predispositions for thinking and acting",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "tendencies to respond to people, things or events in a particular manner",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "a synonym for behaviour",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 163,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which of the following are primary sources of motivation in day-to-day professional life?1. Being in control of one's own situation; 2. Fear of punishment; 3. Success (achievement of goals); 4. Social promotion, money",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "3,4",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "1,2,2003",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "2,4",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "1,2,3,4",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 164,
+    "code": "",
+    "type": "MulChoice",
+    "question": "An important aspect of Situational Awareness is:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "When the pilot perceives the situation both inside and outside the aircraft",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "When a pilot's perception equals reality",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "When a pilot is sure that the situation both inside and outside the aircraft is correct",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "When a pilot is aware of a situation",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 165,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The planning and anticipation of future actions and situations makes it possible to: 1: create a precise reference framework; 2: avoid saturation of the cognitive system; 3: automate planned actions; 4: activate knowledge which is considered necessary for the period to come. The correct statement(s) is (are):",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "1 and 2 are correct",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "1, 2 and 4 are correct",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "3 and 4 are correct",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "2 and 4 are correct",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 166,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Less experienced pilots differ from experienced pilots in the following way:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "task for task, an expert's workload is greater than a novice's one",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "experienced pilots are less routine-minded than young pilots because they know that routine causes mistakes",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "flight planning performance decreases with age, and experience is unable to mask this deficiency",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "inexperienced pilots refer to information more than experts when carrying out the same task",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 167,
+    "code": "",
+    "type": "MulChoice",
+    "question": "When Arousal is too High Performance is",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "High",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Unaffected",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Decreased",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Increased",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 168,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What kind of authority gradient is most appropriate for two-pilot operations?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "Steep",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Shallow",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Moderate",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "None",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 169,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Human behaviour is determined by:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "biological characteristics",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "the social environment",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "biological characteristics, social environment and cultural influences",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "cultural influences",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 170,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Whilst flying a coordinated turn, most of your activity is",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "coping behaviour",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "knowledge based behaviour",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "skill based behaviour",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "rule based behaviour",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 171,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The choice of the moment you select flaps depending on situation and conditions of the landing is:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "knowledge based behaviour",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "skill and/or rule based behaviour",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "automated behaviour",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "pressure based behaviour",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 172,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What are two types of attention?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Intuitive and behavioural",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Divided and behavioural",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Selective and divided",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Cognitive and intuitive",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 173,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which behaviour is most likely to promote a constructive solution of interpersonal conflicts?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "Responding with counter-arguments.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Active listening.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Giving up the own point of view.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Staying to the own point of view.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 174,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which of the following elements make up the personality of an individual ?\n1. Heredity\n2. Childhood environment\n3. Upbringing\n4. Past experience",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "2,3",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "1,2,4",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "2,3,4",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "1,2,3,4",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 175,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which of the following answers is correct?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Personality is the outward result of behaviour and attitude and is adaptable.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Behaviour is the outward result of personality and attitude and is not adaptable.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Behaviour is the outward result of personality and attitude and is adaptable.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Personality is the outward result of behaviour and attitude and is not adaptable.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 176,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Alcohol, even when taken in minor quantities",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "can make the brain cells to be more susceptible to hypoxia",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "may improve the mental functions, so that the symptoms of hypoxia are much better to be identified",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "will have no effect at all",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "will stimulate the brain, making the pilot resistant to hypoxia",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 177,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The metabolisation of alcohol",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "is quicker when accustomed to drink it",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "can be accelerated even more by coffee",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "is a question of time",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "can be influenced by easily obtained medication",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 178,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Concerning the effects of drugs and pilot's performance",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "the primary and the side effects have to be considered",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "only the primary effect has to be considered; side effects are negligible",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "medication has no influence on pilot's performance",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "the side effects only have to be considered",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 179,
+    "code": "",
+    "type": "MulChoice",
+    "question": "When drugs against sleep disorders and/or nervosity have been taken and the pilot intends to fly, attention has to be paid to",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "the effect they have on hearing",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "the effect they have on reaction time and perceptional awareness",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "schedule only those pilots, who show no reactions to these medications",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "the fact that there is no difference in the quality of sleep produced under the influence of those drugs compared to normal drug-free sleep",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 180,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Pilots should not take antihistamines because they may cause: 1. Drowsiness and dizziness; 2. Hypoglycaemia; 3. Hyperventilation; 4. Flatulence. Which of the following lists all the correct answers?",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "2, 3 and 4",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "3 and 4",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "1 and 3",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "only 1",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 181,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The consumption of medicines or other substances may have consequences on qualification to fly for the following reasons: 1. The disease requiring a treatment may be cause for disqualification; 2. Flight conditions may modify the reactions of the body to a treatment; 3. Drugs may cause adverse side effects impairing flight safety; 4. The effects of medicine do not necessarily immediately disappear when the treatment is stopped.",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "3 and 4 are false, 1 and 2 are correct.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "1, 2 and 3 are correct, 4 is false",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Only 2 is false.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "1, 2, 3 and 4 are correct",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 182,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Cigarette smoking has particular significance to the flyer, because there are long-term and short-term harmful effects. From cigarette smoking the pilot can get:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "a mild carbon monoxide poisoning decreasing the pilot's tolerance to hypoxia",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "a suppressed desire to eat and drink",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "a mild carbon monoxide poisoning increasing the pilot's tolerance to hypoxia",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "a mild carbon dioxide poisoning increasing the pilot's tolerance to hypoxia",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 183,
+    "code": "",
+    "type": "MulChoice",
+    "question": "A pilot who smokes will loose some of his capacity to transport oxygen combined with hemoglobin. Which percentage of his total oxygen transportation capacity would he give away when he smokes one pack of cigarettes a day?",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "5 - 8%",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "20 - 25%",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "12 - 18%",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "0.5 - 2%",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 184,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Flying at pressure altitude of 10 000 ft, a pilot, being a moderate to heavy smoker, has an oxygen content in the blood equal to an altitude",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "above 10 000 FT",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "of 15000 FT when breathing 100% oxygen",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "lower than 10 000 FT",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "of 10 000 FT",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 185,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Alcohol, when taken simultaneously with drugs, may",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "intensify the effects of the drugs",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "increase the rate of alcohol elimination from the blood",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "show undesired effects only during night flights",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "compensate for side effects of drugs",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 186,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Alcohol metabolism (elimination rate)",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "depends on wether you get some sleep in between drinks",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "is approx. 0.3% per hour",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "definitely depends on the amount and composition of food which has been eaten",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "is approx. 0.015% per hour and cannot be expedited",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 187,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Carbon monoxide, a product of incomplete combustion, is toxic because",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "it prevents the excretion of catabolites in the kidneys",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "it prevents the absorption of food from the digestive tract",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "it disturbs gaseous diffusion at the alveoli capillary membrane",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "it competes with oxygen in its union with haemoglobin",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 188,
+    "code": "",
+    "type": "MulChoice",
+    "question": "One of the substances present in the smoke of cigarettes can make it significantly more difficult for the red blood cells to transport oxygen and as a consequence contributes to hypoxia. Which substance are we referring to?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Carbonic anhydride",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Tar",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Carbon monoxide",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Carbon dioxide",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 189,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The carcinogen (a substance with the ability to produce modifications in cells which develop a cancer) in cigarettes is:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "nicotine",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "tar",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "lead",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "carbon monoxide",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 190,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which of the following applies when alcohol has been consumed?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Drinking coffee at the same time will increase the elimination rate of alcohol",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Small amounts of alcohol increase visual performance",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Even after the consumption of small amounts of alcohol, normal cautionary attitudes may be lost",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Acute effects of alcohol cease immediately when 100% oxygen is taken",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 191,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The main reason why it is inadvisable to fly when suffering from a cold is that:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "swollen tissue in the inner ear will prevent the air from ventilating through the tympanic membrane",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "gentle descents at high altitude can result in damage to the ear drum",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "swollen tissue in the Eustachian tube will cause permanent hearing loss",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "pain and damage to the eardrum can result, particularly during fast descents",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 192,
+    "code": "",
+    "type": "MulChoice",
+    "question": "It won’t happen to me is an example of which hazardous attitude?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "Macho",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Invulnerability",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Anti-Authority",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Impulsivity",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 193,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The Antidote to the hazardous attitude resignation is?",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "I am not helpless, I can do it.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "What’s the use",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Doing something Quickly",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Taking chances is foolish.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 194,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What can be said concerning the following two statements? 1. Euphoria can be a symptom of hypoxia; 2. Someone in an euphoric condition is more prone to error.",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "1 is false, 2 is correct",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "1 is correct, 2 is false",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "1 and 2 are both false",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "1 and 2 are both correct",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 195,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Cognitive and physical rehearsal of actions during training:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "is most important for the acquisition of complex perceptual motor skills",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "is more effective than practical training",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "leads to an increased error rate",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "is most important for self-control",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 196,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which of the following statements are correct: 1: Scuba diving may be practiced without restriction; 2: Many medicines have effects which are incompatible with flight safety; 3: An adequate amount of fluid should be drunk when flying; 4: Alcohol has no effect on the inner ear.",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "1, 2 and 3 are correct",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "2, 3 and 4 are correct",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "2 and 3 are correct",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "1, 3 and 4 are correct",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 197,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Motivation is a quality which is often considered vital in the pilot's work to maintain safety.",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "a) Motivation reduces the intensity of sensory illusions",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "b) A high degree of motivation makes it possible to make up for insufficient knowledge in complete safety",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "c) However, excessive motivation leads to stress which adversely affects performance",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "d) A high degree of motivation lowers the level of vigilance",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 198,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Using a checklist prior start is a contribution to:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "workload, because using checklists will increase the pilot's workload prior take-off",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "stress, because time pressure prior take-off is always present",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "frustration",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "safety, because the concentration on the check list items will draw the pilot's attention to flight related tasks, reducing distraction from personal stress",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 199,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Flights immediately after SCUBA-diving, using compressed gas, to depths greater than 10 metres:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "are to be avoided because of the possibility of decompression sickness",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "should be avoided because hypoxia may develop",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "are allowed if you fly no higher than 38000 FT",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "can be performed without any danger",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 200,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Flying immediately following a dive with SCUBA diving equipment to a depth greater than 10 metres is not advisable because:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "has no influence on altitude flights",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "prevents any dangers caused by DCS (decompression sickness) when climbing to altitudes not exceeding 30 000 FT",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "will always lead to hypoxia",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "can cause decompression sickness even when flying at pressure altitudes below 18 000 FT",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 201,
+    "code": "",
+    "type": "MulChoice",
+    "question": "With regard to decompression sickness associated with flight, we know that:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "age, obesity and scuba diving are risk factors",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "physical activity after decompression reduces the risks of decompression sickness symptoms",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "gender is the prime risk factor, with two out of every three women being sensitive to it",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "scuba diving does not pose any problem for a subsequent flight",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 202,
+    "code": "",
+    "type": "MulChoice",
+    "question": "After SCUBA diving (more than 30 feet of depth) you have to wait a period of time before flying again. This period is at least:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "a) 12 hours",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "b) 6 hours",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "c) 48 hours",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "d) 24 hours",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 203,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Flights immediately after SCUBA-diving, using compressed gas, to depths greater than 10 metres:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "are to be avoided because of the possibility of decompression sickness",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "should be avoided because hypoxia may develop",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "are allowed if you fly no higher than 38000 FT",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "can be performed without any danger",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 204,
+    "code": "",
+    "type": "MulChoice",
+    "question": "You Are The Pilot For A Group Of Divers Who Are Travelling Away For A Weekend. For The Return Trip You:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "Decide it is safe to return without delay since you, the pilot, have not been diving during the preceding weekend",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Decide that only the people who have been snorkeling need to delay before flying and the scuba divers will be all right to fly if you stay below 4000 feet",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Decide to delay the flight by 12 hours for the snorkeling group and 24 hours for the scuba diving group",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Decide that the best option is to delay the scuba divers for at least 24 hours. However the people who only been snorkeling need not delay",
+        "explanation": ""
+      }
+    ]
+  }
+]

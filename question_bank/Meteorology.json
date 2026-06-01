@@ -1,0 +1,6000 @@
+[
+  {
+    "bankName": "Meteorology"
+  },
+  {
+    "id": 1,
+    "code": "",
+    "type": "MulChoice",
+    "question": "If a strong northerly wind is blowing across a range of hills lying east-west you would expect to find the most turbulent flying conditions:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "Immediately south of the range.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Immediately north of the range.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Immediately above the ridge.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Only where marked temperature changes occur.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The lifting of radiation fog may be caused by:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "An increase in wind strength.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "An increase in relative humidity.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "A decrease in temperature.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "The formation of upper cloud.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "code": "",
+    "type": "MulChoice",
+    "question": "From the following cloud types, the one from which heavy rain would most likely be falling and reaching the ground is:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "Stratocumulus.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Nimbostratus.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Cirrostratus.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Cirrocumulus.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Isobars are lines drawn on a weather map joining places:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "Where the wind direction is the same.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Of equal barometric pressure.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Where wind speed is the same.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Of equal temperature.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "code": "",
+    "type": "MulChoice",
+    "question": "As a vigorous cold front passes there is usually:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "An increase in the temperature and considerable change in wind direction.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "A decrease in temperature and a considerable change in wind direction.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "An increase in temperature but no change in wind direction.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "A decrease in temperature but no change in wind direction.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The belt of bad weather associated with a pronounced warm front is:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Accompanied by thunderstorms, heavy showers and severe turbulence.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Accompanied by towering cu and cb's with considerable rain and hail.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Widespread, with considerable low cloud and rain.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Accompanied by high winds, extensive rain and warm temperatures.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "code": "",
+    "type": "MulChoice",
+    "question": "You are on approach to land at an airfield where substantial windshear has been reported on final. Your response to this would be to:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "Maintain approach speed and increase power.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Increase approach speed using power to maintain profile.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Continue with a normal approach.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Reduce approach speed and increase power.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "code": "",
+    "type": "MulChoice",
+    "question": "On a clear hot summer afternoon near to the sea, you would expect:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "The air over the sea to rise due to reflective heating and cause a breeze to blow from the land towards the sea.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "The land to heat up more than the water and cause air to flow from the land to the sea.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "The air over the sea to heat up and move in under the cold air over the land.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "The air over the land to heat up more quickly than the air over the sea; to rise and allow cold air to flow in from over the sea.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which of the following statements regarding pressure systems is correct for the Southern Hemisphere?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "An anticyclone is a weather system with the lowest pressure at the centre; the winds blow anti-clockwise around the system.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "A depression is a weather system with the lowest pressure at the centre; the winds blow clockwise around the system.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "A depression is a weather system with the highest pressure at the centre; the winds blow clockwise around the system.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "An anticyclone is a weather system with the highest pressure at the centre; the winds blow clockwise around the system.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "code": "",
+    "type": "MulChoice",
+    "question": "When air is heated it:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "Contracts, rises and then warms.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Expands, sinks and then cools.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Contracts, sinks and then warms.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Expands, rises and then cools.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "code": "",
+    "type": "MulChoice",
+    "question": "A general indication of the likelihood of the formation of fog can best be gained by checking the:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Windspeed.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Cloud cover.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Relationship between the ambient temperature and dew-point.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Relationship between the environmental temperature lapse rate and relative humidity.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Radiation fog usually reaches a maximum intensity shortly after:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Midday.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Sunset.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Sunrise.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Midnight.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Your track during a cross-country flight takes you past a mountain range on the lee side and below the height of some ridges. When you are advised that rotor streaming has been reported in the area, you consider this to be:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "Not serious because the phenomenon is short-lived and can easily be outclimbed if necessary.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Very serious at levels higher than the mountain ridges, but below ridge height there will be light turbulence and little wind.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Not serious because the effect will be felt only on the windward side where strong gusts and turbulence will be experienced.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Very serious because downdraughts will be very strong and turbulence can be severe.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "code": "",
+    "type": "MulChoice",
+    "question": "A condition where the air temperature at a given height is warmer than that at a lower level is referred to as:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "An inversion and is an indication of unstable weather.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "An inversion and you would expect smooth flying conditions immediately above the inversion.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "A reverse temperature condition and you would expect very good flight visibility below the temperature reversal.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "An inversion, and you would expect very good flight visibility below the inversion.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "code": "",
+    "type": "MulChoice",
+    "question": "It is not advisable to land a light aeroplane during a thunderstorm, even though the cloud base is relatively high and rain showers are light, because of the possibility of:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "Changeable wind conditions and the possibility of up or downdraughts.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Poor visibility in the showers and a risk of airframe icing.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Loss of radio communication due to heavy atmospheric static.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Loss of braking action on a wet runway.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "code": "",
+    "type": "MulChoice",
+    "question": "In practice the approximate value used in the International Standard Atmosphere (ISA) for temperature lapse rate is:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "1.5°C.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "2.0°C.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "3.0°C.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "3.5°C.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Orographic effect could be defined as a:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "Katabatic wind.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Geostrophic wind.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Coriolis effect on the pressure system.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Airmass uplift due to terrain.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "code": "",
+    "type": "MulChoice",
+    "question": "A Fohn wind is:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "Cool and wet.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Dry and warm.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Wet and warm.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Caused by lenticular cloud.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Hoar frost is most likely to form on an aeroplane:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "On a calm, cloudy night.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Where the air temperature is just above freezing point.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Only in conditions of freezing rain.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "On a calm clear night.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The composition of the atmosphere is:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "21% Nitrogen 78% Oxygen 1% Other Gasses",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "1% Nitrogen 78% Oxygen 21% Other Gasses",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "45% Nitrogen 45% Oxygen  10% Other Gasses",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "78% nitrogen 21% Oxygen 1% Other Gasses",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The Tropopause will be coldest over the:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "Poles",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Equator",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "It is the same temperature at every point of the tropopause",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "56,000ft",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "code": "",
+    "type": "MulChoice",
+    "question": "In the International Standard Atmosphere (ISA) the pressure lapse rate is?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "3hPa per 100ft",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "1hPa per 300ft",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "1hPa per 30ft",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "2hPa per 1000ft",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "code": "",
+    "type": "MulChoice",
+    "question": "If the pressure gradient is High we would have?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "Light Wind",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Strong Wind",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "No Wind",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "15kts of wind",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which surface has the greatest diurnal variation of surface air temperature?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Ocean",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Grass",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Desert",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Cloud Cover",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The process by which ice turns to water vapor is called?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Melting",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Evaporating",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Sublimation",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Deposition",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "code": "",
+    "type": "MulChoice",
+    "question": "A 25kt windsock at an angle of 45 degrees from the vertical is showing a wind speed of approximately?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "8kts",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "15kts",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "18kts",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "22kts",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "code": "",
+    "type": "MulChoice",
+    "question": "If you stand with your back to the wind in the southern hemisphere the area of low pressure is?",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "In front of you",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Behind you",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Left",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Right",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "code": "",
+    "type": "MulChoice",
+    "question": "If you have an ELR of 4 degrees per 1000ft the air is said to be?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Stable",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Conditionally Stable",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Absolutely Unstable",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Absolutely Stable",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The DALR and SALR have lapse rates of?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "1.5˚ per 1000ft and 3˚ per 1000ft",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "3˚ per 1000ft and 1.5˚ per 1000ft",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "2˚ per 1000ft and 1.5˚ per 1000ft",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "4˚ per 1000ft and 2.5˚ per 1000ft",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "code": "",
+    "type": "MulChoice",
+    "question": "A sea breeze normally starts, peaks and ends at what times?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "10pm, 3am and sunrise",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Sunrise, 12pm, sunset",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "10am, 3pm, Sunset",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Morning, afternoon, evening",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "code": "",
+    "type": "MulChoice",
+    "question": "An Isothermal is where?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "Increase in temperature with a gain in height",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Constant temperature with a gain in height",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Where the temperature reaches -56.5˚C",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Temperature reaches 0˚C",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The weather associated below an inversion",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "Poor visibility, turbulent.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Good Visibility and smooth.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Poor visibility and Smooth.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Good Visibility and Turbulent.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which of the following is false?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "Heavy rain can reduce visibility to less than 500m",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Fog has visibility of not less than 1000m",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Haze reduces visibility to less than 5000m but not less than 1000m",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Mist has a visibility of between 1000m and 5000m",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Advection fog is caused by?",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "Sufficiently moist air being moved over an already cooled surface",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Dew on the surface being warmed and evaporated with a light wind blowing",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Surface air is cooled to the dew point and light mixing from a light wind",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Steam off rivers",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "code": "",
+    "type": "MulChoice",
+    "question": "This symbol means:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "Warm Front",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Occluded front",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Stationary front",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Cold front",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What happens to the pressure before, at and after a cold front?",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "Fall, arrest or fall, rise",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Fall, Fall arrested, Steady or slight rise",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Fall, Steady, Rise",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Fall, Slight Rise, Steady",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The following diagram represents what?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "Stationary Front",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Cold Occlusion",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Warm Occlusion",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Stationary Occlusion",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The most dangerous stage of a thunderstorm when flying below the base of the Cb is?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Growing stage",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Mature Stage",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Decaying Stage",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Orographic stage",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Clear Ice is most likely to occur between?",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "25˚C and -10˚C",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "0˚F and -15˚F",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "-15˚C and -40˚C",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "0˚C and -15˚C",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "code": "",
+    "type": "MulChoice",
+    "question": "As altitude increases, the weight of the atmosphere above you will:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "Decrease",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Remain the same",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "increase",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "increase with 1.5 kg/m2 per 1000 ft",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Using the Metar Below what is the current cloud present?\nMETAR 080400Z AUTO 15012KT 130V200 45KM BKN041/// BKN110/// 18/13 \n         Q1014",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "Broken 410ft, Broken 1100ft",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Broken 4100ft, Broken 1100ft",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Broken 4100ft Broken FL110",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Broken 4100ft Broken 11,000ft",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "code": "",
+    "type": "MulChoice",
+    "question": "In an ARFOR the cloud base is given in",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Above aerodrome Level",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Above Ground Level",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Above Mean Sea Level",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Above Highest point within 25NM",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The height of the tropopause at the equator and the poles:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "1000 feet & 10,000 feet",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "90,000 feet & 45,000 feet",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "60,000 feet & 30,000 feet",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "30,000 feet & 60,000 feet",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "code": "",
+    "type": "MulChoice",
+    "question": "In the southern hemisphere which way  does the wind rotate around an anti-cyclone and depression:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "Clockwise & clockwise",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Clockwise & anti-clockwise",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Anti-clockwise & anti-clockwise",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Anti-clockwise & clockwise",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Does pressure increase or decrease towards the centre of a low and high:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "Increase & increase",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Increase & decrease",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Decrease & decrease",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Decrease & increase",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "code": "",
+    "type": "MulChoice",
+    "question": "ISA assumes the sea level pressure, air temperature at sea level and temperature lapse rate to be:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "1013 hPa , 16°C, 2°/1000 feet",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "1013.2 hPa, 15° C, 1.98°/1000 feet",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "1015 hPa, 15°C, 1.58°/1000 feet",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "1015.2 hPa, 15°C, 2.98°/1000 feet",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Temperature variation during 24 hours is least over:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "Sea",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Grass",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Mountain",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Forest",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What is the process from water vapor to ice & is latent heat released or required:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "Deposition, Released",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Evaporation, Released",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Melting, Required",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Sublimation, Required",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What happens to relative humidity and dew point when vapor content increases:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "RH increases, Dew point increases",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "RH decreases, Dew point decreases",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "RH decreases, Dew point remains the same",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "RH increases, Dew point remains the same",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "code": "",
+    "type": "MulChoice",
+    "question": "When wind changes from 270°M to 200°M it is said to be:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "Backing",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Veering",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Decreasing",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Increasing",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "code": "",
+    "type": "MulChoice",
+    "question": "With a 75° angle of a 25kt wind sock, what is the approximate wind strength",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "15kt",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "17kt",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "22kt",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "25kt",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "code": "",
+    "type": "MulChoice",
+    "question": "When there is high level convergence and low level divergence, the pressure system is said to be a:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "Low",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "High",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Cold front",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Warm front",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Wind is caused by",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "the rotation of the earth",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "horizontal pressure differences",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "friction between the air and the ground",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "the movements of fronts",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "code": "",
+    "type": "MulChoice",
+    "question": "With an increase in height or altitude what is the most likely type of wind shear:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "Vertical windshear",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Horizontal windshear",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Both",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "None of the above",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Clouds, fog or dew will always be formed when:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "relative humidity reaches 98%",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "water vapour is present.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "water vapour condenses",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "temperature and dew point are nearly equal",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "code": "",
+    "type": "MulChoice",
+    "question": "If the DALR steeper than the ELR, it is considered to be:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "Stable",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Unstable",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Likely produce fog",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "None of the above",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "code": "",
+    "type": "MulChoice",
+    "question": "A gust is",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "A rapid increase in wind speed",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "A change in wind speed",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "A momentary increase in wind speed",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "A change of wind speed lasting for several minutes",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The most common times for katabatic winds and an anabatic winds occurs",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "Sunrise, sunset",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Sunset, sunrise",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "When it’s raining, during fog",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Midday, midnight",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What type of inversion occurs due to the subsiding motion of air in an anticyclone",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "Frontal inversion",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Turbulence inversion",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Radiation inversion",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Subsidence",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "code": "",
+    "type": "MulChoice",
+    "question": "During which water vapour changes to liquid what is required",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "Temperature is equal to or below the dew point",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Temperature is equal to or below the dew point and condensation nuclei is present",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Super saturation must occur",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Super saturation must occur and condensation nuclei is present",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What is the phenomenon called when rain evaporates before reaching the ground",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "Evaporation",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Virga",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Vertigo",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Precipitation",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "code": "",
+    "type": "MulChoice",
+    "question": "How many oktas is in few cloud",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "43862",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "43924",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "43892",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "0-1",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Advection fog occurs over",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "Land",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Sea",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Mountains",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Built up areas",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What happens to pressure before at and after a cold front",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Rise, no change, rise",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Fall, rise, fall",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Fall, arrest of fall, rise",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Fall, fall, fall",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What type of cloud is a thunder storm",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "Cumulonimbus",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Alto cumulus",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Stratocumulus",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Nimbostratus",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "code": "",
+    "type": "MulChoice",
+    "question": "A super-cooled droplet is one that",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "is at an above freezing temperature in below freezing air",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "has frozen to become an ice pellet",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "has a shell of ice with water inside it",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "remains liquid at a below freezing temperature",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "code": "",
+    "type": "MulChoice",
+    "question": "When a rain shower approaches and passes an airfield, the following will happen:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "The temperature drops and dew point rises",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "The temperature remains unchanged and dew point drops",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "The temperature rises and dew point remains unchanged",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "The temperature rises and dew point drops",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "code": "",
+    "type": "MulChoice",
+    "question": "How long is a METAR valid for",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "1 hour",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "4 hours",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "12 hours",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Does not have a validity period",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "code": "",
+    "type": "MulChoice",
+    "question": "How do air masses move at a warm front?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "Cold air overrides a warm air mass",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Warm air overrides a cold air mass",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Cold air undercuts a warm air mass",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Warm air undercuts a cold air mass",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The most severe airframe icing encountered in a mature thunderstorm usually occurs in the:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "Precipitation beneath the cloud.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Feathered anvil top.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Area just below the freezing level.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Area just above the freezing level.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "code": "",
+    "type": "MulChoice",
+    "question": "An airmass can be described as a large block of air in which:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "Temperature and dew point are uniform through a deep layer.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Temperature and pressure are uniform in the horizontal plane.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Moisture content and pressure are uniform in the horizontal plane.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Temperature and moisture content are uniform in the horizontal plane.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The formation of high and low pressure areas is normally caused by:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "Temperature differences",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Humidity",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Mechanical turbulence",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Storms",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Diurnal Variation Of Surface Wind (In southern Hemisphere) Involves:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "increase in strength and veering after sunrise",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "decrease in strength and veering after sunset",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "less variation over land than over oceans",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "more variation on a cloud day compared to a fine day",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "code": "",
+    "type": "MulChoice",
+    "question": "While flying at FL 120, you notice an OAT of -2°C. At which altitude do you expect the freezing level to be?",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "FL110",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "FL130",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "FL150",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "FL90",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The troposphere is the",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "part of the atmosphere above the stratosphere",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "part of the atmosphere below the tropopause",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "boundary between the mesosphere and thermosphere",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "boundary between the stratosphere and the mesosphere",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The wind at 1200 ft agl is 30 kt and at 1000 ft agl it is 10 kt. As an aircraft descends through the affected layer it will experience:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Horizontal wind shear, airspeed and rate of descent will reduce and the angle of descent will steepen",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Vertical wind shear, airspeed will reduce but rate of descent and angle of descent are not affected",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Vertical wind shear, airspeed will reduce, rate of descent will increase and angle of descent will steepen",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Horizontal wind shear, airspeed will reduce, rate of descent will increase and angle of descent will steepen",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which one of the following statements applies to the tropopause?",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "It separates the troposphere from the stratosphere",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "It is, by definition, a temperature inversion",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "It indicates a strong temperature lapse rate",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "It is, by definition, an isothermal layer",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The tropopause is a level at which",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "water vapour content is greatest",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "pressure remains constant",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "temperature ceases to fall with increasing height",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "vertical currents are strongest",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The troposphere",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "contains all oxygen of the stratosphere",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "is the separation layer between the stratosphere and atmosphere",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "has a greater vertical extent above the equator than above the poles",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "reaches the same height at all latitudes",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which of the following is a common cause of ground or surface temperature inversion ?",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "Terrestrial radiation on a clear night with no or very light winds.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Heating of the air by subsidence",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "The movement of colder air under warm air, or the movement of warm air over cold air.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Warm air being lifted rapidly aloft, in the vicinity of mountainous terrain.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What characteristic is associated with a temperature inversion?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "Instability",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Stability",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Area of active storms",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Clear ice",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "code": "",
+    "type": "MulChoice",
+    "question": "An inversion is a layer of air which is:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "absolutely unstable",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "absolutely stable",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "conditionally stable",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "conditionally unstable",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The dry adiabatic lapse rate",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "is greater during the night than during the day",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "is greater in summer than in winter",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "has a variable value",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "has a constant fixed value",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "code": "",
+    "type": "MulChoice",
+    "question": "An air mass is called stable when",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "the temperature in a given air mass decreases rapidly with height",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "the pressure in a given area is constant",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "the vertical motion of rising air tends to become weaker and disappears",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "the environmental lapse rate is high, with little vertical motion of air currents",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The radiation of the sun heats",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "the surface of the earth, which heats the air in the troposphere",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "the air in the troposphere only directly if no clouds are present",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "the water vapour in the air of the troposphere",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "the air in the troposphere directly",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "code": "",
+    "type": "MulChoice",
+    "question": "he diurnal variation in temperature is largest when",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "the sky is clear and the wind is strong",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "the sky is overcast and the wind is weak",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "the sky is clear and the wind is weak",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "the sky is overcast and the wind is strong",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "code": "",
+    "type": "MulChoice",
+    "question": "When in the upper part of a layer and warm air is advected in, the:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "stability decreases in the layer",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "wind will back with increasing height in the northern hemisphere",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "stability increases in the layer",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "wind speed will always decrease with increasing height in the northern hemisphere",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "code": "",
+    "type": "MulChoice",
+    "question": "An inversion is",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "an increase of temperature with height",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "a decrease of temperature with height",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "a decrease of pressure with height",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "an increase of pressure with height",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "code": "",
+    "type": "MulChoice",
+    "question": "In still air the temperature decreases at an average of 1.2°C per 100 m increase in altitude. This temperature change is called:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "saturated adiabatic lapse rate",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "environmental lapse rate",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "normal lapse rate",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "dry adiabatic lapse rate",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Convective weather phenomena include",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "thunderstorms, tornadoes, hail, haze, wind gusts, advection fog",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "heavy showers, lightning strikes, hail, mist, squalls, light rain over a large area",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "thunderstorms, hail, tornadoes, wind gusts, heavy showers, lightning strikes",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "hail, lightning strikes, wind lulls, squalls, stratocumulus, low level wind maximum",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The stability in a layer increases by advection of",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "cold air in the lower part",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "moist air in the lower part",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "dry air in the upper part",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "warm air in the lower part",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Absolute instability in the atmosphere will occur when the environmental lapse rate is",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "less than saturated adiabatic lapse rate",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "greater than both saturated adiabatic lapse rate and dry adiabatic lapse rate",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "greater than saturated adiabatic lapse rate but less than dry adiabatic lapse rate",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "less than both saturated adiabatic lapse rate and dry adiabatic lapse rate",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "code": "",
+    "type": "MulChoice",
+    "question": "In the lower levels of the atmosphere when the environmental lapse rate is greater than saturated adiabatic lapse rate but less than dry adiabatic lapse rate - the air mass is described as being:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "stable",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "conditionally unstable",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "absolutely unstable",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "unstable",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Surface-based temperature inversions are common during",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "cloud-free nights in winter when the ground is dry",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "cloudy days in winter when the ground is wet",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "cloudy days in summer when the ground is wet",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "cloud-free days in summer when the ground is dry",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Surface temperature inversions are frequently generated by",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "terrestrial radiation on a calm clear night",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "compression causing the release of latent heat in a layer of stratiform cloud",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "gusting winds increasing surface friction during the day with consequent mixing at the lower levels",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "an unstable air mass causing convection currents and mixing of the atmosphere at lower levels",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "code": "",
+    "type": "MulChoice",
+    "question": "How does temperature vary with increasing altitude in the ICAO standard atmosphere below the tropopause?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "Increases",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Decreases",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Remains constant",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "At first it increases and higher up it decreases",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "code": "",
+    "type": "MulChoice",
+    "question": "If you are flying at FL 100 in an air mass that is 10°C warmer than a standard atmosphere, what is the outside temperature likely to be?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "#ERROR!",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "-10°C",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "#ERROR!",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "-15°C",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The temperature lapse rate of the standard atmosphere in the troposphere is:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "-6,5°C/1000 FT",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "-3°C/1000 FT",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "-2,5°C/1000 FT",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "-1.98°C/1000 FT",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which weather condition lowers true altitude as compared to pressure altitude to a position where flight over mountains could be dangerous?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "Warm depression",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Cold low",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Warm high",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Cold high",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "code": "",
+    "type": "MulChoice",
+    "question": "When the subscale is set to the QNH of an airfield the pressure altimeter indicates",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "elevation while landing",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "zero while landing only if conditions are as in the ICAO Standard Atmosphere",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "elevation while landing only if conditions are as in the ICAO Standard Atmosphere",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "zero while landing",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What values are used for the forecasted wind at higher levels?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "Direction relative to magnetic north and speed in knots",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Direction relative to true north and speed in knots",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Direction relative to grid north and speed in km/h",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Direction relative to magnetic north and speed in km/h",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What characteristics will the surface winds have in an area where the isobars on the weather map are very close together?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "Very weak but gusty and flowing across the isobars.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Strong and flowing across the isobars.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Moderate and flowing parallel to the isobars.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Strong and flowing parallel to the isobars.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The greater the pressure gradient the",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "further the isobars will be apart and the weaker the wind",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "closer the isobars and the lower the temperatures",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "closer the isobars and the stronger the wind",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "further the isobars will be apart and the higher the temperatur",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Geostrophic wind is the wind when isobars are:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "curved lines and no friction is involved",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "straight lines and friction is involved",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "straight lines and no friction is involved",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "curved lines and friction is involved",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Divergence in the upper air results, near the surface, in:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "rising pressure and likely formation of clouds",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "rising pressure and likely dissipation of clouds",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "falling pressure and likely formation of clouds",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "falling pressure and likely dissipation of clouds",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The geostrophic wind speed is directly proportional to the",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "sine of latitude",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "curvature of isobars",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "density of the air",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "horizontal pressure gradient",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Geostrophic wind",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "is directly proportional to the density of the air",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "always increases with increasing height",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "is perpendicular to the horizontal pressure gradient force",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "veers with height if cold air is advected in the northern hemisphere",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "code": "",
+    "type": "MulChoice",
+    "question": "On a clear summer day, turbulence caused by solar heating is most pronounced:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "immediately after sunset",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "during early morning hours before sunrise",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "during the early afternoon",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "about midmorning",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "code": "",
+    "type": "MulChoice",
+    "question": "In the northern hemisphere a pilot flying at 1000 FT/AGL directly towards the centre of a low pressure area, will find the wind blowing from",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "about 45 degrees to the right of directly ahead",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "right and behind",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "directly ahead",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "left and behind",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "code": "",
+    "type": "MulChoice",
+    "question": "In the northern hemisphere the wind at the surface blows",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "from a low pressure area to a high pressure area",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "clockwise around, and away from the centre of, a low pressure area",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "counter-clockwise around, and toward the centre of, a low pressure area",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "counter-clockwise around, and away from the centre of, a high pressure area.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "code": "",
+    "type": "MulChoice",
+    "question": "During a descent from 2000 FT above the surface to the surface (no frontal passage, northern hemisphere), the wind normally",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "backs and decreases",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "veers and decreases",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "backs and increases",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "veers and increases",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The vertical extent of the friction layer depends primarily on",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "roughness of surface, temperature, local time",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "wind speed, roughness of surface, temperature",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "temperature, local time, environmental lapse rate",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "stability, wind speed, roughness of surface",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "code": "",
+    "type": "MulChoice",
+    "question": "During periods of prolonged clear skies associated with anticyclonic conditions, the:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "surface wind speed tends to be highest at night",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "angle between isobars and surface wind direction tends to be greatest in the early afternoon",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "surface wind speed tends to be highest during the early afternoon",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "wind tends to back from early morning until early afternoon",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "code": "",
+    "type": "MulChoice",
+    "question": "During periods of undisturbed radiation weather, overland, the",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "surface wind speed tends to be highest at night",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "angle between isobars and surface wind direction tends to be greatest in the mid afternoon",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "surface wind speed tends to be highest during the mid afternoon",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "wind tends to back from early morning until early afternoon",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "code": "",
+    "type": "MulChoice",
+    "question": "In the northern hemisphere with an anticyclonic pressure system the geostrophic wind at 2000 FT over the sea is 060/15. At the same position the surface wind is most likely to be",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "045/12",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "075/12",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "060/18",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "060/12",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "code": "",
+    "type": "MulChoice",
+    "question": "When compared to the geostrophic wind in the northern hemisphere, surface friction will cause the surface wind to",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "veer and decrease",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "back and increase",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "veer and increase",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "back and decrease",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "code": "",
+    "type": "MulChoice",
+    "question": "In a land- and sea-breeze circulation the land-breeze blows:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "during the day and is stronger than the sea-breeze.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "during the night and is weaker than the sea-breeze.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "during the night and is stronger than the sea-breeze.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "during the day and is weaker than the sea-breeze.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which of the following is true of a land breeze?",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "It blows by day",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "It blows from water to land",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "It blows only at noon",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "It blows from land to water",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What does dewpoint mean?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "The temperature at which ice melts.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "The freezing level (danger of icing).",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "The temperature to which a mass of air must be cooled in order to reach saturation.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "The temperature at which the relative humidity and saturation vapour pressure are the same.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The relative humidity of a sample air mass is 50%. How is the relative humidity of this air mass influenced by changes of the amount of water vapour in it?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "It is not influenced by changing water vapour.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "It increases with increasing water vapour.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "It is only influenced by temperature.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "It decreases with increasing water vapour.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "code": "",
+    "type": "MulChoice",
+    "question": "When a given mass of air descends, what effect will it have on relative humidity?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "It increases",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "It decreases",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "It increases up to 100%, then remains stable",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "It remains constant",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 122,
+    "code": "",
+    "type": "MulChoice",
+    "question": "During the late afternoon an air temperature of +12°C and a dew point of +5°C were measured. What temperature change must at least occur during the night in order to induce saturation?",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "It must decrease to +6°C.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "It must decrease by 5°C.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "It must decrease to +7°C.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "It must decrease to +5°C.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 123,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which of the following statements is true of the dew point of an air mass?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "It can be higher than the temperature of the air mass",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "It can be used together with the air pressure to estimate the air mass's relative humidity",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "It can only be equal to, or lower, than the temperature of the air mass",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "It can be used to estimate the air mass's relative humidity even if the air temperature is unknown",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 124,
+    "code": "",
+    "type": "MulChoice",
+    "question": "In meteorology, which constituent is considered the most important in the atmosphere's composition?",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "Oxygen",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Nitrogen",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Hydrogen",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Water vapour",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 125,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Relative humidity depends on:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "moisture content and pressure of the air",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "moisture content and temperature of the air",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "temperature of the air only",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "moisture content of the air only",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 126,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The maximum amount of water vapour that the air can contain depends on the",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "stability of the air",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "relative humidity",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "dewpoint",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "air temperature",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 127,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Dew point is defined as",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "the temperature to which moist air must be cooled to become saturated at a given pressure",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "the temperature below which the change of state in a given volume of air will result in the absorption of latent heat",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "the lowest temperature to which air must be cooled in order to reduce the relative humidity",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "the lowest temperature at which evaporation will occur for a given pressure",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 128,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Relative humidity at a given temperature is the relation between",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "water vapour weight and dry air weight",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "water vapour weight and humid air volume",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "actual water vapour content and saturated water vapour content",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "dew point and air temperature",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 129,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What is the dry adiabatic lapse rate ?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "2.0°C/1000 FT",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "3.0°C/1000 FT",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "3.5°C/1000 FT",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "1.5°C/1000 FT",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 130,
+    "code": "",
+    "type": "MulChoice",
+    "question": "A parcel of moist but not saturated air rises due to adiabatic effects. Which of the following changes ?",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "Relative humidity",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Specific humidity",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Mixing ratio",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Absolute humidity",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 131,
+    "code": "",
+    "type": "MulChoice",
+    "question": "During an adiabatic process heat is:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "lost",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "added",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "added but the result is an overall loss",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "neither added nor lost",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 132,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The rate of cooling of ascending saturated air is less than the rate of cooling of ascending unsaturated air because:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "water vapour doesn't cool as rapidly as dry air",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "moist air is heavier than dry air",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "water vapour absorbs the incoming heat from the sun",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "heat is released during the condensation process",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 133,
+    "code": "",
+    "type": "MulChoice",
+    "question": "A layer in which the temperature remains constant with height is",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "neutral",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "unstable",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "conditionally unstable",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "absolutely stable",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 134,
+    "code": "",
+    "type": "MulChoice",
+    "question": "A layer in which the temperature increases with height is",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "absolutely unstable",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "conditionally unstable",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "absolutely stable",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "neutral",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 135,
+    "code": "",
+    "type": "MulChoice",
+    "question": "In which of the following conditions is moderate to severe airframe icing most likely to be encountered?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Below the freezing level in clear air",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "In clear air above the freezing level",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "In Nimbostratus cloud",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Within cloud of any type",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 136,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which types of clouds are typical evidence of stable air conditions?",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "ST, AS",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "CB, CC",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "NS, CU",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "CU, CB",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 137,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which one of the displayed cloud forms is representative of altocumulus lenticularis?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "3",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "4",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "2",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "1",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 138,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which one of the displayed cloud forms is representative of a cumulonimbus capillatus?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "3",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "4",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "1",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "2",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 139,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which of the following types of cloud can extend over the low, medium and high cloud levels ?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "AC",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "CB",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "CI",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "ST",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 140,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which of the following cloud types is a medium level cloud ?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "CS",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "ST",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "AS",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "SC",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 141,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Rising air cools because:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "it becomes more moist",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "surrounding air is cooler at higher levels",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "it contracts",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "it expands",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 142,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Convective clouds are formed",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "in unstable atmosphere",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "in mid-latitudes only",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "in summer during the day only",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "in stable atmosphere",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 143,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Altostratus clouds are classified as",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "high level clouds",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "low level clouds",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "convective clouds",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "medium level clouds",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 144,
+    "code": "",
+    "type": "MulChoice",
+    "question": "A cumulonimbus cloud at mid-latitudes in summer contains",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "only water droplets",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "only ice crystals",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "ice crystals, water droplets and supercooled water droplets",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "ice crystals and water droplets but never supercooled water droplets",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 145,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Strongly developed cumulus clouds are an indication of",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "the presence of a low level inversion",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "instability in the atmosphere",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "poor surface visibility",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "the presence of warm air aloft",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 146,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which of the following are medium level clouds ?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "Cirrocumulus and cirrostratus",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Altostratus and altocumulus",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "All convective clouds",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Cumulonimbus",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 147,
+    "code": "",
+    "type": "MulChoice",
+    "question": "In an unstable layer there are cumuliform clouds. The vertical extent of these clouds depends on the",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "air pressure at the surface",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "wind direction",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "pressure at different levels",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "thickness of the unstable layer",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 148,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Cumulus clouds are an indication for",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "the approach of a cold front",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "stability",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "the approach of a warm front",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "up and downdrafts",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 149,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What type of cloud is being described ? A generally grey cloud layer with fairly uniform base and uniform appearance, which may give drizzle or snow grains. When the sun is visible through the cloud, the outline is clearly discernible. Sometimes it appears in the form of ragged patches.",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "Altostratus",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Stratus",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Cirrostratus",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Nimbostratus",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 150,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The presence of altocumulus lenticularis is an indication of the",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "risk of orographic thunderstorms",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "presence of mountain waves",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "presence of valley winds",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "development of thermal lows",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 151,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Stratus formed by turbulence will occur when",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "the wind speed is less than 10 kt and the air is heated by the earth's surface",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "the wind speed is greater than 10 kt and the condensation level is situated just above the turbulent layer",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "in the friction layer mixing occurs by turbulence and the condensation level is situated below the top of the turbulent layer",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "absolute instability exists at low level",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 152,
+    "code": "",
+    "type": "MulChoice",
+    "question": "A layer of stratus is most likely to be dispersed by",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "absorption of solar radiation in the stratus layer",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "insolation resulting in the lifting of the condensation level",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "adiabatic cooling due to subsidence",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "the release of latent heat due to precipitation",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 153,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What is the average vertical extent of radiation fog?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "2 000 FT.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "5 000 FT.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "500 FT.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "10 000 FT.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 154,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which of the following is most likely to lead to the dissipation of radiation fog ?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "A marked decrease in wind velocity close to the ground",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "A marked increase in wind velocity near the ground",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "A build up of a high pressure area resulting in adiabatic warming associated with a sinking air mass",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Ground cooling caused by radiation during the night",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 155,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What is the difference between radiation fog and advection fog ?",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "Radiation fog forms due to surface cooling at night in a light wind. Advection fog forms when warm humid air flows over a cold surface.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Radiation fog is formed by surface cooling in a calm wind. Advection fog is formed by evaporation over the sea.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Radiation fog forms due to night cooling and advection fog due to daytime cooling.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Radiation fog forms only on the ground, advection fog only on the sea.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 156,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What type of fog is most likely to form over flat land during a clear night, with calm or light wind conditions ?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "Advection.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Radiation.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Orographic.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Steam.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 157,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which of the following is most likely to lead to the formation of radiation fog?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Dry, warm air passing over warm ground",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "The passage of fronts",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Heat loss from the ground on clear nights",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Cold air passing over warm ground",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 158,
+    "code": "",
+    "type": "MulChoice",
+    "question": "When the temperature and dew point are less than one degree apart the weather conditions are most likely to be",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "clear and cool",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "fog or low cloud",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "unlimited visibility",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "high scattered clouds",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 159,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Advection fog can be formed when",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "cold moist air flows over a warmer surface",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "warm moist air flows over a warmer surface",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "warm moist air flows over a colder surface",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "cold moist air flows over warmer water",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 160,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Frontal fog is most likely to occur",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "in rear of a warm front",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "in advance of a warm front",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "in winter in the early morning",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "in summer in the early morning",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 161,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which of the following circumstances most favour the development of radiation fog?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Warm moist air at the windward side of a mountain",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Maritime tropical air flowing over cold sea",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Moist air over land during clear night with little wind",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Advection of very cold air over much warmer sea",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 162,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The range of wind speed in which radiation fog is most likely to form is:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "between 10 and 15 kt",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "below 5 kt",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "above 15 kt",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "between 5 and 10 kt",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 163,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which type of fog can NOT be formed over water?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "Advection fog",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Radiation fog",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Frontal fog",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Arctic smoke",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 164,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Advection fog is most likely to form when",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "cold air is forced over higher ground and further adiabatic cooling occurs",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "a mild moist airstream flows over snow covered ground and the wind speed is less than 10 kt",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "warm maritime air flows over a relatively warmer surface and the wind speed is greater than 15 kt",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "cold maritime air flows over a warmer surface and the wind speed is greater than 15 kt",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 165,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which of the following sets of conditions are most likely to lead to the formation of advection fog?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Clear skies at night over an inland marshy area",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "A mild moist airstream flowing over colder surfaces with a wind in excess of 30 kt",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "A mild moist airstream flowing over colder surfaces with the wind speed less than 15 kt",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Cold maritime air flowing over a warmer land surface at a speed greater than 15 kt",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 166,
+    "code": "",
+    "type": "MulChoice",
+    "question": "When visibility is reduced by water droplets to less than 1000 metres it is classified as",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "dust fog",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "fog",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "mist",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "haze",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 167,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which one of the following types of cloud is most likely to produce heavy precipitation ?",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "NS.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "ST.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "SC.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "CS.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 168,
+    "code": "",
+    "type": "MulChoice",
+    "question": "With what type of clouds are showers most likely associated?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Stratocumulus.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Nimbostratus.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Cumulonimbus.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Stratus.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 169,
+    "code": "",
+    "type": "MulChoice",
+    "question": "With what type of cloud is 'DZ' precipitation most commonly associated?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "CB",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "ST",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "CU",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "CC",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 170,
+    "code": "",
+    "type": "MulChoice",
+    "question": "With what type of cloud is heavy precipitation unlikely during the summer months ?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "CB, ST",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "NS, CC",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "SC, AS",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "AS, NS",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 171,
+    "code": "",
+    "type": "MulChoice",
+    "question": "With what type of cloud is '+TSRA' precipitation most commonly associated?",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "SC",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "AS",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "NS",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "CB",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 172,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Large hail stones",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "only occur in thunderstorms of mid-latitudes",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "are typically associated with severe thunderstorms",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "only occur in frontal thunderstorms",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "are entirely composed of clear ice",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 173,
+    "code": "",
+    "type": "MulChoice",
+    "question": "From what type of cloud does drizzle fall ?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "Altostratus",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Stratus.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Cirrostratus.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 174,
+    "code": "",
+    "type": "MulChoice",
+    "question": "In spite of a constant altimeter reading your aircraft is losing altitude. This could be caused by:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "Flying towards high pressure.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Flying towards low pressure",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "the vertical motion of a rising parcel of air tends to become weaker and disappears.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "the lapse rate is 1°C per 100 m",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 175,
+    "code": "",
+    "type": "MulChoice",
+    "question": "An unstable air mass will normally be characterised by",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "stratiform cloud",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "cumuliform cloud and good visibility except in precipitation",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "poor visibility due to haze at the lower levels",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "continuous light rain from medium level layer cloud",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 176,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What is a trend forecast?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "An aerodrome forecast valid for 9 hours",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "A landing forecast appended to METAR/SPECI, valid for 2 hours",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "A route forecast valid for 24 hours",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "A routine report",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 177,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The first clouds are thin, wispy cirrus, followed by sheets of cirrus and cirrostratus, and altostratus. The sun is obscured as the altostratus thickens and drizzle or rain begins to fall. The cloud base is lowering as Nimbostratus arrives. These phenomena describe the approach of a",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "warm front",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "sea-breeze front",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "trade wind front",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "cold front",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 178,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which of the following factors have the greatest effect on the formation of the various types of ice on an aircraft ?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "Aircraft speed and size of cloud droplets",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Cloud temperature and droplet size",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Relative humidity inside the cloud",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Aircraft speed and curvature of the airfoil",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 179,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Hoar frost is most likely to form when",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "flying inside convective clouds.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "flying inside stratiform clouds.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "taking off from an airfield with a significant ground inversion (sky clear).",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "flying in supercooled drizzle.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 180,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Above and below a low level inversion the wind is likely to",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "change significantly in speed and direction",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "experience little or no change in speed and direction",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "change in direction but not in speed",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "change in speed but not in direction",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 181,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What weather conditions would you expect at a squall line?",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "Thunderstorms",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Strong whirlwinds reaching up to higher levels",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Fog",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Continuous heavy rain",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 182,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Continuous updraughts occur in a thunderstorm during the",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "dissipating stage.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "mature stage.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "period in which precipitation is falling.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "initial stage.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 183,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Thunderstorms reach their greatest intensity during the",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "mature stage.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "period in which precipitation is not falling.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "dissipating stage.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "cumulus stage.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 184,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The most hazardous type of cloud that may be encountered on a cross country flight is",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "stratocumulus",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "cumulus",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "cumulonimbus",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "cirrus",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 185,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What feature is normally associated with the initial stage of a thunderstorm?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Roll cloud",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Frequent lightning",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Continuous updraft",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Rain or hail at the surface",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 186,
+    "code": "",
+    "type": "MulChoice",
+    "question": "In which stage of the life cycle of a single thunderstorm cell occur both up- and downdrafts simultaneously?",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "Mature stage",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "In all stages",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Dissipating stage",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Cumulus stage",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 187,
+    "code": "",
+    "type": "MulChoice",
+    "question": "With the development of a thunderstorm, at what stage will there be only updraughts of air?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Mature stage",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Anvil stage",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Initial stage",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Dissipating stage",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 188,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which one of the following can provide the initial lifting leading to air mass thunderstorms?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Mountain waves",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Advection of warm air over a cold sea",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Advection of cold air over a warm sea",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Low level wind shear",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 189,
+    "code": "",
+    "type": "MulChoice",
+    "question": "With which type of cloud are tornadoes associated ?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "Cumulus mediocris",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Cumulonimbus",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Nimbostratus",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Stratus",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 190,
+    "code": "",
+    "type": "MulChoice",
+    "question": "When severe mountain waves are present, where would the area of most severe turbulence be located?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Just above the cap cloud",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "On the windward side of the mountain range",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "In the rotor zone",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Just below the tropopause",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 191,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Visibility is reduced by haze when",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "a light drizzle falls",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "dust particles are trapped below an inversion",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "small water droplets are present",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "a cold front just passed",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 192,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The wind direction in a METAR is measured relative to",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "magnetic north",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "the 0-meridian",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "true north",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "grid north",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 193,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What positions are connected by contour lines on a weather chart?",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "Positions with the same air density.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Positions with the same thickness between two constant pressure levels.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Positions with the same wind velocity.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Positions with the same height in a chart of constant pressure.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 194,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Good visibility in the lower levels may be expected when",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "warm air is moving over a cold surface.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "the atmospheric pressure is low.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "cool dry air is moving over a warmer surface.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "the air temperature is low.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 195,
+    "code": "",
+    "type": "MulChoice",
+    "question": "If radiation fog forms on a clear night with light winds, the increase in wind speed from 5 kt to 13 kt will most likely",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "have no effect.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "change the radiation fog to advection fog.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "disperse the fog immediately.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "cause the fog to lift and become low stratus",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 196,
+    "code": "",
+    "type": "MulChoice",
+    "question": "A trough near the surface is an area of",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "divergence and subsidence",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "divergence and widespread ascent",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "convergence and widespread ascent",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "convergence and subsidence",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 197,
+    "code": "",
+    "type": "MulChoice",
+    "question": "In the mid-latitudes of the northern hemisphere the wind blows:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "clockwise around anticyclones and cyclones.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "clockwise around cyclones and anti-clockwise around anticyclones.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "clockwise around anticyclones and anti-clockwise around cyclones.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "direct from high to low pressure areas.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 198,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The pressure distribution located mainly in square 2A is a",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "col",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "ridge of high pressure",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "depression",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "trough of low pressure",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 199,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What are the requirements for the formation of a thunderstorm?",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "An adequate supply of moisture, conditional instability and a lifting action",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "A stratocumulus cloud with sufficient moisture",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Water vapour and high pressure",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "A cumulus cloud with sufficient moisture associated with an inversion",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 200,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What does the abbreviation \"BKN\" mean?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "3-4 Eights of the sky is cloud covered",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "5-7 Eights of the sky is cloud covered",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Nil significant cloud cover",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "3-5 Eights of the sky is cloud covered",
+        "explanation": ""
+      }
+    ]
+  }
+]

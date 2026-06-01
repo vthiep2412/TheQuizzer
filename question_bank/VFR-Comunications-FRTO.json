@@ -1,0 +1,6005 @@
+[
+  {
+    "bankName": "VFR-Comunications-FRTO"
+  },
+  {
+    "id": 1,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which is the frequency band containing frequencies of the Aeronautical Mobile Service?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "108.000 - 117.975 MHz",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "1810 - 2850 KHz",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "118.000 - 136.975 MHZ",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "11650 - 13200 KHz",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "code": "",
+    "type": "MulChoice",
+    "question": "To which frequency bands do the frequencies 118.000 - 136.975 MHz of the Aeronautical Mobile Service belong?",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "Very high frequency",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Medium frequency",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Low frequency",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Very low frequency",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What is the frequency separation between consecutive frequencies in the VHF band:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "25 KHz",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "75 KHz",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "8.33 KHz",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "50 KHz",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What are the propagation characteristics of VHF:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "Practically straight-line similar to light waves",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Similar to short waves with practically no atmospheric disturbance",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "The waves travel along the surface of the earth and penetrate into valleys in a way that topographical obstacles have no influence",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "The waves are reflected at the ionosphere at the height of about 100 km and reach the earth surface in the form of sky-waves",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which phenomena will normally influence the reception of VHF transmission ?",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "Electrical discharges as they happen frequently in thunderstorms",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "The ionosphere",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Day- and night effect",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Level of aircraft and terrain elevations",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Under which of the following circumstances may you expect a solid reception of the TOWER frequency 118.2 MHz:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "Aircraft at high level in the vicinity of the ground station",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Aircraft at low level, in the vicinity of the ground station, in the radio shadow zone of a hill",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Aircraft at low level, far away from the ground station, in the radio shadow zone of a hill",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Aircraft at low level but far away from the ground station",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which is the maximum distance at which you might expect solid VHF contact over flat terrain at flight level 50:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "About 8 NM",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "About 15 NM",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "About 85 NM",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "About 150 NM",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which is the maximum distance at which you might expect solid VHF contact over flat terrain at flight level 100:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "About 120 NM",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "About 12 NM",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "About 30 NM",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "About 300 NM",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "code": "",
+    "type": "MulChoice",
+    "question": "VHF works on the principle of?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Sky Waves.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Surface Wave.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Line of Sight.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Reflection.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The range of reception of Very High Frequency (VHF) transmissions from your radio can generally be increased by flying:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "At lower altitudes.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "At higher altitudes.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Faster.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Slower.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Amplitude means the distance between the:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "top of the wave and the bottom of the wave.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "top of the wave and the mean value line.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "bottom of the wave and the mean value line.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "top or bottom of the wave and the mean value line.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What does the term attenuation mean?",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "Strengthening or becoming more dense.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Focusing or intensifying.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Widening or become less focused.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Weakening or decaying.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What does modulation mean?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Smoothing out radio waves to improve transmission.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Removal of attenuation from radio waves.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Superimposing of intelligence on the carrier wave.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "All of the options.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Radio waves are waves which move at the speed of .",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "electromagnetic; light",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "electromagnetic; sound",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "sound; light",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "sound; sound",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Sound waves passing through the air consist of ______. being compressed and expanded, moving at the speed of _____",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "air; light",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "air; sound",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "sound; light",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "sound; sound",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "code": "",
+    "type": "MulChoice",
+    "question": "My message will be more effective and understandable if I:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Use the words twice method",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Stress the end of message",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Maintain the speaking volume at a constant level",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Stress every beginning of message",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "code": "",
+    "type": "MulChoice",
+    "question": "You have been calling a station without getting an answer. How long time it is recommended to wait at least before making a second call?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "Wait until the station calls you.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "10 sec.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "3 sec.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "30 sec.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "code": "",
+    "type": "MulChoice",
+    "question": "When is an aircraft station allowed to use its abbreviated call sign?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "Only after satisfactory communication has been established",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "After it has been addressed in this manner by the aeronautical ground station",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "In dense traffic",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Provided no confusion is likely to result",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "code": "",
+    "type": "MulChoice",
+    "question": "How should a pilot terminate the read-back of an ATC clearance?",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "With his own aircraft call sign",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "With the word 'roger'",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "With the ATC ground station call sign",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "With the word 'wilco'",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "code": "",
+    "type": "MulChoice",
+    "question": "RADAR informs aircraft X-BC: 'X-BC identified'. What does this mean:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "X-BC should perform an identification turn",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "X-BC is not visible on the radar screen",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "X-BC should operate the IDENT-button",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Radar identification has been achieved",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What is meant by good microphone technique?",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "Use a normal conversation tone, speak clearly and distinctly.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Make large use of hesitation sounds as 'er'.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Keep the microphone far away since it improves the readability.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Speak very loudly into the microphone.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Regardless of your position, time figures are transmitted with reference to:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "Wintertime",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Local time",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Greenwich time",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "UTC",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "code": "",
+    "type": "MulChoice",
+    "question": "When transmitting time, which time system shall be used?",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "Local time (LT) A.M. and P.M.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Local time (LT), 24-hour clock",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "No specific system, as only the minutes are normally required",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Co-ordinated universal time (UTC)",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What does the term 'aeronautical station' mean?",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "A station in the aeronautical mobile service located on land or, in certain instances, on board of a ship or on a platform at sea",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "An airborne station forming part of the aeronautical fixed telecommunication network (AFTN)",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "A station in the aeronautical telecommunication service located on land or on board of an aircraft to exchange radiotelephony communications",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Any station established to exchange radiotelephony communications",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Who has the ultimate responsibility for the aircraft:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "The pilot in command.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "The operator of the aircraft.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "The owner of the aircraft.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "The passenger in the aircraft.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What is the correct procedure for setting the squelch control on a VHF radio?",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "Turn the squelch control up until a considerable level of static is heard, then turn the squelch control back down until the static stops.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Turn the squelch control up until a considerable level of static is heard, then turn the volume control down until the static stops.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Turn the volume control up until loud background noise (static) is heard, then turn the squelch control back down to just below the level where the noise stops.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Turn the volume control up until a considerable amount of static is heard, then turn the squelch control up until the static stops.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Most countries have adopted the aeronautical radio communication phraseology and procedures laid down by:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "ASEP",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "NATO",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "ICAO",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "NAV/COM",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "code": "",
+    "type": "MulChoice",
+    "question": "If you have been assessed at ICAO Level 5 following in English language proficiency assessment, the endorsement on your licence will last for .......... years?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "three",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "five",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "six",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "eight",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "code": "",
+    "type": "MulChoice",
+    "question": "You have been calling a station without getting an answer. How long time it is recommended to wait at least before making a second call?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "Wait until the station calls you.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "10 sec.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "3 sec.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "30 sec.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "code": "",
+    "type": "MulChoice",
+    "question": "During the transmission of numbers containing a decimal point:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "The term DECIMAL must always be transmitted.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "The term DECIMAL must be spoken only if followed by three digits.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "The term DECIMAL can be omitted if no chance of misunderstanding exists.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "The term DECIMAL can be omitted with friendly ATS units only.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What does the phrase 'Roger' mean:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "A direct answer in the affirmative",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "A direct answer in the negative",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "I have received all of your last transmission",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Cleared for take-off or cleared to land",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What does the phrase 'Go ahead' mean:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "Proceed with your message",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Yes",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Pass me the following information...",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Taxi on",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which of these statements best describes the meaning of the phrase 'Standby' ?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Continue on present heading and listen out",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Select STANDBY on the SSR transponder",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Wait and I will call you",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Permission granted for action proposed",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What does the phrase 'Read back' mean:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "Repeat all, or the specified part, of this message back to me exactly as received",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Check and confirm with originator",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Did you correctly receive this message?",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Let me know that you have received and understood this message",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which phrase shall be used if you want to say: 'I should like to know...' or 'I wish to obtain...'?",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "Acknowledge",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Report",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Confirm",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Request",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which phrase shall be used if you want to say: 'Pass me the following information...':",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Request",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Say again",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Report",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Check",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which phrase shall be used to confirm that a message has been repeated correctly:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "Correct",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "That is affirmative",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Affirm",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "That is right",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which phrase shall be used if you want to say: 'An error has been made in this transmission (or message indicated). The correct version is ...':",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "QNH 1017, negative QNH 1016",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "QNH 1017, negative 1016",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "QNH 1017, correction QNH 1016",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "QNH 1017, negative I say again 1016",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which phrase shall be used if the repetition of an entire message is required:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "Say again",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Repeat your last transmission",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "What was your message?",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Repeat your message",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which phrase shall be used if you want to say: 'I understand your message and will comply with it':",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Roger",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Will comply with your instruction",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Wilco",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "OK, will do it",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which phrase shall be used if you want to say: 'Yes':",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "Yes",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Affirm",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Affirmative",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Roger",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "code": "",
+    "type": "MulChoice",
+    "question": "How shall a pilot inform the control tower that he is prepared for take-off:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "Ready for take-off",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Ready for departure or ready",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Ready to go",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Ready to line-up",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which of these phrases is used to inform the control tower that a pilot perform a missed approach:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "Overshooting",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Going around",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Pulling up",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Will make another approach",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What does the instruction 'Go around' mean?",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "Carry out a missed approach",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Proceed with your message",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Make a 360° turn",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Overtake the aircraft ahead",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What does the instruction 'Orbit right' mean?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "Turn right to avoid other traffic",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Make 360° turns to the right",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Leave the runway to the right",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Right-hand circuits are in use",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What does the instruction 'Vacate left' mean ?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Give way to aircraft from the left",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Clear the runway immediately",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Turn left to leave the runway",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Hold position on the left side of the runway",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which phraseology is to be used to ask the control tower for permission to taxi on a runway in the direction opposite to that in use ?",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "Request backtrack on runway'.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Backtrack clearance'.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "To enter back runway'.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Clearance to backtrack'.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which word or phrase shall be used if you want to say: 'Wait and I will call you'?",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "Roger.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Go ahead.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Wilco.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Standby.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "code": "",
+    "type": "MulChoice",
+    "question": "On the readability scale what does 'Readability 3' mean:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "Readable but with difficulty",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Unreadable",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Loud and clear",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "No problem to understand",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "code": "",
+    "type": "MulChoice",
+    "question": "On the readability scale what does 'Readability 5' mean:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "Unreadable",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Perfectly readable",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Readable but with difficulty",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Problem to understand",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What is the correct way to transmit and read back frequency 120.375 MHz (VHF channel separated by 25 KHz):",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "One two zero decimal three seven five",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "One twenty decimal three seven",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "One two zero three seven",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "One two zero decimal three seven",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "code": "",
+    "type": "MulChoice",
+    "question": "An aircraft is flying north-east at 2500 feet. TOWER requests heading and level. What is the correct response:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "Heading north-east at level 25",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Heading 045 at 2500 feet",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "045 and 2500",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Heading 45 at 2500 feet",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What does the phrase 'Squawk 1234' mean:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "Make a test transmission on 123.4 MHz",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Give a short count for DF (direction finder)",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Standby on frequency 123.4 MHz",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Select code 1234 on the SSR transponder",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Select the correct phoenetic letter code for HB-FRO:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "Hotel Bravo Fox Romeo Oscar",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Hotel Bravo Foxtrot Romeo Oscar",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Hotel Brazil Foxtrot Romeo Oscar",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Hotel Bravo Foxtrot Romeo Oswald",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "code": "",
+    "type": "MulChoice",
+    "question": "From your cruising altitude at FL 240, you want to descend to flight level 100. Your transmission to the radar controller is:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "request descent to flight level one-zero-zero",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "we would like to start descent to flight level one-zero-zero",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "request to descend one-hundred",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "request flight level one-hundred",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "code": "",
+    "type": "MulChoice",
+    "question": "In order to avoid CB a pilot wants to turn right to a magnetic heading of 100 degrees. The correct way to ask the ATC unit for permission is:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "Request right turn to heading one-double-0",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Request right turn to heading one-hundred degrees",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Request right turn to heading one-point-zero-zero",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Request right turn, heading one-zero-zero",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What is the correct way of transmitting 1001 as a QNH ?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "QNH one double 'O' one",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "QNH one zero zero one",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "QNH one double zero one",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "QNH one thousand and one",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What is the correct way of transmitting the number 3500 when indicating an altitude or an height?",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "three five hundred",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "three five zero zero",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "three five double zero",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "three thousand five hundred",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Select the letter code for HB-FBO.",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "Hotel Bravo Fox Roma Olka",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Hotel Bravo Fox-trot Bravo Oscar",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Hotel Bravo Foxy Romeo Oscar",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Hector Brasil Fox-trot Romeo Oscar",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What is the correct way of spelling out HB-JYC in a radio message?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "Hotel Bravo Juliett India Kilo",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Hotel Bravo Juliett Yankee Charlie",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Hotel Bravo India Victor Charlie",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Hotel Bravo India Yankee Charlie",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "code": "",
+    "type": "MulChoice",
+    "question": "How shall a pilot ask for a QFE ?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "request Queen Fox Easy",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "request Quebec Foxtrot Echo",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "request Quebec Fox Echo",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "request Quebec Fox Easy",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "code": "",
+    "type": "MulChoice",
+    "question": "How is flight level 200 pronounced over the radio?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Flight level TWENTY TOU-SAN",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Flight level TWENTY ZE-RO.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Flight level TOO ZE-RO ZE-RO.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Flight level TOO HUN-DRED.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The Tower frequency at an aerodrome is 124.7 mhz. This frequency is pronounced as:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "Wun tee-wenty fow-er day see mal sev-en.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Wun hun-dred tee-wenty fow-er point sev-en.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Wun too fow-er point sev-en.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Wun too fow-er day see mal sev-en.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "code": "",
+    "type": "MulChoice",
+    "question": "When an error has been made during a transmission, it may be corrected by using the word:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Repeat",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Disregard",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Correction",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Irrelevant",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "code": "",
+    "type": "MulChoice",
+    "question": "When should the expressions 'please' and 'thank you' be used during radio transmissions?",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "When you make a request.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "At the start and end of any transmission.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Preferably both of the above.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Preferably not at all.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Yes is expressed as ____. and no is expressed as______.",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "affirm; negative",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "affirm; unable",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "roger; negative",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "roger; unable",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What is meant by the term 'cleared'?",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "Authorised to proceed under the conditions specified.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "I have received and understood this message.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Permission for proposed action granted.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Proceed with your message.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What is meant by the term 'go ahead'?",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "Authorised to proceed under the conditions specified.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "I have received and understood this message.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Permission for proposed action granted.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Proceed with your message.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What term is used to express 'l have received and understood this message'?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Affirmative.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Confirm.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Roger.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Wilco",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What term is used to express 'l understand your message and will comply with it'?",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "Affirmative.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Confirm.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Roger.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Wilco.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "code": "",
+    "type": "MulChoice",
+    "question": "All numbers are spoken as individual digits except for whole hundreds and thousands when referring to ¬_____ cloud height and ______ .",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "range; visibility",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "altitude; visibility",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "distance; visibility",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "altitude; time",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "code": "",
+    "type": "MulChoice",
+    "question": "ORBIT RIGHT means:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "Continue making a right hand turn until advised.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Right hand circuits in use.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Turn right to avoid other traffi",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Make a 360 degrees turn to the right.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The priority of the instruction 'taxi to runway 05' is:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "the same as 'line-up runway 07 and wait'.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "less than 'cleared to land'.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "greater than 'caution, construction work left of taxiway'.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "greater than 'transmit for QDM'.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What is the radiotelephony call sign suffix for the aeronautical station indicating aerodrome control service:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "AERODROME",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "CONTROL",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "APRON",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "TOWER",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What is the radiotelephony call sign for the aeronautical station providing flight information service:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "FLIGHT INFORMATION CENTRE",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "FLIGHT CENTRE",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "INFORMATION",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "CONTROL",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What is the radiotelephony call sign for the aeronautical station providing surface movement control of aircraft on the manoeuvring area:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "APPROACH",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "TOWER",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "GROUND",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "CONTROL",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "code": "",
+    "type": "MulChoice",
+    "question": "When may the name of the location or the call sign suffix in the call sign of an aeronautical station be omitted ?",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "Only after the aeronautical station has used the abbreviated call sign",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Never",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "In dense traffic during rush hours",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "When satisfactory communication has been established and provided it will not be confusing to do so",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "code": "",
+    "type": "MulChoice",
+    "question": "How should aircraft XY-ABC call Đà Nẵng TOWER on initial call?",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "Đà Nẵng TOWER XY-ABC",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "TOWER XY-ABC",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Đà Nẵng XY-ABC",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Đà Nẵng TOWER X-BC",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Aircraft X-BC has been instructed to contact Stephenville TOWER on frequency 118.7. What is the correct response to indicate that it will follow this instruction ?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "Will change to TOWER X-BC",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "118.7 X-BC",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Stephenville TOWER X-BC",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Changing over X-BC",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Aircraft X-BC has been instructed to listen on ATIS frequency 123.25, on which information are being broadcast. What is the correct response to indicate that it will follow this instruction ?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "Changing to 123.25 X-BC",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Monitoring 123.25 X-BC",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Checking 123.25 X-BC",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Will contact 123.25 X-BC",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Aircraft XY-ABC is making a test transmission with Stephenville TOWER on frequency 118.7. What is the correct phrasing for this transmission:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "Stephenville TOWER XY-ABC radio check 118.7",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Stephenville TOWER XY-ABC frequency check",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Stephenville TOWER XY-ABC signal check",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Stephenville TOWER XY-ABC pre-flight check",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "code": "",
+    "type": "MulChoice",
+    "question": "An aircraft is instructed to hold short of the runway-in-use. What is the correct phraseology to indicate it will follow this instruction ?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Roger",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Will stop before",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Holding short",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Wilco",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Cherokee XY-ABC receives the following instruction: 'X-BC climb straight ahead until 2500 feet before turning right, wind 270 degrees 6 knots, cleared for take-off'. What is the correct read back:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "Wilco, cleared for take-off, X-BC",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Straight ahead, at 2500 feet right turn, cleared for take-off, X-BC",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Straight ahead, 2500 feet right turn, wind west 6 knots, cleared for take-off, X-BC",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Right turn after 2500, roger, X-BC",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What is normally used for ATIS broadcasts ?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Voice channel of an ILS",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "NDB frequencies",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Discrete VHF frequency or/and VOR",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "DME voice channel",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The clearance: 'cleared for immediate take-off runway 03' is:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "An urgency message.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "An unauthorized message.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "A flight safety message.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "A flight regularity message.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Air traffic control messages (clearances, instructions, etc.) belong to the category of:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "Flight regularity messages.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Class B messages.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Service messages.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Flight safety messages.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The message addressed to an Area Control Centre 'request radar vectors to circumnavigate adverse weather' is:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "A meteorological message.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "An urgency message.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "A flight safety message.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "A message relating to direction finding.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The message to an aeronautical ground station 'please call a taxi-cab for us. We will arrive at 1045' is:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "A flight regularity message.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "A flight safety messages.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "An unauthorized message.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "An urgency message.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which of the messages listed below shall not be handled by the aeronautical mobile service?",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "Radio teletype messages.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Urgency messages.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Flight safety messages.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Meteorological messages.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "code": "",
+    "type": "MulChoice",
+    "question": "A message concerning aircraft parts and material urgently required is:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "A flight regularity message.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "A flight security message.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "A flight safety message.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "An urgency message.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Flight safety messages are:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "Messages concerning the safety of an aircraft, a vessel, any other vehicle or a person.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Operation messages concerning non-routine landings.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Messages relating to direction finding.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Air traffic control messages.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Select the air traffic service in charge of control of local traffic, take-offs and landings at an airport.",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "Control",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Radar",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Air Traffic Centre",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Tower",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Whilst taxiing, Chu lai Tower passes you a message which you cannot understand because of interference from another station. What words should precede your request to Chu lai Tower to repeat the message to you?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Read back.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Words twice.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Say again.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Repeat message",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Aerodrome traffic is:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "All traffic on the manoeuvring area of an aerodrome and all aircraft operating in the vicinity of an aerodrome.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "All vehicles on an aerodrome.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "All aircraft on an aerodrome.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "All traffic on the movement are of an aerodrome.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "code": "",
+    "type": "MulChoice",
+    "question": "When ATC is off watch, the aerodrome becomes:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "Unserviceable",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Unattended",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Unusable",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Unsecured",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "code": "",
+    "type": "MulChoice",
+    "question": "If more than one frequency is listed for aerodrome control, which should you use by preference?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "The highest frequency.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "The lowest frequency.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "The first listed frequency.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Any, they are all equally preferable.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which element(s) of an ATIS report should you read back to the tower when you make first contact with the aerodrome control?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Location of aircraft.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "The ATIS issue time.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "The ATIS sequence letter and QNH",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "The visibility.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What is meant by a clearance limit in a taxi instruction?",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "Climb back to circuit height and continue around the circuit.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Remain with TOWER until clear of the runway, then change to GROUND for taxi instructions.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "The time before you need to request taxi instructions.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "The point at which the aircraft must stop unless further instructions are given.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Why is it important that your position report is accurate when you ask for joining instructions at an aerodrome that does not have radar facilities?",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "Because ATC and other aircraft rely on your accuracy to sight you.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Because ATC may be unaware that you are approaching.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Because position reports are recorded and checked later for accuracy.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "All of the above.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "code": "",
+    "type": "MulChoice",
+    "question": "You call downwind for landing and the tower replies \"YOU ARE NUMBER TWO BEHIND THE CHEROKEE\". What step must you now take?",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "A readback transmission.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Sight the Cherokee.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Make allowance for appropriate runway separation.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "All of the options.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The clearance: \"cleared for immediate take-off runway 03\" is:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "An urgency message.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "A flight safety message.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "A flight regularity message.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "An unauthorized message.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which abbreviation is used for the term 'control zone'?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "CZ",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "CTZ",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "CTR",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "CTA",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What does the abbreviation 'AFIS' mean?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Automatic flight information service.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Aeronautical flight information system.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Aerodrome flight information service.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Aerodrome flashing identification signal.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What does the abbreviation 'FIR' mean?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "Flight information required.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Flight information region.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Flight information radar.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Flow information received.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What does the abbreviation 'HJ' mean?",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "No specific working hours.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Sunset to sunrise.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Continuous day and night service.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Sunrise to sunset.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What does the abbreviation 'HX' mean?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "Sunrise to sunset.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "No specific working hours.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Continuous day and night service.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Sunset to sunrise.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which abbreviation is used for 'Co-ordinated universal time'?",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "GMT.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "CUT.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "COUT.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "UTC.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "code": "",
+    "type": "MulChoice",
+    "question": "If you are requested to report your height, to which Q-code-setting would you refer?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "QNH",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "QFE",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "QBI",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "QDM",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which Q-code is used to report altitude?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "QFE",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "QNH",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "QNJ",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "QFF",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What is 'VOLMET'?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Meteorological station.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Volume control meter.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Meteorological information for aircraft in flight.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "A device used for measuring cloud base.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "code": "",
+    "type": "MulChoice",
+    "question": "When the term 'CAVOK' is used in an aviation routine weather report (METAR), the values of visibility and clouds are:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "Visibility 10 km or more, no clouds below 5000 feet/GND",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Visibility more than 5000 m, no clouds below 1500 m/GND",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Visibility more than 8 km, no clouds below 3000 feet/GND",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Visibility 10 km or more, no clouds below 1500 feet/GND",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which information can aircraft in flight obtain by VOLMET:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "SIGMET",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "SPECI and TAF",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Runway reports",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Aviation routine weather reports (METAR) of specific airports",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "code": "",
+    "type": "MulChoice",
+    "question": "How can aviation routine weather reports (METAR) of specific airports be obtained by aircraft in flight:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "VOLMET",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "SIGMET",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "AFIS",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "ATIS",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "code": "",
+    "type": "MulChoice",
+    "question": "When the aircraft registration marking is used as a call-sign, your first contact with a station shall be in the following form:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "The first letter and the last two characters of the aircraft registration marking.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "The last three characters of the aircraft registration marking.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "All characters of the aircraft registration marking.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "The first three characters of the aircraft registration marking.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The time is 9:20 A.M. What is the correct way of transmitting this time if there is no possibility of confusion about the hour?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Twenty.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Two zero this hour.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Two zero.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Nine twenty A.M.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Chu Lai Tower advises that your transmission is \"readability 3\". This term means that your transmission is:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "Readable, but with difficulty.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Readable now and then.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Unreadable.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Readable, but not perfect.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What is the meaning of the term VMC?",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "Visual meteorological conditions.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "A flight according to instrumental flight rules.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Visual flight rules.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Instrument flight rules.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The term SVFR flight stands for:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "Special VFR flight.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Sector VFR flight.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Schooling VFR flight.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Search and rescue VFR flight.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What does the abbreviation 'FIR' mean?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "Flight information required.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Flight information region.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Flight information radar.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Flow information received.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which abbreviation is used for 'Co-ordinated universal time'?",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "GMT.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "CUT.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "COUT.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "UTC.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "code": "",
+    "type": "MulChoice",
+    "question": "1. Which Q-code is used to report altitude?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "QFE",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "QNH",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "QNJ",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "QFF",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 122,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What is the Q-code for 'magnetic bearing from the station'?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "QTE",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "QDM",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "QDR",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "QFE",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 123,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What does QDR mean?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "Magnetic heading to the station (no wind)",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Magnetic bearing from the station",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "True heading to the station",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "True bearing from the station",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 124,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What is the Q-code for 'true bearing from the station'?",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "QDM",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "QDR",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "QFE",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "QTE",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 125,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What does QTE mean?",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "True heading to the station (no wind).",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Magnetic bearing from the station.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Magnetic heading to the station.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "True bearing from the station.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 126,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What is the Q-code for 'magnetic heading to the station (no wind)?",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "QNE",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "QDR",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "QTE",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "QDM",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 127,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What does QDM mean?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "Magnetic bearing from the station",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Magnetic heading to the station (no wind)",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "True bearing from the station",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "True heading to the station (no wind)",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 128,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Surface Movement Control (SMC) is normally called:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Tower",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Control",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Ground",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Delivery",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 129,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which elements of instructions or information shall always be read back ?",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "Runway-in-use, altimeter settings, SSR codes, level instructions, heading and speed instructions",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Time check, runway-in-use, altimeter settings, level instructions, SSR codes",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Surface wind, visibility, ground temperature, runway-in-use, altimeter settings, heading and speed instructions",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Runway-in-use, visibility, surface wind, heading instructions, altimeter settings",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 130,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Shall an ATC route clearance always be read back:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "No, if the communication channel is overloaded",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "No, if the ATC route clearance is transmitted in a published form (e.g. Standard Instrument Departure Route/SID)",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "No, if the content of the ATC clearance is clear and no confusion is likely to arise",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Yes, unless authorized otherwise by ATS authority concerned",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 131,
+    "code": "",
+    "type": "MulChoice",
+    "question": "A downwind call should be made:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "Any position on the downwind leg.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Abeam the upwind threshold on the downwind leg.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Abeam the downwind threshold on the downwind leg.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "As soon as you turn downwind.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 132,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Permission to taxi onto the takeoff position will be phrased:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "Line up.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Taxi to the takeoff position.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Continue to taxi to the takeoff position.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Line up and wait for takeoff clearance.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 133,
+    "code": "",
+    "type": "MulChoice",
+    "question": "On final approach, the FINAL call should be made at a range of about:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "4 nm.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "2 nm.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "8 nm.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "25 nm.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 134,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What is the radiotelephony call sign for the aeronautical station providing flight information service:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "FLIGHT CONTROL CENTRE",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "FLIGHT CENTRE",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "INFORMATION",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "CONTROL",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 135,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What does the instruction 'Vacate left' mean ?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Give way to aircraft from the left",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Clear the runway immediately",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Turn left to leave the runway",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Hold position on the left side of the runway",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 136,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which phraseology is to be used to ask the control tower for permission to taxi on a runway in the direction opposite to that in use ?",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "Request backtrack on runway'.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Backtrack clearance'.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "To enter back runway'.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Clearance to backtrack'.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 137,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which controlled airspaces do NOT require an ATC clearance for VFR aircraft to operate within them?",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "Control zone areas.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Control areas.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Terminal control area.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "None of the above, as all controlled airspace requires an ATC clearance.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 138,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Once identified by radar in controlled airspace, what radio procedure must you follow?",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "You must listen out on the appropriate frequency.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "You must make regular position reports.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "You must SQUAWK DENT.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "All of the above",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 139,
+    "code": "",
+    "type": "MulChoice",
+    "question": "You have received radar vectoring and receive the following instruction: \"RESUME OWN NAVIGATION\". What must you do next?",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "Turn as required.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Resume your own track.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Reply \"RESUMING OWN NAVIGATION TO...",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "All of the above.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 140,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What must you do when a radar controller instructs you to \"CONFIRM SQUAWK 3715\"?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Confirm mode A on your transponder is set to 3715 and read this back.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Reselect the assigned 3715 mode/code and read this back.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Set the mode/code to 3715 and read this back.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "All of the above.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 141,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What must you do when a radar instructor instructs you to \"SQUAWK CHARLIE\"?",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "Check and report your altitude to the nearest 100 feet.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Press the IDENT button on your transponder.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Select SBY on your transponder.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Set your transponder to mode C, which includes altitude information.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 142,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What should you do when you cannot understand all or part of an instruction transmitted to you by ATC?",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "Ask the controller to \"Say again\" (repeat) all or part of the instruction.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Check your notes.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Respond \"STOP SQUAWK CHARLIE WRONG INDICATION\".",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "All of the above.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 143,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What must you do when you are in controlled airspace and wish to change frequency briefly to your home base?",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "Obtain a clearance first.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Switch for a maximum of five minutes.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Switch for a maximum of three minutes.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Wait for a gap in transmission then switch.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 144,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Why should you not use a large city as your position when transmitting a position report?",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "It is too inaccurate to be a suitable pinpoint.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "There is too much potential interference in radio transmissions from large cities.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "There are too many other aircraft using the same position.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "All of the above.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 145,
+    "code": "",
+    "type": "MulChoice",
+    "question": "When should you include the time in a position report?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "At the start of a position report.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "At the end of a position report.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "If you send the report some minutes after you passed the position.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "If you are passing through the international dateline.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 146,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What is the recommended distance from the boundary of controlled airspace where you should make a call to obtain clearance to enter?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "5 miles from the boundary.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "5 minutes from the boundary.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "10 miles from the boundary.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "10 minutes from the boundary",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 147,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What does the term 'blind transmission' mean?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "A transmission of information relating to air navigation that is not addressed to a specific station or stations.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "A transmission from one station to another station in circumstances where two-way communication cannot be established but it is believed that the called station is able to receive the transmission.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "A transmission where no reply is required from the receiving station.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "A transmission of messages relating to en-route weather information which may affect the safety of aircraft operations that is not addressed to a specific station or stations.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 148,
+    "code": "",
+    "type": "MulChoice",
+    "question": "An aircraft station fails to establish radio contact with an aeronautical station on the designated frequency. What action is required by the pilot:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "Return to the airport of departure",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Continue the flight to the destination airport without any communication",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Land at the nearest airport without an ATC unit",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Attempt to establish contact with the station on an alternative frequency",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 149,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What action is required by the pilot of an aircraft station if he/she is unable to establish radio contact with an aeronautical station?",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "Try to establish communication with other aircraft or aeronautical stations",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Land at the nearest aerodrome appropriate to the route of flight",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Squawk mode A code 7500",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Divert to the alternate airport",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 150,
+    "code": "",
+    "type": "MulChoice",
+    "question": "A message preceded by the phrase 'Transmitting blind due receiver failure' shall be transmitted:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "On the regional guard frequency",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "On the international emergency frequency",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "On the frequency presently in use",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "On all available aeronautical stations",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 151,
+    "code": "",
+    "type": "MulChoice",
+    "question": "If all attempts to establish radio contact with a ground station fail, the pilot of an aeroplane shall transmit messages preceded by the phrase:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Read you one, read you one'",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "How do you read?'",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Transmitting blind'",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "PAN PAN, PAN PAN, PAN PAN",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 152,
+    "code": "",
+    "type": "MulChoice",
+    "question": "In the event that a pilot is required to make a blind transmission, this should be made:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "Twice on the designated frequency",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "During VFR flights only",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "On the emergency frequency only",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Only once on the designated frequency",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 153,
+    "code": "",
+    "type": "MulChoice",
+    "question": "When transmitting a message preceded by the phrase 'Transmitting blind due to receiver failure' during an en-route flight, the aircraft station shall also:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "Land at the nearest airfield/airport",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Join base leg when approaching the airfield for landing",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Return to the airport of departure",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Advise the time of its next intended transmission",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 154,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Under which of the following circumstances shall an aircraft station squawk 7600 ?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "When entering bad weather areas",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "In case of radio communication failure",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "When flying over desert areas",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "When approaching a prohibited area",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 155,
+    "code": "",
+    "type": "MulChoice",
+    "question": "An aircraft is squawking 7600. This indicates:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "It is diverting to the alternate aerodrome",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "It is requesting immediate level change",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "It is unable to establish communication due to radio equipment failure",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "It is about to make a forced landing",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 156,
+    "code": "",
+    "type": "MulChoice",
+    "question": "When shall the pilot of an aircraft experiencing communications failure keep a watch for instructions passed by visual signals ?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "When flying VFR above clouds",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "When the aircraft is forming part of the aerodrome traffic at a controlled aerodrome",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "When entering a FIR during an IFR flight",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "When the aircraft is entering the traffic pattern of an uncontrolled airport",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 157,
+    "code": "",
+    "type": "MulChoice",
+    "question": "When an aircraft station is unable to establish communication due to receiver failure, the following procedure should be undertaken:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Transmit at regular times or positions, the phrase 'Transmitting blind due to receiver failure'.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Change to frequency 121.5 MHZ and squawk 7700.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Transmit reports at scheduled times or positions, preceded by the phrase 'Transmitting blind due to receiver failure'.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Land at the nearest uncontrolled airfield.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 158,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What is the transponder code for radio communication failure:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "7500",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "6700",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "7700",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "7600",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 159,
+    "code": "",
+    "type": "MulChoice",
+    "question": "You are flying at night in a control zone and have a radio failure you see a series of red and green flashes from the tower, what does this mean.",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Do Not land under any circumstances.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Cleared to Lan",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Danger – Be on the alert.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Tower now off watch.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 160,
+    "code": "",
+    "type": "MulChoice",
+    "question": "You are on the approach for landing within a CTR when your radio fails. What should you do?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "Descend to 1500 ft AGL, squawk 7600, turn on all lights, join base leg for landing.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Continue as cleared, squawk 7600, expect light signals.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Vacate controlled airspace immediately, squawk 7600.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Select the ATIS, squawk 7700, continue as cleared.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 161,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Your radio has failed completely and on joining the downwind leg of a controlled aerodrome you are given a flashing green light. What is the meaning of this light signal?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Cleared to land.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Land at this aerodrome and proceed to the apron.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Return for landing.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Give way to other aircraft and continue circuiting.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 162,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Using the speechless technique, how do transmit that you are unable to comply?",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "Two clicks.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "One click.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Three clicks.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Four clicks",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 163,
+    "code": "",
+    "type": "MulChoice",
+    "question": "A message concerning an aircraft being threatened by grave and imminent danger, requiring immediate assistance is called:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "Flight safety message.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Distress message.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Class B message.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Urgency message.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 164,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Distress is defined as:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "A condition concerning the safety of an aircraft or of a person on board, but which does not require immediate assistance",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "A condition concerning the attitude of an aircraft when intercepting the localizer during an ILS approach",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "A condition of being threatened by serious and/or imminent danger and requiring immediate assistance",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "A condition concerning the safety of a person on board or within sight and requiring immediate assistance",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 165,
+    "code": "",
+    "type": "MulChoice",
+    "question": "An aircraft in distress shall send the following signal by radiotelephony:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "PAN PAN, PAN PAN, PAN PAN",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "DETRESFA, DETRESFA, DETRESFA",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "URGENCY, URGENCY, URGENCY",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "MAYDAY, MAYDAY, MAYDAY",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 166,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The frequency used for the first transmission of a 'MAYDAY' call shall be:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "Any other international emergency frequency",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "The distress frequency 121.5 MHz",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Any frequency at pilot's discretion",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "The frequency currently in use",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 167,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The distress message shall contain as many as possible of the following elements/details:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Aircraft call sign, route of flight, destination airport",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Aircraft call sign, aerodrome of departure, position and level",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Aircraft call sign, nature of distress, pilot's intention, present position, level and heading",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Aircraft call sign, present position, assistance required",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 168,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which of the following frequencies is an international emergency frequency:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "6500 KHz",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "122.500 MHz",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "121.050 MHz",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "121.500 MHz",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 169,
+    "code": "",
+    "type": "MulChoice",
+    "question": "An aircraft in state of emergency shall squawk:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "6700",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "7700",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "7500",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "7600",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 170,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Under which of the following circumstances shall an aircraft squawk 7700 ?",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "When flying within controlled airspace",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "When following a SID",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "When passing the transition level",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "In distress",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 171,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What action should be taken by the aircraft station first receiving a distress message?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "Ask the station to change to frequency 121.5 MHZ.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Immediately acknowledge the distress message.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Request position of the station in distress.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Request the nature of emergency in progress, and request further intentions.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 172,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Urgency is defined as:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "A condition concerning the safety of an aircraft other vehicles or of a person on board, but which does not require immediate assistance",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "A condition of being threatened by serious and/or imminent danger and of requiring immediate assistance",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "A condition concerning the attitude of an aircraft when intercepting the localizer during an ILS approach",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "A condition concerning the safety of a person on board or within sight and requiring immediate assistance",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 173,
+    "code": "",
+    "type": "MulChoice",
+    "question": "An urgency message shall be preceded by the radiotelephony urgency signal:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "URGENCY, spoken three times",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "PAN PAN, spoken three times",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "ALERFA, spoken three times",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "MAYDAY, spoken three times",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 174,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which frequency shall be used for the first transmission of an urgency call:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "The regional guard frequency",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "The international emergency frequency",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Any frequency at pilot's discretion",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "The air-ground frequency in use at the time",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 175,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The order of priority of the following messages in the aeronautical mobile service is:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "Distress message, flight safety message, urgency message.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Direction finding message, distress message, urgency message.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Meteorological message, direction finding message, flight regularity message.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Distress message, urgency message, direction finding message.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 176,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The order of priority of the following messages in the aeronautical mobile service is:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "Flight safety message, meteorological message, flight regularity message.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Flight safety message, direction finding message, urgency message.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Flight regularity message, distress message, meteorological message.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Meteorological message, direction finding message, flight safety message.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 177,
+    "code": "",
+    "type": "MulChoice",
+    "question": "During the radio traffic involving an accident of a light aircraft you overheard the names of the pilot and passengers. This information:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "May be divulged by you only if noinjuries were involved.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Must not be divulged by you to anyone.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "May be divulged by you to the relatives of those involved.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Must not be divulged by you except if no other sources are able to provide the information.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 178,
+    "code": "",
+    "type": "MulChoice",
+    "question": "URGENCY calls:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "Have priority over all calls except PAN-PAN.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Have priority over all other calls.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Do not have priority over other calls unless it is in directly involved with the safety of the aircraft.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Have priority over all calls except distress.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 179,
+    "code": "",
+    "type": "MulChoice",
+    "question": "When can you commence radio transmissions after a distress call",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "At any time.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "You hear the words DISTRESS TRAFFIC ENDE",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "When you’re on the groun",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "To advise you are landing.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 180,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which transponder code should be set when experiencing unlawful interference (Hijacking)?",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "7500",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "7700",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "7600",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "5700",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 181,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Shortly after you have transmitted your position report the aircraft door on the passenger side opens and your attempts to close it are unsuccessful because one of the two door hinges has broken. You should transmit a:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "MAYDAY call on 121.5 MHz.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Pan call on the air-ground frequency in use.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Pan call on 121.5 MHz.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "MAYDAY call on the air-ground frequency in use.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 182,
+    "code": "",
+    "type": "MulChoice",
+    "question": "A typical Pan Call should be used when:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "You want to divert due weather",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "You need to change your heading immediately",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "You have trouble with your transponder",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "For anything that poses threat to the aircraft but immediate assistance is not required.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 183,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What is the top priority you should apply when you are in an emergency?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "The top priority is to transmit an emergency call.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "The top priority is to fly your aircraft.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "The top priority is to aid any passengers.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "The top priority is to land as soon as possible.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 184,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The contents of a MAYDAY call in an ICAO sequence start with MAYDAY MAYDAY MAYDAY, followed by the callsign of the station being called and the aircraft station. Which of the following is NOT one of the three remaining sequence items?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Intentions of pilot-in-command.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Nature of disress.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Number of passengers on board.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Position, altitude and heading.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 185,
+    "code": "",
+    "type": "MulChoice",
+    "question": "If you are transponder equipped, what code should you select when you are in an emergency situation?",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "1 1 1 .",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "1200",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "2200",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "7700",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 186,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What frequency should you select briefly before taxiing out and again prior to engine shutdown?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "1 19.1 MHz.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "121.5 MHz.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "124.8 MHz.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "406 MHz.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 187,
+    "code": "",
+    "type": "MulChoice",
+    "question": "In terms of frequency which of the following options is NOT available to you if your initial emergency call has not received a satisfactory reply?",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "Change to 121.5 MHz.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Change to another frequency you know is being monitored.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Change to marine mobile service RTF.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Change to 123.45 MHz.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 188,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Normal transmission resumes once a distress situation is terminated. In other circumstances, when may normal transmissions resume following a MAYDAY condition?",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "When authorised by the controlling authority.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "When distress traffic is transferred to another frequency.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "When you yourself have to render assistance.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "All of the above.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 189,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What action should you take after hearing an ELT signal on 121.5 following a heavy landing?",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "Check your ELT. If it is activated, turn it off and advise AT",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Advise the RCCNZ of the occurrence.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Advise ATC that you can hear an ELT signal on 121.5.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Check your ELT. If it is transmitting turn it off and don’t tell anyone.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 190,
+    "code": "",
+    "type": "MulChoice",
+    "question": "You are on a cross-country flight from Chu Lai to Da Nang and you are unsure if your ELT is serviceable, so you decide to test it, allowing no more than 3 audio sweeps. Is this permissible?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "Yes, if completed within the first 5 minutes of the hour.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "No, under no circumstances can you test the ELT during flight.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Yes, if tested for no more than 20 seconds.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Yes, if you are in controlled airspace and have received ATC approval",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 191,
+    "code": "",
+    "type": "MulChoice",
+    "question": "When can you test your ELT?",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "The first 5 minutes of the hour for 3 sweeps.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "The last 5 minutes of the hour for 2 sweeps.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Anytime after Evening Civil Twilight.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Only when in for maintenance.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 192,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Why should you not turn the ELT off (ie to ARM) after an emergency activation of the beacon?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "It may deactivate the squelch control.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "It may cause the beacon to malfunction.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "It may interfere with search procedures.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "All of the above.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 193,
+    "code": "",
+    "type": "MulChoice",
+    "question": "RADAR instructs aircraft X-BC: 'X-BC squawk ident'. What does this mean:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Radar identification has been achieved by correlating an observed radar blip with aircraft XY-ABC",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "X-BC should perform an identification turn of at least 020 degrees",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "X-BC shall operate the IDENT button",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "X-BC shall reselect his assigned mode and code",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 194,
+    "code": "",
+    "type": "MulChoice",
+    "question": "RADAR instructs aircraft X-BC: 'X-BC squawk standby '. What does this mean?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "X-BC is requested to standby on the frequency",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "X-BC is requested to standby for radar vectors",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "X-BC is requested to switch to standby position",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "X-BC is requested to standby as the radar controller is busy",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 195,
+    "code": "",
+    "type": "MulChoice",
+    "question": "RADAR instructs aircraft XY-ABC: 'X-BC reset squawk 1015'. What does this mean:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "X-BC has been identified by SSR code 1015",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "X-BC is requested to set new code 1015",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "X-BC has been identified at 10:15 (UTC)",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "X-BC is requested to reselect SSR code 1015",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 196,
+    "code": "",
+    "type": "MulChoice",
+    "question": "How shall a pilot inform a radar control unit that the aircraft is not equipped with transponder:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "Negative transponder",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Negative squawk",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Transponder not available",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "No SSR",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 197,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The radar controller is transmitting: 'Confirm squawk'. What does he mean?",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "The controller wants to know which code is set on the transponder.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "The controller requests the registration of the aircraft.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "The controller wants you to transmit your bearing.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "The controller wants you to repeat your last transmission once again.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 198,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What does switching the transponder to SBY do?",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "Turns the transponder on but it will not respond to any interrogations.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Turns the transponder off.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Turns the transponder to a warm up mode and it will respond to close interrogations.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Turns the transponder on and it will respond to all interrogations.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 199,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The phrase Squawk Charlie means",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "Select ALT on the transponder.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Select ON on the transponder.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Select 7700 on the transponder.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Select 2000 on the transponder.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 200,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Under which of the following circumstances shall an aircraft squawk 7700 ?",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "When flying within controlled airspace",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "When following a SID",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "When passing the transition level",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "In distress",
+        "explanation": ""
+      }
+    ]
+  }
+]

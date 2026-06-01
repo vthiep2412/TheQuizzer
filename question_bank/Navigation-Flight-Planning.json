@@ -1,0 +1,6005 @@
+[
+  {
+    "bankName": "Navigation-Flight-Planning"
+  },
+  {
+    "id": 1,
+    "code": "",
+    "type": "MulChoice",
+    "question": "An aircraft at position 60°N 005°W tracks 090°(T) for 315 km. On completion of the flight the longitude will be:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "000°40'E",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "000°15'E",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "002°10'W",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "005°15'E",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The meridian passing through Greenwich is known as the:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Main meridian.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Equator.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Prime meridian.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Great meridian.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Assume two arbitrary points A and B on the same parallel of latitude, but not on the equator. Point A is located on 010°E and point B on 020°E. The rhumb line distance between A and B is always...",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "more than 600 NM.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "less than 600 NM.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "more than 300 NM.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "less than 300 NM",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What is the only great circle that is a parallel of Latitude?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Prime meridian",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Anti-meridian",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Equator",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Tropic of Cancer",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "code": "",
+    "type": "MulChoice",
+    "question": "1° of Latitude is equal to?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "100nm",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "60nm",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "10nm",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "1nm",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "code": "",
+    "type": "MulChoice",
+    "question": "1 nm is equal to:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "6080ft",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "6086ft",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "7080ft",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "1000ft",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Parallels of latitude, except the equator, are:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Great circles",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "both Rhumb lines and Great circles",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Rhumb lines",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "are neither Rhumb lines nor Great circles",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The shortest distance between two points on Earth is represented by a part of...",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "a great circle.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "a small circle.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "a rhumb line.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "a parallel of latitude.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What is the difference in latitude between A (12°53'30''N) and B (07°34'30''S)?",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "20°28'00''",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "05,19°",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "20,28°",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "05°19'00''",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "code": "",
+    "type": "MulChoice",
+    "question": "A Rhumb line is:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "the shortest distance between two points on a Polyconic projection",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "a line on the surface of the Earth cutting all meridians at the same angle",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "a line convex to the nearest pole on a Mercator projection",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "any straight line on a Lambert projection",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Position X and Position Y are located on the same latitude. The distance between Position X (E176˚43’ N38˚24’30’’) and Position Y (E173˚10’ N38˚24’30’’) is:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "223nm",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "213nm",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "333nm",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "343nm",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Point A on the Earth's surface lies exactly on the parallel of latitude of 47°50'27''N. Which point is exactly 240 NM north of A?",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "43°50'27''N",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "53°50'27''N",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "49°50'27''N",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "51°50'27'N'",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Position A = (30°00.0'N, 175°23.2'W); Position B = (30°00.0'N, 173°48.1'E). For the route from A to B the:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "great circle direction at A is 275.4°",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "rhumb line distance is 648.7 NM",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "rhumb line distance is 562 NM",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "great circle direction at B is 092.7°",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The distance along a meridian between 63°55'N and 13°47'S is:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "7702 NM",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "5008 NM",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "4662 NM",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "3008 NM",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "code": "",
+    "type": "MulChoice",
+    "question": "An aircraft is following the 45°N parallel of latitude. The track followed is a:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "rhumb line",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "constant-drift track",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "great circle",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "constant-heading track",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "code": "",
+    "type": "MulChoice",
+    "question": "An Agonic line is a line that connects:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "positions that have the same variation",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "positions that have 0° variation",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "points of equal magnetic horizontal field strength",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "points of equal magnetic direction",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Given: true track is 348°; drift 17° left; variation 32° W; deviation 4°E. What is the compass heading?",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "033°",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "337°",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "359°",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "007°",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Compass deviation is defined as the angle between:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "True North and Magnetic North",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Magnetic North and Compass North",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "the horizontal and the total intensity of the earth's magnetic field",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "True North and Compass North",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The angle between True North and Magnetic North is called:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "variation",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "drift",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "compass error",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "deviation",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Deviation applied to magnetic heading gives:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "compass heading",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "magnetic track",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "magnetic course",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "true heading",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The horizontal component of the Earth's magnetic field:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "weakens with increasing distance from the magnetic poles",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "weakens with increasing distance from the nearer magnetic pole",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "is stronger closer to the magnetic equator",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "is approximately the same at all magnetic latitudes less than 60°",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "code": "",
+    "type": "MulChoice",
+    "question": "When is the magnetic compass most effective?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "In the region of the magnetic South Pole.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "In the region of the magnetic North Pole.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "About midway between the magnetic poles",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "On the geographic equator",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The force acting on the needle of a direct reading compass varies:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "inversely with both vertical and horizontal components of the earth's magnetic field",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "directly with the vertical component of the earth's magnetic field",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "inversely with the horizontal component of the earth's magnetic field",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "directly with the horizontal component of the earth's magnetic field",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "code": "",
+    "type": "MulChoice",
+    "question": "At a specific location, the value of magnetic variation:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "varies slowly over time",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "depends on the true heading",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "depends on the magnetic heading",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "depends on the type of compass installed",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which of the following is an occasion for carrying out a compass swing on a Direct Reading Compass?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "Before an aircraft goes on any flight that involves a large change of magnetic latitude",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "After an aircraft has passed through a severe electrical storm, or has been struck by lightning",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Whenever an aircraft carries a large freight load regardless of its content",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "After any of the aircraft radio equipment has been changed due to unserviceability",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "code": "",
+    "type": "MulChoice",
+    "question": "One purpose of a compass calibration is to reduce the difference, if any, between:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "true north and magnetic north.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "compass north and true north.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "compass north and the lubber line.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "compass north and magnetic north.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Given: Magnetic heading 311°; Drift angle 10° left; Relative bearing of NDB 270°. What is the magnetic bearing of the NDB measured from the aircraft?",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "211°",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "208°",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "180°",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "221°",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Given the following: True track: 192°; Magnetic variation: 7°E; Drift angle: 5° left. What is the magnetic heading required to maintain the given track?",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "204°",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "194°",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "180°",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "190°",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The forces acting upon the compass needle in a stand-by compass in an aircraft are:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "the Earth's magnetic field, the Coriolis effect and aircraft magnetism",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "the Earth's magnetic field, the aircraft magnetic field and the effects of attitude and movement of the aircraft",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "the total magnetic field in the compass location",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "mechanical forces only",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The purpose of compass check swing is to:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "Cancel out the effects of the magnetic fields found on board the aeroplane.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "cancel out the horizontal component of the Earth's magnetic field.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "cancel out the vertical component of the Earth's magnetic field.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "measure the angle between Magnetic North and compass North.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Given:\nVariation:                         20°E\nWind Effect:              10° right drift\nDeviation:                         3°W\nThe COMPASS HEADING required to fly a TRUE TRACK of 320° is:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "287°C.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "293°C.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "297°C.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "303°C.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The angle between the horizontal and vertical components of the earth’s magnetic field is known as the?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Angle of inclination.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Magnetic angle.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Angle of dip.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Angle of incidence.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Isogonic lines connect positions that have:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "0° variation",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "the same elevation",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "the same variation",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "the same angle of magnetic dip",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "code": "",
+    "type": "MulChoice",
+    "question": "You are flying on a compass heading of 270˚and ascertain that you are experiencing 5˚starboard drift. What is your true track over the ground if the variation is 5˚west and the deviation is 1˚E?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "269˚T",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "271˚T",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "266˚T",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "276˚T",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What is the dip angle at the south magnetic pole?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "0.0",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "90.0",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "180.0",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "64.0",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What is magnetic variation?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Angle between the direction indicated by a compass and magnetic north.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Angle between the true north and was pass north.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Angle between magnetic and true north.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Angle between magnetic heading and magnetic north.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The effect of acceleration error on the reading of a magnetic compass is greatest on heading:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "180 and 360.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "045 and 225.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "135 and 315.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "090 and 270.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "code": "",
+    "type": "MulChoice",
+    "question": "If your true heading is to be 234˚ and the local variation is 6˚W, what will be your compass heading if the compass deviation is 1˚E?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "229˚",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "241˚",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "239˚",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "227˚",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Cardinal points are:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "North and South.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "East and West.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "North, South, East and West.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Northeast and Southwest.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "code": "",
+    "type": "MulChoice",
+    "question": "True Direction is 060˚. Variation is 17˚E. What is Magnetic Direction?",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "043˚",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "077˚",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "257˚",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "300˚",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Magnetic Direction is 023˚. Variation is 23˚W. What is True Direction?",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "046˚",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "180˚",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "203˚",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "000˚",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Magnetic Direction is 190˚. True Direction is 172˚. What is Variation?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "18˚E",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "2˚E",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "18˚W",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "2˚W",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "code": "",
+    "type": "MulChoice",
+    "question": "You are on track VVCA – VVTH correcting for 5° left (port) drift. What is the relative bearing of VVTH:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "5°R",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "355°R",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "175°R",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "185°R",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The lines on the earth's surface that join points of equal magnetic variation are called:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "Isogrives",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "isotachs",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "isoclines",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "isogonals",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "code": "",
+    "type": "MulChoice",
+    "question": "A negative (westerly) magnetic variation signifies that:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "True North is East of Magnetic North",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Compass North is West of Magnetic North",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Compass North is East of Magnetic North",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "True North is West of Magnetic North",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "code": "",
+    "type": "MulChoice",
+    "question": "One purpose of a compass calibration is to reduce the difference, if any, between:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "true north and magnetic north.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "compass north and true north.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "compass north and the lubber line.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "compass north and magnetic north.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Given the following: Magnetic heading: 060°; Magnetic variation: 8°W; Drift angle: 4° right. What is the true track?",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "056°",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "072°",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "048°",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "064°",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Given: True track 180°; Drift 8°R; Compass heading 195°; Deviation -2°; Calculate the variation.",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "25°W",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "21°W",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "9°W",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "5°W",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Given: True course 300°; drift 8°R; variation 10°W; deviation -4°. Calculate the compass heading.",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "322°",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "306°",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "278°",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "294°",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Given:true track 352°; variation 11° W; deviation is -5°; drift 10°R. Calculate the compass heading?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "346°",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "018°",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "358°",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "025°",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Given: true track 070°; variation 30°W; deviation +1°; drift 10°R. Calculate the compass heading?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "091°",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "100°",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "089°",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "101°",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "code": "",
+    "type": "MulChoice",
+    "question": "An island is observed to be 15° to the left. The aircraft heading is 120°(M), variation 17°(W). The bearing °(T) from the aircraft to the island is:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "122.0",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "268.0",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "88.0",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "302.0",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The term ‚magnetic course' (MC) is defined as...",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "the angle between magnetic north and the course line.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "the angle between true north and the course line.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "the direction from an arbitrary point on Earth to the geographic North Pole.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "the direction from an arbitrary point on Earth to the magnetic north pole.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The angle between Magnetic North and Compass North is called:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "magnetic variation",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "compass error",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "compass deviation",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "alignment error",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "code": "",
+    "type": "MulChoice",
+    "question": "An island is observed to be 30° to the right of the nose of the aircraft. The aircraft heading is 290°(M), variation 10°(E). The bearing °(T) from the aircraft to the island is:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "270.0",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "330.0",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "310.0",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "250.0",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "code": "",
+    "type": "MulChoice",
+    "question": "If the Compass Heading is 265°, variation is 33° W and deviation is 3°E, what is the True Heading?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "229°",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "235°",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "295°",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "301°",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The term 'True Course' (TC) is defined as...",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "the angle between magnetic north and the course line.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "the direction from an arbitrary point on Earth to the geographic North Pole.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "the angle between true north and the course line.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "the direction from an arbitrary point on Earth to the magnetic north pole",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Given: True Track 245°; Drift 5° right; Variation 3° E; Compass Hdg 242°. Calculate the Magnetic Heading.",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "247°",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "243°",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "253°",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "237°",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Given: Variation is 6°W; Isogonic lines Jan 2002; Average annual increase 10'. Calculate: Variation in 2005.",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "5.5°W",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "6.5°W",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "6.3°W",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "5.5°E",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Define Track-Made-Good (TMG):",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "The planned path of the aircraft over the surface of the earth.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "The actual track, or path, of the aircraft over the surface of the earth.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "The angular difference between the HDG and the track of the aircraft over the ground.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "The angular difference between the wind and flight planned track.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Given: Course 040°(T), TAS is 120 kt, Wind speed 30 kt. Maximum drift angle will be obtained for a wind direction of:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "130°",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "120°",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "115°",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "145°",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Weather deteriorates while on a cross country, so you should descend because:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "Workload is easier.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Landmarks are easier to see, though workload will increase.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "You will avoid turbulence, best for learner pilots.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Visibility will be better and workload easier.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Given: Airport elevation is 1000 ft. QNH is 988 hPa. What is the approximate airport pressure altitude? (Assume 1 hPa = 27 FT)",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "320 FT",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "680 FT",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "1680 FT",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "1320 FT",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What is the value you would need to set in your altimeter subscale for it to read QNE?",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "900hPa",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "1000hPa",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "1010hPa",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "1013hPa",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Morning Civil twilight begins when:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "the centre of the Sun is 6° below the celestial horizon",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "the Sun's upper edge is tangential to the celestial horizon",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "the centre of the Sun is 18° below the celestial horizon",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "the centre of the Sun is 12° below the celestial horizon",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The ICAO definition of ETA is the:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "actual time of arrival at a point or fix",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "estimated time en-route",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "estimated time of arrival at destination",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "estimated time of arrival at an en-route point or fix",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "code": "",
+    "type": "MulChoice",
+    "question": "By the term \"transit\" of a heavenly body it is understood that:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "the body is moving.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "the body is passing the meridian of the observer or another specified meridian.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "the body is passing the anti-meridian of the observer.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "the body is at the same celestial as another body.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "code": "",
+    "type": "MulChoice",
+    "question": "If the mean Sun moves 121°30' along the equator, that equals:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "20 hours 10 minutes.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "6 hours 20 minutes.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "8 hours 06 minutes.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "9 hours 15 minutes.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "code": "",
+    "type": "MulChoice",
+    "question": "When proceeding, on a given date, along a parallel towards the East, the moment of sunrise will occur one hour earlier every 15° difference in longitude when it is expressed in:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "UTC",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "LAT (Local Apparent Time)",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Standard Time",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "LMT",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "code": "",
+    "type": "MulChoice",
+    "question": "A day at a place as measured in local mean standard time starts:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "when the mean Sun transits the anti meridian of the place in question.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "when the mean Sun transits the Greenwich meridian.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "when the mean Sun transits the 180 E/W meridians.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "when the Sun transits the meridian of the place in question.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Civil Twilight is defined by:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "Sun's altitude is 6° below the celestial horizon.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Sun's altitude is 18° below the celestial horizon.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Sun's upper edge tangential to horizon.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Sun’s altitude is 12° below the celestial horizon.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The \"duration of twilight\":",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "will in the period around the equinoxes increase as you approach the equator from North or South.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "is generally longer in positions at high latitudes than in positions at lower latitudes.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "is independently of the Sun's declination, and only depends on the observers latitude and longitude.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "is longer in the morning than in the evening because of the refraction in the atmosphere.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What is the angle of inclination of the earth’s axis to its orbital plane?",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "23.5°",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "66.5°",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "90°",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "33.5°",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "code": "",
+    "type": "MulChoice",
+    "question": "5 HR 20 MIN 20 SEC corresponds to a longitude difference of:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "81°10'",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "80°05'",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "78°45'",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "75°00'",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The beginning of morning civil twilight occurs when?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "This occurs when the upper limb of the sun is on the visible horizon.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "This occurs when the centre of the sun is 6° below the sensible horizon.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "This occurs during the period of quasi light.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "This occurs at different times depending on season and latitude.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "code": "",
+    "type": "MulChoice",
+    "question": "How much time does it take for the mean Sun to move from meridian 145°15'E to meridian 023°45'W?",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "11 hours 16 minutes",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "9 hours 41 minutes",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "6 hours 15 minutes",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "8 hours 06 minutes",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Seasons are due to the:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "Earth's elliptical orbit around the Sun",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Inclination of the polar axis with the ecliptic plane",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Variable distance between Earth and Sun",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Earth's rotation on its polar axis",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What is the difference in time when the sun moves 20° of longitude?",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "1:20 h",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "0:20 h",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "0:40 h",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "1:00 h",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Civil Twilight is defined by:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "Sun's altitude is 6° below the celestial horizon.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Sun's altitude is 18° below the celestial horizon.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Sun's upper egde tangential to horizon.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Sun’s altitude is 12° below the celestial horizon.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Standard time for some areas is listed in the Air Almanac as UTC +13 instead of UTC -11. The reason for this is:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "the fact that they are keeping daylight saving time.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "the sense of Earth rotation.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "the setup of the sunrise/sunset tables.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "keeping the same date as the political and/or economical area to which they belong.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The relationship between the mean Sun's movement along the equator and Mean time is:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "5 hours of time equals 75° of arc.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "1° of arc equals 4 minutes of time.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "180° of arc equals 12 hours of time.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "all answers are correct.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Civil twilight occurs between:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "6° and 12° below the horizon.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "sunset and 6° below the horizon.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "sunrise and sunset.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "12° and 18° below the horizon.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The sun moves 10° of longitude. What is the difference in time?",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "0.4 h",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "1 h",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "0.33 h",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "0.66 h",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Location A is at 50°N 030°W and location B is at 50°S 030°W. On 27th November it is noted that:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "Sunrise and sunset will be at the same time at A and B.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Sunrise will be later at A than it is at B and sunset will be earlier at A than it is at B.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Sunrise will be earlier at A than it is at B and sunset will be earlier at A than it is at B",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Sunrise will be earlier at A than it is at B and sunset will be later at A than it is at B.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "code": "",
+    "type": "MulChoice",
+    "question": "In a navigation chart a distance of 49 NM is equal to 7 cm. The scale of the chart is approximately:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "1 : 130000",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "1 : 700000",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "1 : 7000000",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "1 : 1300000",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Approximately how many nautical miles correspond to 12 cm on a map with a scale of 1: 2 000 000?",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "130.0",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "43.0",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "329.0",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "150.0",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Contour lines on aeronautical maps and charts connect points:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "having the same longitude",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "with the same variation",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "of equal latitude",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "having the same elevation above sea level",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Given: Chart Scale 1: 50,000. Which statement below is most correct?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "The maximum error in distances measured on the chart is 1cm in every 50,000cm.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "If the distance between points A and B on the chart is 1 cm, the distance on the earth between points A and Bis 5,000m.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "The distance on the earth between points A and Bis 50,000 times the distance measured on the chart.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "The convergence of the meridians of longitude between the two standard parallels going from the equator to the pole is 1 m of latitude for every 50,000m of longitude.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "code": "",
+    "type": "MulChoice",
+    "question": "On a chart, a straight line is drawn between two points and has a length of 4,63 cm. What is the chart scale if the line represents 150 NM?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "1:1.000.000",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "1:6.000:000",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "1:3.000.000",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "1:5.000.000",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Given a chart scale of 1:1 000 000, what is represented by a chart distance of 20cm?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "103nm",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "110nm",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "115nm",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "123nm",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What is the meaning of aeronautical chart symbol No. 15?",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "Aeronautical ground light",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Lighthouse",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Hazard to aerial navigation",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Visual reference point",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What is the meaning of aeronautical chart symbol No. 16?",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "Shipwreck showing above the surface at low tide",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Off-shore helicopter landing platform",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Off-shore lighthouse",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Lightship",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "code": "",
+    "type": "MulChoice",
+    "question": "You are flying between Chu Lai and Danang. Track is 305° M:\n2243 UTC:        The aircraft position is pinpointed on track 10nm from Chulai.\nAircraft maintains a HDG 315° M and TAS 115kt.\n2303 UTC:        The aircraft position is pinpointed 45nm from Chu Lai and is on track.\nThe WIND DIRECTION and SPEED between Chu Lai and Danang is:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "306°M/24kt.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "266°M /18kt",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "142°M/16kt.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "013°M/22kt.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "code": "",
+    "type": "MulChoice",
+    "question": "You dip the fuel tanks and measure 30 Imperial gallons. According to the aircraft flight manual the fuel capacity is 60 US gallons. The quantity of fuel in LITRES required to fill the aircraft fuel tanks is:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "80 litres.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "90 litres.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "100 litres",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "110 litres.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Use the circular side rule on your flight computer for distance, speed and time calculations. Complete the table below: Metres: 1000; Feet?",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "3280.0",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "3300.0",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "3180.0",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "3195.0",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Use the circular side rule on your flight computer for distance, speed and time calculations. Complete the table below: Distance(nm):156; Time(min): 43; GS(kt)?",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "198.0",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "200.0",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "215.0",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "218.0",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Pressure altitude: 6000ft; Temp: +20°C; Density altitude: ?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "8200 ft",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "7900 ft",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "8900 ft",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "7500 ft",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "code": "",
+    "type": "MulChoice",
+    "question": "You are planning a X country flight on which your desired track is 340°T. Your planned TAS is 89 kts and forecasted wind is 130/14. What true heading must be flowed to maintain this track, and what will be your ground speed?",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "335°T 161 kts",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "345°T 76 kts",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "335°T 76 kts",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "345°T 101 kts",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "code": "",
+    "type": "MulChoice",
+    "question": "CAS:                         175kt\nPressure altitude:        8000ft\nTemp:                        +5°C\nTAS:                           ?",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "200kt",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "205kt",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "210Kt",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "215kt",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Given: Pressure altitude: 5 500ft; Temperature: 5 degrees; IAS: 125kts. The true airspeed is:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "122kts",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "136kts",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "116kts",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "130kts",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Convert 82 kilograms to pounds:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "180 lb",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "200 lb",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "220 lb",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "240 lb",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "code": "",
+    "type": "MulChoice",
+    "question": "With a pressure altitude of 4,000ft you read +15°c on your oat and have an IAS of 120 kt. What is your TAS?",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "112 kt",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "119 kt",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "122 kt",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "129 kt",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The distance between a and b is 185 nm. The aircraft TAS is 130 kt, affected by a wind component of +20 kt. What will be the time taken to fly from a to b?",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "125 min",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "101 min",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "85 min",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "74 min",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Given:True course from A to B = 090°; TAS = 120 KT ; W/V = 360/23 KT ; Average variation = 10°E ;Deviation = -2°. Calculate the compass heading and GS?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "060° - 138 KT",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "067° - 118 KT",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "087° - 118 KT",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "078° - 138 KT",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Given: GS = 510 kt.; Distance A to B = 43 NM. What is the time (MIN) from A to B?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "4.0",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "5.0",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "7.0",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "6.0",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Given: GS = 122 KT; Distance from A to B = 985 NM. What is the time from A to B?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "7 h 48 min",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "8 h 04 min",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "8 h 10 min",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "7 h 49 min",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Given: GS = 236 kt. Distance from A to B = 354 NM. What is the time from A to B?",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "1 HR 30 MIN",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "1 HR 40 MIN",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "1 HR 10 MIN",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "1 HR 09 MIN",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Given: GS = 435 kt. Distance from A to B = 1920 NM. What is the time from A to B?",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "3 HR 26 MIN",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "3 HR 25 MIN",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "4 HR 10 MIN",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "4 HR 25 MIN",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Given: GS = 345 kt. Distance from A to B = 3560 NM. What is the time from A to B?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "10 HR 05 MIN",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "10 HR 19 MIN",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "11 HR 02 MIN",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "11 HR 00 MIN",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Given: GS = 480 kt. Distance from A to B = 5360 NM. What is the time from A to B?",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "11 HR 07 MIN",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "11 HR 06 MIN",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "11 HR 15 MIN",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "11 HR 10 MIN",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Given: GS = 95 kt. Distance from A to B = 480 NM. What is the time from A to B?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "4 HR 59 MIN",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "5 HR 00 MIN",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "5 HR 03 MIN",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "5 HR 08 MIN",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Given: GS = 105 kt. Distance from A to B = 103 NM. What is the time from A to B?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "00 HR 57 MIN",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "00 HR 58 MIN",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "00 HR 59 MIN",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "01 HR 01 MIN",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Given: GS = 120 kt. Distance from A to B = 84 NM. What is the time from A to B?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "00 HR 43 MIN",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "00 HR 44 MIN",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "00 HR 42 MIN",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "00 HR 45 MIN",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Given: GS = 135 kt. Distance from A to B = 433 NM. What is the time from A to B?",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "3 HR 12 MIN",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "3 HR 20 MIN",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "3 HR 19 MIN",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "3 HR 25 MIN",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Given: Required course 045°(M); Variation is 15°E; W/V is 190°(T)/30 kt; CAS is 120 kt at FL 55 in standard atmosphere. What are the heading (°M) and GS?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "036° and 151 kt",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "055° and 147 kt",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "056° and 137 kt",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "052° and 154 kt",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "code": "",
+    "type": "MulChoice",
+    "question": "265 US-GAL equals? (Specific gravity 0.80)",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "862 kg",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "895 kg",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "803 kg",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "940 kg",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "code": "",
+    "type": "MulChoice",
+    "question": "730 fpm equals:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "1.6 m/s",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "5.2 m/s",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "2.2 m/sec",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "3.7 m/s",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "code": "",
+    "type": "MulChoice",
+    "question": "How long will it take to fly 5 NM at a groundspeed of 269 Kt ?",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "2 MIN 30 SEC",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "1 MIN 55 SEC",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "0 MIN 34 SEC",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "1 MIN 07 SEC",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "code": "",
+    "type": "MulChoice",
+    "question": "An aircraft travels 2.4 statute miles in 47 seconds. What is its groundspeed?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "183 kt",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "209 kt",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "160 kt",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "131 kt",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "code": "",
+    "type": "MulChoice",
+    "question": "How many NM would an aircraft travel in 1 MIN 45 SEC if GS is 135 kt?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "2.36",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "3.25",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "3.94",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "39.0",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Fuel flow per h is 22 US-GAL, total fuel on board is 83 IMP GAL.What is the endurance?",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "4 HR 32 MIN",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "2 HR 15 MIN",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "3 HR 53 MIN",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "3 HR 12 MIN",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 122,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What is the ratio between the litre and the US-GAL ?",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "1 US-GAL equals 4.55 litres",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "1 litre equals 3.78 US-GAL",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "1 litre equals 4.55 US-GAL",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "1 US-GAL equals 3.78 litres",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 123,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The equivalent of 70 m/sec is approximately:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "145 kt",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "210 kt",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "136 kt",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "35 kt",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 124,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Given: CAS 120 kt, FL 80, OAT +20°C. What is the TAS?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "102 kt",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "141 kt",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "132 kt",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "120 kt",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 125,
+    "code": "",
+    "type": "MulChoice",
+    "question": "An aircraft is following a true track of 048° at a constant TAS of 210 kt. The wind velocity is 350° / 30 kt. The GS and drift angle are:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "192 kt, 7° right",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "225 kt, 7° left",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "192 kt, 7° left",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "200 kt, 3.5° right",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 126,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Given: True heading = 310°; TAS = 200 kt; GS = 176 kt; Drift angle 7° right. Calculate the W/V?",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "090° / 33 kt",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "360° / 33 kt",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "180° / 33 kt",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "270° / 33 kt",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 127,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Given: True Heading = 090°; TAS = 180 kt; GS = 180 kt; Drift 5° right. Calculate the W/V?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "190° / 15 kt",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "005° / 15 kt",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "185° / 15 kt",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "355° / 15 kt",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 128,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Given: True Heading = 090°; TAS = 200 kt; W/V = 220° / 30 kt. Calculate the GS?",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "180 kt",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "230 kt",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "200 kt",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "220 kt",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 129,
+    "code": "",
+    "type": "MulChoice",
+    "question": "An aeroplane is flying at TAS 180 KT on a track of 090°. The W/V is 045° / 50 KT. How far can the aeroplane fly out from its base and return in one hour?",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "85 NM",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "176 NM",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "56 NM",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "88 NM",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 130,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The reported surface wind from the Control Tower is 240°/35 kt. Runway 30 (300°). What is the cross-wind component?",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "30 kt",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "21 kt",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "27 kt",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "24 kt",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 131,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Given: Compass Heading 090; Deviation 2W; Variation 12E; TAS 160 KT. Whilst maintaining a radial 070 from a VOR station, the aircraft flies a ground distance of 14 NM in 6 MIN. What is the W/V (T)?",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "160° / 50 KT",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "155° / 25 KT",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "340° / 98 KT",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "340° / 25 KT",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 132,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Given: TAS = 220 kt; Magnetic course = 212 °, W/V 160 °(M)/ 50kt, Calculate the GS?",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "186 kt",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "250 kt",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "246 kt",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "290 kt",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 133,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Given: Magnetic track = 315 °, HDG = 301 °(M), VAR = 5°W, TAS = 225 kt, The aircraft flies 50 NM in 12 MIN. Calculate the W/V(°T)?",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "195 °/61 kt",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "355 °/15 kt",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "195 °/63 kt",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "190 °/63 kt",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 134,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Given: TAS = 140 kt, True HDG = 302°, W/V = 045°(T)/45kt. Calculate the drift angle and GS?",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "9°L - 146 kt",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "9°R - 143 kt",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "18°R - 146 kt",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "16°L - 156 kt",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 135,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Given: TAS = 190 kt, True HDG = 085°, W/V = 110°(T)/50kt. Calculate the drift angle and GS?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "7°L - 156 kt",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "4°L - 168 kt",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "8°L - 146 kt",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "4°L - 145 kt",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 136,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Given: TAS = 132 kt, True HDG = 257°; W/V = 095°(T)/35kt. Calculate the drift angle and GS?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "2°R - 166 kt",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "4°R - 165 kt",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "3°L - 166 kt",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "4°L - 167 kt",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 137,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Given: TAS = 125 kt, True HDG = 355°, W/V = 320°(T)/30kt. Calculate the true track and GS?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "345 - 100 kt",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "005 - 102 kt",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "002 - 98 kt",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "348 - 102 kt",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 138,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Given: TAS = 135 kt,HDG (°T) = 278, W/V = 140/20kt Calculate the Track (°T) and GS?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "279 - 152 kt",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "272 - 121 kt",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "283 - 150 kt",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "275 - 150 kt",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 139,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Given: TAS = 225 kt, HDG (°T) = 123°, W/V = 090/60kt. Calculate the Track (°T) and GS?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "134 - 188 kt",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "134 - 178 kt",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "128 - 180 kt",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "120 - 190 kt",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 140,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Given: TAS = 155 kt, HDG (T) = 216°, W/V = 090/60kt. Calculate the Track (°T) and GS.",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "224 - 175 kt",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "231 - 196 kt",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "226 - 186 kt",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "222 - 181 kt",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 141,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Given: TAS = 170 kt, HDG(T) = 100°, W/V = 350/30kt. Calculate the Track (°T) and GS?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "091 - 183 kt",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "109 - 182 kt",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "098 - 178 kt",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "103 - 178 kt",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 142,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Given: TAS = 95 kt, HDG (T) = 075°, W/V = 310/20kt. Calculate the drift and GS?",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "9L - 105 kt",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "10L - 104 kt",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "8R - 104 kt",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "9R - 108 kt",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 143,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Given: TAS = 140 kt, HDG (T) = 005°, W/V = 265/25kt. Calculate the drift and GS?",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "10R - 146 kt",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "11R - 140 kt",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "11R - 142 kt",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "9R - 140 kt",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 144,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Given: TAS = 190 kt, HDG (T) = 355°, W/V = 165/25kt. Calculate the drift and GS?",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "1L - 215 kt",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "1R - 165 kt",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "1R - 175 kt",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "1L - 225 kt",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 145,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Given: TAS = 132 kt, HDG (T) = 053°, W/V = 205/15kt. Calculate the Track (°T) and GS?",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "050 - 145 kt",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "051 - 144 kt",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "052 - 143 kt",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "057 - 144 kt",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 146,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Given: TAS = 90 kt, HDG (T) = 355°, W/V = 120/20kt. Calculate the Track (°T) and GS?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "006 - 95 kt",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "346 - 102 kt",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "359 - 102 kt",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "358 - 101 kt",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 147,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Given: TAS = 155 kt, Track (T) = 305°, W/V = 160/18kt. Calculate the HDG (°T) and GS?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "305 - 169 kt",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "301 - 169 kt",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "309 - 141 kt",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "309 - 170 kt",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 148,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Given: TAS = 130 kt, Track (T) = 003°, W/V = 190/40kt. Calculate the HDG (°T) and GS?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "002 - 173 kt",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "001 - 170 kt",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "357 - 168 kt",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "359 - 166 kt",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 149,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Given: TAS = 200 KT; Track (T) = 110°; W/V = 015/40 KT. Calculate the HDG (°T) and GS?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "121 - 207 KT",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "099 - 199 KT",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "097 - 201 KT",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "121 - 199 KT",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 150,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Given: True HDG = 206°, TAS = 140 kt, Track (T) = 207°, GS = 135 kt. Calculate the W/V?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "000/05kt",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "000/10kt",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "180/05kt",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "180/10kt",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 151,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Given: True HDG = 002°, TAS = 130 kt, Track (T) = 353°, GS = 132 kt. Calculate the W/V?",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "090/20kt",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "090/15kt",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "095/25kt",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "095/20kt",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 152,
+    "code": "",
+    "type": "MulChoice",
+    "question": "For a landing on runway 23 (227° magnetic) surface. W/V reported by the ATIS is 180/30kt. VAR is 13°E. Calculate the crosswind component?",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "15 kt",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "26 kt",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "20 kt",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "22 kt",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 153,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Given: Maximum allowable tailwind component for landing 10 kt. Planned runway 05 (047° magnetic). The direction of the surface wind reported by ATIS 210°. Variation is 17°E. Calculate the maximum allowable wind speed that can be accepted without exceeding the tailwind limit?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "18 kt",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "11 kt",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "15 kt",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "8 kt",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 154,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Given: Maximum allowable crosswind component is 20 kt. Runway 06, RWY QDM 063°(M). Wind direction 100°(M). Calculate the maximum allowable wind speed?",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "26 kt",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "37 kt",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "25 kt",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "33 kt",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 155,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Given: For take-off an aircraft requires a headwind component of at least 10 kt and has a cross-wind limitation of 35 kt. The angle between the wind direction and the runway is 60°. Calculate the minimum and maximum allowable wind speeds?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "12 kt and 38 kt",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "20 kt and 40 kt",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "18 kt and 50 kt",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "15 kt and 43 kt",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 156,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Given: Runway direction 230°(T), Surface W/V 280°(T)/40 kt. Calculate the effective cross-wind component?",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "21 kt",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "36 kt",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "26 kt",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "31 kt",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 157,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Given: Runway direction 210°(M), Surface W/V 230°(M)/30kt. Calculate the cross-wind component?",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "16 kt",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "19 kt",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "13 kt",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "10 kt",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 158,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Given: Runway direction 305°(M), Surface W/V 260°(M)/30 kt. Calculate the cross-wind component?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "24 kt",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "21 kt",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "18 kt",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "27 kt",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 159,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Given: An aircraft is on final approach to runway 32R (322°); The wind velocity reported by the tower is 350°/20 kt.; TAS on approach is 95 kt. In order to maintain the centre line, the aircraft's heading (°M) should be:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "316°",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "322°",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "326°",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "328°",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 160,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Given: FL120, OAT is ISA standard, CAS is 200 kt, Track is 222°(M), Heading is 215°(M), Variation is 15°W. Time to fly 105 NM is 21 MIN. What is the W/V?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "040°(T) / 105 kt.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "055°(T) / 105 kt .",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "050°(T) / 70 kt.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "065°(T) / 70 kt.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 161,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Given: Pressure Altitude 29000 FT, OAT -55°C. Calculate the Density Altitude?",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "33500 FT",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "31000 FT",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "26000 FT",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "27500 FT",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 162,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Convert 82 kilograms to pounds:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "180 lb",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "200 lb",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "220 lb",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "240 lb",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 163,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Using the wind face of your flight computer, Complete the table shown below:\nHdg°(T):        ?\nW/V:             145/20\nTrack°(T):     021        \nTAS:              80\nGS:                ?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "033 °(T) / 50 kt",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "033°(T) / 90 kt",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "030°(T) / 85 kt",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "030°(T) / 87 kT",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 164,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Given: True Track = 095°; TAS = 160 kt; True Heading = 087°; GS = 130 kts. Calculate W/V",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "237°/36 kt",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "057°/36 kt",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "124°/36 kt",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "307°/36 kt",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 165,
+    "code": "",
+    "type": "MulChoice",
+    "question": "An aircraft is flying at FL180 and the outside air temperature is -30°C. If the CAS is 150 kt, what is the TAS?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "115 kt",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "180 kt",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "195 kt",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "145 kt",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 166,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Use the circular side rule on your flight computer for distance, speed and time calculations. Complete the table below: Distance(nm): 46.5; Time(min): 16.5; GS(kt): ?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "165.0",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "169.0",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "172.5",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "175.0",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 167,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Use the circular side rule on your flight computer for distance, speed and time calculations.",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Complete the table below: GS(kt): 175; Distance(nm): 234; Time(min): ?",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "75.0",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "78.5",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "8082.0",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 168,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Given: Distance 'A' to 'B' is 90 NM; Fix obtained 60 NM along and 4 NM to the right of course. What heading alteration must be made to reach 'B'?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "16° Left",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "12° Left",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "8° Left",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "4° Left",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 169,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The distance between two waypoints is 200 NM; To calculate compass heading, the pilot used 2°E magnetic variation instead of 2°W. Assuming that the forecast W/V applied, what will the off track distance be at the second waypoint?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "7 NM",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "14 NM",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "21 NM",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "0 NM",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 170,
+    "code": "",
+    "type": "MulChoice",
+    "question": "You are flying between Chu Lai and Pleiku. \nSince departing Chu Lai a constant heading has been maintained and the aircraft has remained on track:\nFlight plan track:          040°M\nHeading is:                    027°M\nFrom your present position you plan to reverse track and return to Chu Lai. The approximate HEADING required to reverse track is:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "207°M.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "220°M",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "233°M.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "237°M.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 171,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Use the 1 in 60 rule to answer the following question: An aircraft leaves C to fly to D. Having flown 120nm, the aircraft position is pin pointed 7NM right of the track. What alteration of heading is needed to fly direct to B?",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "4°Right",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "8°Right",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "12°Right",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "4°Left",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 172,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Your gs during a climb is 90 kt and the rate of climb is 600ft/min. Your climb started at 1,400 ft and finishes at 8,000 ft. What horizontal distance will you have travelled during the climb?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "15NM",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "17NM",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "19NM",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "21NM",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 173,
+    "code": "",
+    "type": "MulChoice",
+    "question": "You are maintaining your track of 257°t with a heading of 230°m when you encounter bad weather and have to turn home. What is the reciprocal heading required to maintain your return track. Variation is 21°E?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "056°M.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "062°M.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "081°M.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "050°M.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 174,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The required track between ‘a’ and ‘b’ is 105°m. You have maintained a constant heading ot 113°m since departing from ‘a’. After flying for 10 min at a groundspeed of 180kt you obtain a pinpoint that indicated the aircraft is 2nm right of track. Variation is 21°e. The TMG that the aircraft has been flying since departing ‘a’ is?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "101°M.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "107°M.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "109°M.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "115°M.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 175,
+    "code": "",
+    "type": "MulChoice",
+    "question": "A useful method of a pilot resolving, during a visual flight, any uncertainty in the aircraft's position is to maintain visual contact with the ground and:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "set heading towards a line feature such as a coastline, motorway, river or railway",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "fly reverse headings and associated timings until the point of departure is regained",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "fly expanding circles until a pinpoint is obtained",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "fly the reverse of the heading being flown prior to becoming uncertain until a pinpoint is obtained",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 176,
+    "code": "",
+    "type": "MulChoice",
+    "question": "During a low level flight 2 parallel roads that are crossed at right angles by an aircraft. The time between these roads can be used to check the aircraft:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "position",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "track",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "groundspeed",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "drift",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 177,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The distance between positions A and B is 180 NM. An aircraft departs position A and after having travelled 60 NM, its position is pinpointed 4 NM left of the intended track. Assuming no change in wind velocity, what alteration of heading must be made in order to arrive at position B?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "8° Right",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "6° Right",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "4° Right",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "2° Left",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 178,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Given: Distance A to B = 120 NM, After 30 NM aircraft is 3 NM to the left of course. What heading alteration should be made in order to arrive at point 'B'?",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "4° right",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "6° right",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "8° left",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "8° right",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 179,
+    "code": "",
+    "type": "MulChoice",
+    "question": "An aircraft is planned to fly from position 'A' to position 'B', distance 320 NM, at an average GS of 180 kt. It departs 'A' at 1200 UTC. After flying 70 NM along track from 'A', the aircraft is 3 MIN ahead of planned time. Using the actual GS experienced, what is the revised ETA at 'B'?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "1401 UTC",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "1333 UTC",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "1340 UTC",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "1347 UTC",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 180,
+    "code": "",
+    "type": "MulChoice",
+    "question": "An aircraft is planned to fly from position 'A' to position 'B', distance 250 NM at an average GS of 115 kt. It departs 'A' at 0900 UTC. After flying 75 NM along track from 'A', the aircraft is 1.5 MIN behind planned time. Using the actual GS experienced, what is the revised ETA at 'B'?",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "1115 UTC",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "1050 UTC",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "1044 UTC",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "1110 UTC",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 181,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Given: Distance 'A' to 'B' is 100 NM, Fix obtained 40 NM along and 6 NM to the left of course. What heading alteration must be made to reach 'B'?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "9° Right",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "6° Right",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "15° Right",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "18° Right",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 182,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Given: Distance 'A' to 'B' is 90 NM, Fix obtained 60 NM along and 4 NM to the right of course. What heading alteration must be made to reach 'B'?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "16° Left",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "12° Left",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "8° Left",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "4° Left",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 183,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Complete line 2 of the FLIGHT NAVIGATION LOG, position \"C\" to \"D\". What is the HDG° (M) and ETA?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "HDG 188°; ETA 1229 UTC.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "HDG 193°; ETA 1249 UTC.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "HDG 193°; ETA 1239 UTC.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "HDG 183°; ETA 1159 UTC.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 184,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Complete line 5 of the FLIGHT NAVIGATION LOG, positions \"J\" to \"K\". What is the HDG° (M) and ETA?",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "HDG 337° - ETA 1422 UTC.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "HDG 320° - ETA 1432 UTC.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "HDG 337° - ETA 1322 UTC.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "HDG 320° - ETA 1412 UTC.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 185,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Refer to the following information to select the one option that correctly completes the statement. Flight Service advise the weather is deteriorating. You consider diverting to \"C\" from \"B\"\nEstimated useable fuel on board:     51 litres\nFuel flow:                                            32 litres per hour\nDistance to \"C\"                                   35 nm\nGround speed:                                   118 kt\nThe estimated ENDURANCE the aircraft would have on arrival overhead \"C\" is:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "19 min.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "32 min.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "47 min.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "77 min.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 186,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Complete line 1 of the 'FLIGHT NAVIGATION LOG'; positions 'A' to 'B'. What is the HDG°(M) and ETA?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "282° - 1128 UTC",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "268° - 1114 UTC",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "268° - 1128 UTC",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "282° - 1114 UTC",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 187,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Complete line 6 of the 'FLIGHT NAVIGATION LOG', positions 'L' to 'M'. What is the HDG°(M) and ETA?",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "HDG 075° - ETA 1452 UTC",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "HDG 064° - ETA 1449 UTC",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "HDG 070° - ETA 1459 UTC",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "HDG 075° - ETA 1502 UTC",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 188,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The flight log gives the following data: 'True track, Drift, True heading, Magnetic variation, Magnetic heading, Compass deviation, Compass heading' The right solution, in the same order, is:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "115°, 5°R, 120°, 3°W, 123°, +2°, 121°",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "119°, 3°L, 122°, 2°E, 120°, +4°, 116°",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "125°, 2°R, 123°, 2°W, 121°, -4°, 117°",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "117°, 4°L, 121°, 1°E, 122°, -3°, 119°",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 189,
+    "code": "",
+    "type": "MulChoice",
+    "question": "With an average fuel consumption rate of 35 ltr/hr, you have calculated your flight during the day to take 1 hour and 15 mins. How much AVGAS in pounds do you need to have on board including legal reserves for your planned trip?",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "97 lbs",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "69.5 lbs",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "67.5 lbs",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "44 lbs",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 190,
+    "code": "",
+    "type": "MulChoice",
+    "question": "You’ve been travelling for 50min during the day and have used 11 us gal. You have 1 hour and 10 mins remaining to your destination. How much fuel in litres including legal reserves do you need for the remainder of your trip?",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "15.4 Ltr",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "22 Ltr",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "58 Ltr",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "83 Ltr",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 191,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What does ADF stand for?",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "Airborne Direction Finding",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Aeroplane Direction Finding",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Airport Direction Finder",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Automatic Direction Finder",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 192,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which equipment is needed on board of an aircraft to receive signals from a non-directional beacon (NDB)?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Course deviation indicator (CDI)",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Horizontal situation indicator (HSI)",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Automatic direction finder (ADF)",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Secondary surveillance radar (SSR)",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 193,
+    "code": "",
+    "type": "MulChoice",
+    "question": "When Mode C is selected on the aircraft SSR transponder the additional information transmitted is:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "altitude based on regional QNH",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "aircraft height based on sub-scale setting",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "flight level based on 1013.25 hPa",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "height based on QFE",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 194,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which of the following works on the interrogation/response principle?",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "Secondary Surveillance Radar (SSR)",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Aerodrome Surface Movement Radar",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Airborne Weather Radar (AWR)",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Global Positioning System (GPS)",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 195,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The selection of code 7500 on an aircraft SSR transponder indicates:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "transponder malfunction",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "an emergency",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "radio communication failure",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "unlawful interference with the planned operation of the flight",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 196,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The selection of code 7600 on an aircraft SSR transponder indicates:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "an emergency",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "radio communication failure",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "transponder malfunction",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "unlawful interference with the planned operation of the flight",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 197,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The selection of code 7700 on an aircraft SSR transponder indicates:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "an emergency",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "unlawful interference with the planned operation of the flight",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "transponder malfunction",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "radio communication failure",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 198,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What is the minimum number of satellites required by a GPS in order to obtain a three-dimensional fix?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "3.0",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "5.0",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "4.0",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "6.0",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 199,
+    "code": "",
+    "type": "MulChoice",
+    "question": "In which frequency band do Satellite-Assisted Navigation systems (GNSS/GPS) provide position information that is available to civil aircraft?",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "UHF",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "VHF",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "EHF",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "SHF",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 200,
+    "code": "",
+    "type": "MulChoice",
+    "question": "An aircraft follows a radial to a VOR/DME station. At 10:00 the DME reads 120 NM. At 10:03 the DME reads 105 NM. The estimated time overhead the VOR/DME station is;",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "0.4354166666666666",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "0.4291666666666667",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "0.43333333333333335",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "0.43124999999999997",
+        "explanation": ""
+      }
+    ]
+  }
+]

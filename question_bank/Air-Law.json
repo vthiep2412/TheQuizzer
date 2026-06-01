@@ -1,0 +1,5940 @@
+[
+  {
+    "bankName": "Air-Law"
+  },
+  {
+    "id": 1,
+    "code": "",
+    "type": "MulChoice",
+    "question": "One of the main objectives of ICAO is to:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "develop principles and technique for international aviation",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "approve new international airlines",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "approve new international airlines with jet aircraft",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "approve the ticket prices set by international airline companies",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The 'Standards' contained in the Annexes to the Chicago convention are to be considered:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "advice and guidance for the aviation legislation within the member states",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "binding for the member states that have not notified ICAO about a national difference",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "binding for all airline companies with international traffic",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "binding for all member states",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The objectives of ICAO was ratified by the:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "Chicago convention 1944",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Geneva convention 1936",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Geneva convention 1948",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Warsaw convention 1929",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The International Civil Aviation Organisation (I.C.A.O.) was established by the international convention of:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "The Hague",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Warsaw",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Chicago",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Montreal",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The International Civil Aviation Organisation (ICAO) establishes:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "proposals for aeronautical regulations in the form of 19 annexes.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "aeronautical standards adopted by all states.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "standards and recommended practices applied without exception by all states, signatory to the Chicago convention.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "standards and recommended international practices for contracting member states.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which of the following is obligating for members of ICAO?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "ICAO shall approve the pricing of tickets on international airline connections",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "ICAO must be informed about differences from the standards in any of the Annexes to the convention",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "ICAO must be informed about new flight crew licenses and any suspended validity of such licenses",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "ICAO must be informed about changes in the national regulations",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "code": "",
+    "type": "MulChoice",
+    "question": "When letters are used for the registration mark combinations shall not be used which might be confused with the",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "three letters combinations used in the international code of signals",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "four letter combinations beginning with Q",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "letters used for ICAO identification documents",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "five letter combinations used in the international code of signals",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "code": "",
+    "type": "MulChoice",
+    "question": "According to ICAO Annex 8, a certificate of airworthiness shall be renewed or shall remain valid subject to the:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "Laws of the State in which is operated",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Laws of the State of registry",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Requirements laid down by ICAO",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Laws of the State of registry and operation",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Who is charged with the safe conduct of a flight?",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "The aircraft owner.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "The ATC controller whenever the aircraft is flying in controlled airspace.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "The airline operator.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "The pilot-in-command.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "code": "",
+    "type": "MulChoice",
+    "question": "According to Annex 7, the registration mark shall be letters, numbers or a combination of letters and numbers and shall be that assigned by:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "the state of registry only",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "the International Civil Aviation Organisation",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "the state of registry or common mark registering authority",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "the International Telecommunication Union",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "code": "",
+    "type": "MulChoice",
+    "question": "When letters are used for registration mark combinations shall not be used which might be confused with urgent signals for example",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "LLL",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "RCC",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "DDD",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "PAN",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "code": "",
+    "type": "MulChoice",
+    "question": "When letters are used for the registration mark combinations shall not be used which might be confused with urgent or distress signals for example",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "DDD",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "XXX",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "LLL",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "RCC",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The height of the marks under the wings of heavier than air aircraft shall be:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "at least 50 centimetres",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "at least 75 centimetres",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "at least 60 centimetres",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "at least between 40 centimetres and 50 centimetres",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The height of the marks on the fuselage (or equivalent structure) and on the vertical tail surfaces of heavier than air aircraft shall be:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "at least 40 centimetres",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "at least 20 centimetres",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "at least 30 centimetres",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "at least between 20 centimetres and 40 centimetres",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "code": "",
+    "type": "MulChoice",
+    "question": "You may act as a flight instructor to carry out flight instruction for the issue of a PPL",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "With a PPL plus CPL theory",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "With a PPL plus flight instructor rating",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "With a valid licence plus flight instructor rating",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "With a CPL",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The minimum age for obtaining a PPL (Aeroplane) is:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "17 years",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "21 years",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "18 years",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "16 years",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which of the following Annexes to the Chicago convention contains minimum specifications for a crew licence to have international validity?",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "Annex 1",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Annex 4",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Annex 3",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Annex 2",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The holder of a pilot's licence should inform the Authority of any illness which they are suffering which involves incapacity to undertake those functions to which the licence relates throughout a period of a certain number of days or more. The number of days is:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "21",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "90",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "60",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "30",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The duration of the period of currency of a medical assessment shall begin on the date:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "the licence is issued or validated",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "the medical assessment is issued",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "the licence is delivered to the pilot",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "the licence is issued or renewed",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The International Civil Aviation Convention Annex containing standards and recommended practices for Personnel Licensing is:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "Annex 11",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Annex 2",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Annex 12",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Annex 1",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "code": "",
+    "type": "MulChoice",
+    "question": "According to VAR PART-8, what is the correct action to be followed by a Licence Holder, who is experiencing a prolonged period involving a decrease of medical fitness or problematic use of substances:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "Notify CAAV in writing of the circumstances and details of their situation and the actions they are taking to ensure safety in aviation is not being jeopardized",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Notify the Aviation Medical Center in writing of the circumstances and details of their situation and the actions they are taking to ensure safety in aviation is not being jeopardized",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Continue exercising the privileges of their Licence and Ratings issued according to Part 7, with caution, and regularly monitor their health condition",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Notify the Operator (Airline, Flight School) in writing of the circumstances and details of their situation and the actions they are taking to ensure safety in aviation is not being jeopardized",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "code": "",
+    "type": "MulChoice",
+    "question": "According to VAR PART-8, a Class 2 medical certificate for private pilots will be valid for:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "60 months under the age of 50",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "60 months under the age of 40",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "12 months under the age of 50",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "24 months under the age of 40",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "code": "",
+    "type": "MulChoice",
+    "question": "According to VAR PART-7, single pilot single-engine class ratings are valid for:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "Two years up to age 40 years then one year thereafter.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "One year",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Five years after licence issue.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Two years",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "code": "",
+    "type": "MulChoice",
+    "question": "According to VAR PART-8, Medical certificates classes are:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "1, 2 and 3",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "1,2,3 and 4",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "1 and 2",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "class 1 only.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "code": "",
+    "type": "MulChoice",
+    "question": "According to VAR 8, following applicant’s 40th birthday, the period of validity of Class 2 medical certificate, for private pilots:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "Remains at 60 months",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Reduces to 24 months",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Reduces to 12 months",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Reduces to 6 months",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "code": "",
+    "type": "MulChoice",
+    "question": "You are a PPL holder intending to fly a number of passengers on a local flight. May you share the cost of this flight equally with your passengers?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Yes, provided your share is in the form of a service and not money.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "No, except when the aircraft operator gives you permission to share cost",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Yes.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "No.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "code": "",
+    "type": "MulChoice",
+    "question": "According to VAR PART-8, a Class 2 medical certificate for private pilots will be valid for:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "24 months following their 40th birthday",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "12 months following their 40th birthday",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "24 months following their 50th birthday",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "60 months following their 40th birthday",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Except when a clearance is obtained from an ATC unit, VFR flights shall not take off or land at an aerodrome within a CTR or enter the aerodrome traffic zone or traffic pattern when the:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "ceiling is less than 2000' or the ground visibility is less than 5 km",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "ceiling is less than 1000' or the ground visibility is less than 5 km",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "ceiling is less than 1000' or the ground visibility is less than 8 km",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "ceiling is less than 1500' or the ground visibility is less than 5 km",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The final authority as to the disposition of the aircraft is the:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "ATC controller whenever the aircraft is flying in controlled airspace",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Pilot-in-command",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Operator",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Aircraft owner",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The highest priority for landing has:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "an aircraft that is compelled to land (Emergency landing).",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "an Air Ambulance carrying a very sick person needing immediate medical attention.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "an aircraft on a diplomatic flight (Head of state).",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "a military aircraft.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "code": "",
+    "type": "MulChoice",
+    "question": "An aircraft operating in accordance with VFR, above the sea at altitudes between 4500 ft and 9000 ft AMSL, outside controlled airspace shall maintain at least",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "a distance from cloud of 1000 m horizontally and 1000 ft vertically and a flight visibility of 5 km.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "a distance from cloud of 1500 m horizontally and 1000 ft vertically and a flight visibility of 8 km.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "a distance from cloud of 1500 m horizontally and 1000 ft vertically and a flight visibility of 5 km.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "a distance from cloud of 600 m horizontally and 1000 ft vertically and a flight visibility of 5 km.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The VMC minima for an airspace classified as 'B' above 10000' MSL are:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "1500 m horizontally and 1000' vertically from clouds; 8 km visibility",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "1 nautical mile horizontally and 1000' vertically from clouds; 8 km visibility",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "2000 metres horizontally, 1000' vertically from clouds; 8 km visibility",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "1 mile horizontally and 1000' vertically from clouds; 5 km visibility",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Above an altitude of 10000 ft, flights operating within airspace Class 'G' in accordance with VFR shall observe the following weather minima:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "a distance from cloud: 1500 m horizontally, 1000 ft vertically, flight visibility: 8 km.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "a distance from cloud: 1 Nautical Mile (NM) horizontally, 1000 ft vertically, flight visibility: 8 km.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "a distance from cloud: 1 Nautical Mile (NM) horizontally, 1000 ft vertically, flight visibility: 5 km.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "a distance from cloud: 1500 m horizontally, 1000 ft vertically, flight visibility: 5 km.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Prior to operating one of the following, a pilot shall file a VFR or IFR flight plan, as applicable, for:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "Any flight (or portion thereof) to be provided with air traffic control service",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Any flight within or into designated areas, or along designated routes, when so required by the appropriate ATC authority to facilitate the provision of flight information, alerting and search and rescue services%",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Any flight across international borders",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "All of the above",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Aircraft 'A' with an ATC clearance is flying in VMC conditions within a control area.\nAircraft 'B' with no ATC clearance is approaching at approximately the same altitude and on a converging course.\nWhich has the right of way?",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "Aircraft 'B' if 'A' is on its left",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Aircraft 'B' regardless of the direction 'A' is approaching",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Aircraft 'A' regardless of the direction which 'B' is approaching",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Aircraft 'A' if 'B' is on its right",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which of the following actions shall be taken in case of a controlled flight deviates from the track?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Inform the ATC unit immediately",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "If VMC, maintain this condition, waiting for the ATC instructions",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Adjust the heading of aircraft to regain track as soon as practicable",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Notify ATC of the new track immediately and comply with instructions",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "code": "",
+    "type": "MulChoice",
+    "question": "An aircraft is considered to overtake another if it approaches the other aircraft from the rear on a line forming an angle of less than:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "50 degrees with the plane of symmetry of the latter",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "70 degrees with the plane of symmetry of the latter",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "80 degrees with the plane of symmetry of the latter",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "60 degrees with the plane of symmetry of the latter",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "code": "",
+    "type": "MulChoice",
+    "question": "VMC minima for VFR flights in Class B airspace, above 3050 m (10000') MSL are:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "8 km visibility, and clear of clouds",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "No minima, VFR flights are not permitted",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "8 km visibility, 1500 m horizontal and 1000 ft vertical distance from clouds",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "5 km visibility, 1500 m horizontal and 1000 ft vertical distance from clouds",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The Transition Level:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "shall be the lowest flight level available for use above the transition altitude.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "is calculated and declared for an approach by the Pilot-in command.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "is published for the aerodrome in the Section ENR of the AIP.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "shall be the highest available flight level below the transition altitude that has been established.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The transition level:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "is published on the approach and landing chart for each aerodrome",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "will be passed to aircraft by ATS units",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "is published and updated in the NOTAM",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "is calculated by the Pilot-in command",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "code": "",
+    "type": "MulChoice",
+    "question": "When an aircraft carries a serviceable transponder, the pilot shall operate the transponder:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "Only when the aircraft is flying within controlled airspace.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Only when the aircraft is flying within airspace where SSR is used for ATS purposes.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Only when directed by ATC.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "At all times during flight, regardless of whether the aircraft is within or outside airspace where SSR is used for ATS purposes.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "code": "",
+    "type": "MulChoice",
+    "question": "When the aircraft carries serviceable Mode C transponder, the pilot shall continuously operate this mode",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "unless otherwise directed by ATC.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "only when the aircraft is flying within controlled airspace.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "regardless of ATC instructions.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "only when directed by ATC.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Pilots shall not SQUAWK IDENT unless they:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "operate within controlled airspace",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "are requested by ATC",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "operate outside controlled airspace",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "operate a transponder with Mode C",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "code": "",
+    "type": "MulChoice",
+    "question": "When acknowledging mode / code setting instructions, pilots shall:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "use the word ROGER",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "use the word WILCO",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "read back the mode and code to be set",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "read back the code to be set and SQUAWK IDENT",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "code": "",
+    "type": "MulChoice",
+    "question": "ATS airspace's where IFR and VFR flights are permitted, all flights are subject to air traffic control service and are separated from each other is classified as:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "Class A.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Class B.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Class E.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Class D.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The speed limitation for VFR flights inside ATS airspace classified as C, when flying below 3.050 m (10.000 ft) AMSL, is:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "250 KT TAS",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "250 KT IAS",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "240 KT IAS",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Not applicable",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The VMC minima for a VFR flight inside an ATS airspace classified as B, is:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "5 NM visibility when below 3050 m (10000') AMSL, 1500 m horizontal and 300 m vertical from cloud",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "8 km visibility when at or above 3050 m (10000') AMSL and clear of clouds",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "5 NM visibility below 3050 m (10000') AMSL, clear of clouds",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "8 km visibility when at or above 3050 m (10000') AMSL, and 1500 m horizontal and 300 m vertical from clouds",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "code": "",
+    "type": "MulChoice",
+    "question": "A VFR flight when flying inside an ATS airspace classified as B has to maintain the following minima of flight visibility and distance from clouds:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "5 km visibility, 1500 m horizontal and 300 m vertical from clouds",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "5 km below 3050 m (10000') AMSL and clear of clouds",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "8 km below 3050 m (10000') AMSL, 1500 m horizontal and 300 m vertical from clouds",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "5 km below 3050 m (10000') AMSL 1500 m horizontal and 300 m vertical from clouds",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "code": "",
+    "type": "MulChoice",
+    "question": "A VFR flight when flying inside an ATS airspace classified as C has to maintain the following minima of flight visibility and distance from clouds",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "8 km at or above 3050 m (10.000 ft) AMSL 1500 m horizontal and 300 m vertical from clouds",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "8 km at or above 3050 m (10.000 ft) AMSL, and clear of clouds",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "5 NM at or above 3050 m (10.000 ft) AMSL, 1500 m horizontal and 300 m vertical from clouds",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "5km at or above 3050 m (10.000 ft) AMSL 1500 m horizontal and 300 m vertical from clouds",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "code": "",
+    "type": "MulChoice",
+    "question": "An ATS airspace where IFR and VFR flights are permitted, all flights are subject to air traffic control service and IFR flights are separated from other IFR flights and from VFR flights. \nVFR flights are separated from IFR flights and receive traffic information in respect of other VFR flights, is classified as:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "Airspace E",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Airspace D",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Airspace B",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Airspace C",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "code": "",
+    "type": "MulChoice",
+    "question": "An ATS airspace where IFR and VFR flights are permitted, all flights are subject to air traffic control service and are separated from each other is classified as",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "Airspace B",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Airspace E",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Airspace D",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Airspace C",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "code": "",
+    "type": "MulChoice",
+    "question": "An ATS airspace where IFR and VFR flights are permitted and all flights are subject to air traffic control service. IFR flights are separated from other IFR flights and receive traffic information in respect of VFR flights. VFR flights receive traffic information in respect of all other flights, is classified as:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "Airspace B",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Airspace D",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Airspace A",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Airspace E",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "code": "",
+    "type": "MulChoice",
+    "question": "An ATS airspace where IFR and VFR are permitted, IFR flights are subject to Air Traffic Control Service and are separated from other IFR flights. All flights receive traffic information as far as is practical, is classified as",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Airspace D",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Airspace B",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Airspace E",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Airspace A",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "code": "",
+    "type": "MulChoice",
+    "question": "An ATS airspace where IFR and VFR flights are permitted, all participating IFR flights receive an air traffic advisory service and all flights receive flight information service if requested, is classified",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Airspace G",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Airspace E",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Airspace F",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Airspace D",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "code": "",
+    "type": "MulChoice",
+    "question": "An ATS airspace where IFR and VFR are permitted and receive flight information service if requested, is classified as",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "Airspace F and G",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Airspace F",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Airspace C",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Airspace E and F",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "code": "",
+    "type": "MulChoice",
+    "question": "When two aircraft are approaching head-on or approximately so and there is a danger of collision, each shall:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "alter its heading to the right.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "turn, climb or descent as appropriate in order to avoid.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "switch on all available lights in order to warn the other traffic.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "alter its heading to the left.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The PIC shall ensure that all flight crew members, when engaged in performing duties essential to the safe operation of an aircraft in flight, use breathing oxygen continuously:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "at cabin altitudes exceeding 620 hPa (13,000 ft) for a period in excess of 30 minutes",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "at cabin altitudes exceeding 700 hPa (10,000 ft) for a period in excess of 30 minutes and whenever the cabin altitude exceeds 620 hPa (13,000 ft)",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "whenever the cabin altitude exceeds 700 hPa (10,000 ft)",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "in unpressurized aircraft, when operating at, or above, FL130",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Under VFR, according to VAR 10, final reserve fuel must be:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "For day operations, at least 45 minutes",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "For night operations, at least 30 minutes",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "For day operations, at least 30 minutes",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "For night operations, at least 60 minutes",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Under VFR, according to VAR 10, final reserve fuel for night operations:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Is not set, as final reserve fuel is only required for IFR flights",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Must be at least 30 minutes",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Must be at least 45 minutes",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Must be at least 60 minutes",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Unpressurized aircraft is operated at FL150. In regards to use of breathing oxygen:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "All flight crew members and passengers must have access to breathing oxygen",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "All flight crew members must have access to breathing oxygen",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "All flight crew members and passengers must use breathing oxygen continuously",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "All flight crew members must use breathing oxygen continuously",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "code": "",
+    "type": "MulChoice",
+    "question": "According to CAAV VAR 10, while being under influence of alcohol:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "You may act as a PIC of a civil aircraft, if it has been more than 8 hours after consumption of alcoholic beverage",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "You may act as a crew member of a civil aircraft, if it has been more than 8 hours after consumption of alcoholic beverage",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "You may not act or attempt to act as a crew member of a civil aircraft",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "You may not act or attempt to act as a PIC of a civil aircraft",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "code": "",
+    "type": "MulChoice",
+    "question": "For transponder equipped aircraft, a transponder check must be done:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "Every 24 months",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Every 6 months",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Every 18 months",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Every 12 months",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "code": "",
+    "type": "MulChoice",
+    "question": "According to CAAV VAR 10, which of the following documents must be carried in the aircraft for every flight? (1) Properly displayed aircraft nationality registration certificate; (2) Properly displayed airworthiness certificate; (3) Noise certificate; (4) License of use of radio devices in the aircraft, if installed; (5) Technical/Journey log of the aircraft",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "1,2,2003",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "2,4,2005",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "1,2,4,5",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "1,2,3,4,5",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "code": "",
+    "type": "MulChoice",
+    "question": "A PIC of an aircraft carrying passengers by day, must have:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "Made 3 takeoffs and landings as the sole manipulator of the flight controls within the preceding 90 calendar days in an aircraft of the same category and class and if a type rating is required, of the same type.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Made 5 takeoffs and landings as the sole manipulator of the flight controls within the preceding 90 calendar days in an aircraft of the same category and class and if a type rating is required, of the same type.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Made 3 takeoffs and landings as the sole manipulator of the flight controls within the preceding 60 calendar days in an aircraft of the same category and class and if a type rating is required, of the same type.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Made 3 takeoffs and landings by day as the sole manipulator of the flight controls within the preceding 90 calendar days in an aircraft of the same category and class and if a type rating is required, of the same type.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "code": "",
+    "type": "MulChoice",
+    "question": "A PIC of an aircraft carrying passengers at night, must have:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "Made 3 takeoffs and landings as the sole manipulator of the flight controls within the preceding 90 calendar days in an aircraft of the same category and class and if a type rating is required, of the same type.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Made 5 takeoffs and landings as the sole manipulator of the flight controls within the preceding 90 calendar days in an aircraft of the same category and class and if a type rating is required, of the same type.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Made 3 takeoffs and landings as the sole manipulator of the flight controls within the preceding 60 calendar days in an aircraft of the same category and class and if a type rating is required, of the same type.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Made 3 takeoffs and landings at night as the sole manipulator of the flight controls within the preceding 90 calendar days in an aircraft of the same category and class and if a type rating is required, of the same type.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What minimum altitude may you fly at, clear of congested areas?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "500 ft AMSL",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "2000 ft AMSL",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "500 ft AGL",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "2000 ft AGL",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "code": "",
+    "type": "MulChoice",
+    "question": "According to CAAV VAR 10, while flying over any congested area of a city, town, or settlement, or over any open-air assembly of persons, you may not fly below:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "500 ft above the highest obstacle within a horizontal radius of 600m of the aircraft.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "1000 ft above the highest obstacle within a horizontal radius of 600m of the aircraft.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "1000 ft above the highest obstacle within a horizontal radius of 900m of the aircraft.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "2000 ft above the highest obstacle within a horizontal radius of 900m of the aircraft.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "code": "",
+    "type": "MulChoice",
+    "question": "When are we able to test the automatic ELT onboard out aircraft?",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "On the ground, in the first 5 minutes of the hour for not more than 3 audio sweeps.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "On the ground, in the first 5 minutes of the hour for at least 3 audio sweeps.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "On the ground, in the last 5 minutes of the hour for not more than 3 audio sweeps.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "In flight as long as we notify ATC.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Night is:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "The hours between the end of morning civil twilight and beginning of evening civil twilight.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "The hours between the end of evening civil twilight and the beginning of morning civil twilight.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "The hours between the beginning of morning civil twilight and the end of evening civil twilight.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "The hours between the end of commercial civil twilight and the beginning of commercial civil twilight.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Flights conducted under VFR shall:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Always remain in sight of the surface",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Always remain in VMC or IMC",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Always remain in VMC",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Always have a flight visibility of at least 5 km",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "code": "",
+    "type": "MulChoice",
+    "question": "SVFR stands for:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "Standard VFR, and may be requested in any controlled airspace",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Special VFR, and may be requested in any controlled airspace",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Standard VFR, and may be requested in a CTR of a controlled aerodrome",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Special VFR, and may be requested in a CTR of a controlled aerodrome",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Special VFR is:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "A VFR flight cleared by ATC to operate within controlled airspace in meteorological conditions below VMC",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "An IFR or VFR flight cleared by ATC to operate within controlled airspace in meteorological conditions below VMC",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "A VFR flight cleared by ATC to operate within controlled airspace and assigned a special transponder code 1400",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "An IFR or VFR flight cleared by ATC to operate within controlled airspace and assigned a special transponder code 1400",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Each crew member shall have his or her seat belts fastened:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "During takeoff and landing",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "During takeoff and landing and at other times when seated at his or her station",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "During takeoff and landing and when operating an aircraft below 1000 feet",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "When operating an aircraft below 1000 feet",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "code": "",
+    "type": "MulChoice",
+    "question": "In an aircraft operated in Vietnam or registered in Vietnam, carriage of dangerous goods:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Must be done with the written permission of CAAV",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Must be done in accordance with the Technical Instructions for the Safe Transport of Dangerous Goods by Air issued by ICAO",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Must be done with the written permission of CAAV and in accordance with the Technical Instructions for the Safe Transport of Dangerous Goods by Air issued by ICAO",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Is prohibited at all times",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "code": "",
+    "type": "MulChoice",
+    "question": "According to VAR 6, an attitude horizon indicator is required:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "For every flight",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "For controlled flight",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "For night flight",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "For controlled flight or night flight",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Vietnam Aviation Regulations Part 10 deals with:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "Operation of Aircraft",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Aviation Medical Certification",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Aviation Personnel Licence",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Required Instruments and Equipment",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Advisory Circulars (ACs):",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Provide advice and information on the use of airspace",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Will contain general information about administration and safety matters",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Will provide guidance for compliance with the relevant rules and regulations",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Will contain airworthiness directives (ADs)",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "code": "",
+    "type": "MulChoice",
+    "question": "According to VAR 6, a serviceable magnetic compass is required:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "For every flight",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "For controlled flight",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "For night flight",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "For controlled flight or night flight",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "code": "",
+    "type": "MulChoice",
+    "question": "According to VAR 6, for an aircraft in flight or on the movement area of an aerodrome at night must be equipped with:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "Navigation lights",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Anti-collision lights",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "For general aviation operations, a landing light",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "All of the above",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "code": "",
+    "type": "MulChoice",
+    "question": "An aircraft equipped with SSR transponder which is intercepted by another aircraft shall immediately, unless otherwise instructed by the appropriate air traffic service unit, select Mode A",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "Code 7600",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Code 7500",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Code 7000",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Code 7700",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "code": "",
+    "type": "MulChoice",
+    "question": "An aircraft which is intercepted by another aircraft shall immediately attempt to establish radio-communication with the intercepting aircraft or with the appropriate intercept control unit, by making a general call on the frequency",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "121.5 MHz. If no contact has been established, and if practicable, repeat this call on the frequency 243 MHz.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "243 MHz. If no contact has been established, and if practicable, repeat this call on the frequency 125.5 MHz.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "121.5 MHz. If no contact has been established, and if practicable, repeat this call on the frequency 282.8 MHz.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "121.5 MHz. If no contact has been established, and if practicable, repeat this call on the frequency 125.5 MHz.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which manoeuvre will be executed by an intercepting aircraft if the pilot of this aircraft wants to communicate to the intercepted aircraft 'YOU MAY PROCEED'?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "Rocking aircraft twice in front of the intercepting aircraft, after acknowledgement by intercepted aircraft a slow level turn (normally to the left).",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "An abrupt break-away manoeuvre from the intercepted aircraft consisting of a climbing turn of 90 degrees or more without crossing the line of flight of the intercepted aircraft.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Rocking aircraft and flashing navigational lights at regular intervals.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Circling the intercepted aircraft in a counter-clockwise pattern for aeroplanes, in a clockwise pattern for helicopter.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which action shall be taken by an aircraft in the traffic pattern of an aerodrome, experiencing radio failure to indicate difficulties which compel it to land without requiring immediate assistance?",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "The repeated switching on and off of the landing lights",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Switching on and off four times the navigation lights",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Switching on and off four times the landing lights",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Switching on and off three times the landing lights",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "code": "",
+    "type": "MulChoice",
+    "question": "If radio communication is established during an interception but communications in a common language is not possible, which phrase should be pronounced by the intercepting aircraft to request the intercepted aircraft to descend for landing?",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "You land",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Let down",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Descend for landing",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Descend",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "code": "",
+    "type": "MulChoice",
+    "question": "If radio contact with the intercepting aircraft is established but communication on a common language is not possible, which phrase should be pronounced by the intercepted aircraft to communicate that he is unable to comply with the instructions received?",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "CAN NOT",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "NOT POSSIBLE",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "UNABLE TO COMPLY",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "CAN NOT COMPLY",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "code": "",
+    "type": "MulChoice",
+    "question": "If any instructions received by radio from any sources conflict with those given by the intercepting aircraft by visual signals, the intercepted aircraft shall:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "ignore the signals of the intercepting aircraft and request instructions from the appropriate ATS unit.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "follow the instructions of the intercepting aircraft and request immediate clarification.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "select transponder mode A, squawk 7600, fly holding patterns until having received instructions from the appropriate ATS unit.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "ignore the signals of the intercepting aircraft and continue in accordance with the last clearance received and confirmed by the appropriate ATS unit.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "code": "",
+    "type": "MulChoice",
+    "question": "When an aircraft is subjected to unlawful interference, the pilot-in-command shall indicate the situation by setting the transponder to Mode A, Code",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "7500",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "7000",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "7600",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "7700",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "code": "",
+    "type": "MulChoice",
+    "question": "ATC has assigned you the transponder code 5320. In case of losing two way radio communication, you have to squawk:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "Mode A Code 7700",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Mode A Code 5320",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Mode A Code 7500",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Mode A Code 7600",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which code shall be used on Mode 'A' to provide recognition of an aircraft subjected to unlawful interference?",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "Code 7500.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Code 2000.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Code 7600.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Code 7700.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The unit responsible for promoting efficient organisation of search and rescue service is the:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "Rescue Co-ordination Centre",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Area Control Centre",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Flight Information Centre",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Alerting Centre",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The ground - air visual code for: 'REQUIRE ASSISTANCE' is:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "X",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "N",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "V",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Y",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The ground - air visual code for: 'REQUIRE MEDICAL ASSISTANCE' is:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "V",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "X",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Y",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "N",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The ground - air visual signal code for use by survivors on groung to indicate \"NEGATIVE\" is",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "V",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "N",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Y",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "X",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "code": "",
+    "type": "MulChoice",
+    "question": "At night an aircraft observes a luminous signal requesting help. To indicate that he has received these ground signals, the pilot must:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "make at least one complete turn over the group of people in difficulty.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "switch his landing lights on and off twice or, if he is not so equipped, his navigation lights twice.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "fly over the group of people in difficulty as low as possible.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "transmit, by luminous Morse signal, a series of the letter 'R' using his navigational lights.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which of the following correctly lists special purpose codes that are to be used in conjunction with Secondary Surveillance Radar (SSR)?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "Distress 7700. Hijacking 7600. Communicaton failure 7500.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Distress 7700. Hijacking 7500. Communication failure 7600.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Distress 7600. Hijacking 7500. Communication failure 7700.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Distress 7500. Hijacking 7700. Communication failure 7600.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "code": "",
+    "type": "MulChoice",
+    "question": "A flashing red light from control tower during an approach to land means:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "The airport is temporarily closed, continue circling",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "The airport is unsafe, do not land",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Continue circling and wait for further instructions",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Give way to other aircraft in emergency",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "code": "",
+    "type": "MulChoice",
+    "question": "On aerodromes aircraft taxiing on the manoeuvring area of an aerodrome shall give way to:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "aircraft taking off or about to take off",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "all vehicles moving on the apron except the 'follow me' vehicle",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "other converging aircraft",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "other vehicles and pedestrians",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "code": "",
+    "type": "MulChoice",
+    "question": "A signalman will ask the pilot to apply parking brakes by the following signals:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "Crossing arms extended above his head",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Arms down , palms facing inwards, moving arms from extended position inwards.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Horizontally moving his hands, fingers extended, palms toward ground",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Raise arm and hand, with fingers extended, horizontally in front of body , then clench fist",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "code": "",
+    "type": "MulChoice",
+    "question": "A red flare addressed to a flying aircraft means:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Come back and land.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Give way to another aircraft and hold the circuit.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Not with standing any previous instructions, do not land for the time being.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Dangerous airfield. Do not land.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "code": "",
+    "type": "MulChoice",
+    "question": "A double white cross displayed horizontally in the signal area indicates that:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "An area unit for the movement of aircraft.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Need special precautions while approaching for landing.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Special precautions must be observed due to bad state of the taxiways.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "The aerodrome is being used by gliders and that glider flights are being performed.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "code": "",
+    "type": "MulChoice",
+    "question": "An aircraft shall display, if so equipped, an anti-collision light:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "while taxiing, but not when it is being towed;",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "outside the daylight-period in flight, but not on the ground when it is being towed;",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "outside the daylight-period at engine-start. During the daylight-period this is not applicable;",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "on the ground when the engines are running",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The white dumb-bell with black perpendicular bar indicates that:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "landing, take-off and taxiing is allowed on runway and/or taxiway only;",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "glider flying is performed outside the landing area;",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "this aerodrome is using parallel runways",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "taxiing need not be confined to the taxiways;",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "code": "",
+    "type": "MulChoice",
+    "question": "An aircraft manoeuvring in an airport's circuit receives a series of red flashes from the control tower. This signifies that the aircraft must:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "return to land and that clearance to land will be communicated in due course.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "give way to another aircraft.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "not land for the moment regardless of previous instructions.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "not land because the airport is not available for landing.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "code": "",
+    "type": "MulChoice",
+    "question": "While taxiing an aircraft receives the following light signal from the control tower: series of red flashes. This signal means that the aircraft:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "must stop.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "must vacate the landing area in use.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "may continue to taxi to the take-off area.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "must return to its point of departure.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "code": "",
+    "type": "MulChoice",
+    "question": "While taxiing, an aircraft receives from the airport controller the following light signal: a series of green flashes. This signal means that the aircraft:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "must stop.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "may continue to taxi towards the take-off area.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "is cleared for take-off.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "must return to its point of departure.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Aerodrome traffic is:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "All traffic on the manoeuvring area and flying in the vicinity of an aerodrome.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "All traffic in the aerodrome circuit.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "All traffic on the movement area and flying in the vicinity of an aerodrome.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "All traffic on the manoeuvring area.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Code letter D' shall be chosen to identify a taxiway used by aircraft having an outer main gear wheel span of less than 9 m. The taxiway width shall be:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "15 m",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "23 m",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "18 m",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "25 m",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "code": "",
+    "type": "MulChoice",
+    "question": "TODA' take-off distance available is:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "The length of the runway available plus the length of clearway available (if provided).",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "The length of the take-off run available plus the length of the stop way and clearway (if provided).",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "The length of the take-off run available plus the length of clearway available (if provided).",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "The length of the take-off run available plus the length of the stop way.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Clearway' is defined rectangular area established to:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "Reduce the risk of damage to aircraft running off a runway.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Permit aircraft to make a portion of its initial climb to a specific height.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Permit the aircraft to stop if it fails the take-off.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Protect aircraft during take-off or landing operations.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which 'code letter' shall be chosen to identify a taxiway to be used by an aircraft having a wheel base of 15 m?",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "Code letter 'D'",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Code letter 'F'",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Code letter 'E'",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Code letter 'C'",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "code": "",
+    "type": "MulChoice",
+    "question": "According to the 'Aerodrome Reference Code', the 'Code Letter E' shall identify an aircraft wing span of:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "52 m up to but not including 65 m.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "15 m up to but not including 24 m.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "24 m up to but not including 36 m.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "36 m up to but not including 52 m.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "code": "",
+    "type": "MulChoice",
+    "question": "In the 'Aerodrome Reference Code' the code element 2 shall identify:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "Only the aircraft wing span.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "The aircraft wing span and the outer main gear wheel span.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "The length of the aircraft fuselage.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "The width of the aircraft wing.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The 'Aerodrome Reference Code' is a code composed of two elements which are related to the aeroplane performance characteristics and dimensions. These elements are a combination of a number and a letter as in the example under listed:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "5E.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "6D.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "4F.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "2B.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "code": "",
+    "type": "MulChoice",
+    "question": "According with the 'Aerodrome Reference Code' the 'Code number 4' shall identify an aircraft reference field length of:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "1 500 m.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "1 600 m.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "1 200 m.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "1 800 m and over.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The STOPWAY is a defined rectangular area on the ground at the end of take-off run available prepared as a suitable area where:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "An aircraft can be stopped in the case of an abandoned take-off.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "An aircraft taking-off or landing can be stopped.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "A landing aircraft can be stopped only in emergency.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "A landing aircraft can be stopped if overcoming the end of runway.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "code": "",
+    "type": "MulChoice",
+    "question": "ASDA' (Acceleration Stop Distance Available) is:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "The length of the runway plus the length of stop way available (if stop way provided).",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "The length of the take-off run available plus the length of stop way and clearway (if provided) .",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "The length of the take-off run available plus the length of stop way (if stop way provided) .",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "The length of the take-off run available plus the length of the clearway.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "code": "",
+    "type": "MulChoice",
+    "question": "How many red lights must a pilot see, whose aircraft, in final approach, is following a normal glide path defined by a PAPI?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "3",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "2",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "1",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "None.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Taxiway centre line lights other than an exit taxiway shall be:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Fixed lights showing blue.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Fixed lights showing yellow.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Fixed lights showing green.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Fixed lights showing white.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The 'PAPI' shall consist of:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "A wing bar of 4 sharp transition multi-lamp or paired units equally spaced.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "A wing bar of 2 sharp transition multi-lamp equally spaced.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Two wing bars of 6 sharp transition multi-lamp or paired units equally spaced.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Two wing bars of 4 sharp transition multi-lamp or paired units equally spaced.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "code": "",
+    "type": "MulChoice",
+    "question": "In the 'PAPI' system the pilot during an approach will see the two units nearest the runway as red and the two units farthest from the runway as white when:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "Above the approach slope.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "On or close to the approach slope.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Only on the approach slope.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Below the approach slope.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "code": "",
+    "type": "MulChoice",
+    "question": "In the case of parallel runways, each runway designation number shall be supplemented:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "By a letter - for example 2 parallel runways 'L' and 'R' - for 3 'L', 'C' and 'R'.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "By a letter - for example 3 parallel runways 'L' and 'R' and the central has no letter.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "By a letter for 2 parallel runways.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "By a number like '0' and '01' for 2 parallel runways.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 122,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Runway threshold lights shall be:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Fixed unidirectional lights showing white in the direction of approach to the runway.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Fixed lights green colours.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Fixed unidirectional lights showing green in the direction of approach to the runway.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Fixed lights showing green or white colours.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 123,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Runway edge lights excepted in the case of a displaced threshold shall be:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Fixed lights showing variable white",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Flashing white",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Fixed lights showing variable white or yellow",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Fixed lights, white or yellow colour",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 124,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Runway threshold identification lights, when provided, should be:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "Flashing green",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Fixed green",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Fixed white",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Flashing white",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 125,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The light shown by an 'Aerodrome Identification Beacon' at a land aerodrome shall be:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "Blue colour identification given by Morse Code.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Green colour identification given by Morse Code.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "White colour identification given by Morse Code.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "White and green colour identification given by Morse Code.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 126,
+    "code": "",
+    "type": "MulChoice",
+    "question": "In the 'T-VASIS' , how many light units are in each wing bar?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "3",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "5",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "4",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "2",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 127,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The aerodrome category for rescue and fire fighting is based on:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "The over-all length of the longest aeroplane normally using the aerodrome and its maximum fuselage weight.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "The over-all length of the longest aeroplane normally using the aerodrome and its maximum fuselage width.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "The longest aeroplane maximum width only",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "The over-all length of the longest aeroplane.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 128,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Low intensity obstacle lights on mobile objects shall be:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "Fixed red or preferably blue.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Fixed red or preferably orange.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Flashing blue.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Flashing red or preferably yellow.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 129,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Aerodromes signs should be in the following configuration:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "mandatory instruction signs ; red background with black inscriptions.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "information signs; yellow or black background with black or yellow inscriptions.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "mandatory instruction signs; black background with red inscriptions.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "information signs; orange background with black inscriptions.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 130,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which of the following Annexes to the Chicago convention contains minimum specifications for the design of aerodromes?",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "Annex 14",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Annex 10",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Annex 11",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Annex 6",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 131,
+    "code": "",
+    "type": "MulChoice",
+    "question": "When a threshold is displaced, what colour shall the lights have in the approach direction between the beginning of the runway and the displaced threshold?",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "red.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "flashing red, intermittent with flashing white.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "white.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "blue, this portion of the runway is considered as taxiway.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 132,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Runway edge lights shall consist of at least",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "fixed lights showing steady green.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "fixed lights showing variable white.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "flashing lights showing variable green.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "flashing lights showing variable yellow.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 133,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The colour of fixed, unidirectional Runway End Lights is",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "green",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "red",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "yellow",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "white",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 134,
+    "code": "",
+    "type": "MulChoice",
+    "question": "A series of red flashes from aerodrome control directed towards an aircraft in flight means:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "Aerodrome unsafe, do not land.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Continue circling and wait for further instruction.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Give way to other aircraft in emergency.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Aerodrome temporarily closed, continue circling.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 135,
+    "code": "",
+    "type": "MulChoice",
+    "question": "A series of red flashes from aerodrome control directed towards an aircraft on ground means:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "Slow down taxi speed.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Taxi clear of landing area in use.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Give way to other aircraft taxiing.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Stop and taxi back, you are on the wrong taxiway.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 136,
+    "code": "",
+    "type": "MulChoice",
+    "question": "A red flare addressed to an aircraft in flight means:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "Return for approach, clearance to land to be expected on final.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Notwithstanding any previous instructions, do not land for the time being.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Aerodrome unsafe, do not land.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Slow down speed to minimum, give way to other aircraft in the circuit and continue circling.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 137,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The colour of the fixed, unidirectional runway threshold and wing bar lights shall be:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "white",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "flashing white",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "green",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "yellow",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 138,
+    "code": "",
+    "type": "MulChoice",
+    "question": "When joining overhead at an unattended aerodrome you see two white arrows at the end of the runway. This means:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "Gliding is in progress with gliders landing with arrow",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Parchute drop zone is active at this place.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "This is the direction for takeoff and landing.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "The landing threshold is displaced.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 139,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What is the meaning of this aerodrome chart symbol?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "Helicopter aiming point.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Aerodrome reference point.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "First aid post.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Aircraft stand",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 140,
+    "code": "",
+    "type": "MulChoice",
+    "question": "A runway is said to be contaminated when a certain percentage or more is covered with surface water, ice, slush or snow. What is this percentage?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "0.15",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "0.25",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "0.45",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "0.5",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 141,
+    "code": "",
+    "type": "MulChoice",
+    "question": "ABN stands for:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "Automatic Broadcast Number",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Aerodrome Broadcast Number",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Automatic Beacon",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Aerodrome Beacon",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 142,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Air Traffic Service unit means:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "Air Traffic Control units and Flight Information Centres.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Air Traffic Control units, Flight Information Centres or Air Traffic Services reporting offices.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Flight Information Centres and Air Services reporting offices.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Air Traffic Control units and Air Services reporting offices.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 143,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Air traffic control service is provided for the purpose of:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Applying separation between aircraft and expediting and maintaining an orderly flow of air traffic",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Preventing collisions between controlled air traffic and expediting and maintaining an orderly flow of air traffic",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Preventing collisions between aircraft, between aircraft and obstacles on the manoeuvring area and expediting and maintaining an orderly flow of air traffic",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Avoiding collisions between all aircraft and maintaining an orderly flow of air traffic",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 144,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Area Control Centres issue clearances for the purpose of:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "Achieving separation between IFR flights",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Achieving separation between controlled flights",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Providing advisory service",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Providing flight Information Service",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 145,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Clearances will be issued by an ATC unit for the purpose of:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "Providing advisory services",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Providing flight Information Service",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Providing alerting services",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Achieving separation between controlled flights",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 146,
+    "code": "",
+    "type": "MulChoice",
+    "question": "When are ATIS broadcasts updated?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Every 30 minutes if weather conditions are below those for VFR ; otherwise hourly",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Only when weather conditions change enough to require a change in the active runway or instrument approach in use",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Upon receipt of any official weather, regardless of content change or reported values",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Only when the ceiling and/or visibility changes by a reportable value",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 147,
+    "code": "",
+    "type": "MulChoice",
+    "question": "When it becomes apparent that an aircraft is in difficulty, the decision to initiate the alert phases is the responsibility of the:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "operational air traffic control centres",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "search and rescue co-ordination centres",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "air traffic co-ordination services",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "flight information or control organisations",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 148,
+    "code": "",
+    "type": "MulChoice",
+    "question": "A radio communication, 'Distress' differs from 'Urgency' because in the first case:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "The aeroplane has suffered damages which impair its fitness to fly.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "The aeroplane will not be able to reach a suitable aerodrome.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "There is a serious and imminent danger requiring immediate assistance.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "The aeroplane or a passenger's safety require the flight immediately interrupted.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 149,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which of the following Annexes to the Chicago convention contains international standards and recommended practices for air traffic services (ATS)?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "Annex 14",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Annex 11",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Annex 17",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Annex 6",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 150,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Flight information service provided to flights shall include the provision of information concerning collision hazards to aircraft operating in airspace classes:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "A to E (inclusive)",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "A to G (inclusive)",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "F and G",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "C to G (inclusive)",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 151,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The ATIS broadcast message should, whenever practicable, not exceed",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "30 seconds",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "3 minutes",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "2 minutes",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "1 minute",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 152,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Whenever ATIS is provided, the preparation and dissemination of the ATIS message shall be the responsibility of",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "the meteorological office serving the aerodrome (s)",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "both air traffic services and the meteorological office",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "the air traffic services",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "the unit as prescribed by the state",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 153,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Flight Information Service shall be provided to aircraft in order to avoid collision hazards when operating in airspace classes:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "F and G only",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "A, B, C, D, E, F and G",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "C, D, E, F, and G",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "F only",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 154,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which does ATC Phrase 'Radar service terminated' indicate?",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "The VFR Flight Plan has been cancelled",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "The VFR or IFR Flight Plan has been cancelled",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "ATC has lost radar contact with the aircraft",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "ATC has ceased using Radar to control the flight",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 155,
+    "code": "",
+    "type": "MulChoice",
+    "question": "A complete position report transmitted by radiotelephony shall contain the following elements of information in the order listed.",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "Aircraft identification, 2) position, 3) time, 4) true air speed, 5) flight level or altitude, 6) next position and time over.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Aircraft identification, 2) position, 3) flight level or altitude, 4) time, 5) next position and time over, 6) ensuing significant point.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Aircraft identification, 2) position, 3) time, 4) flight level or altitude, 5) next position, 6) time over.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Aircraft identification, 2) position, 3) time, 4) flight level or altitude, 5) next position and time over, 6) ensuing significant point.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 156,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which of the conditions does NOT need to be met while conducting a flight under SVFR in Vietnam?",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "SVFR must be authorised by ATC clearance",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "The aircraft must remain clear of clouds",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "The flight visibility must be at least 5 km",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "The pilot must maintain VMC",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 157,
+    "code": "",
+    "type": "MulChoice",
+    "question": "If an ATC clearance is not suitable to the pilot-in-command of an aircraft. The PIC has to accept the ATC clearance. The clearance is based on the flight plan filed with ATC.",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "The PIC may propose another clearance. ATC has to amend the clearance in accordance with the pilots request.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "The PIC may request an amended clearance from the ATC. Amended clearances will only be given when VMC prevails.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "The PIC may request and, if practicable, obtain an amended clearance.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 158,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What are the controlled traffic separation methods applied by ATC?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Vertical, horizontal and angular separation.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Time separation and track separation.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Vertical and horizontal separation.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Composite separation.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 159,
+    "code": "",
+    "type": "MulChoice",
+    "question": "When radar identification of aircraft has been achieved, ATC unit shall:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "Inform the aircraft only if communication's load permits it.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Inform the aircraft prior to issue any instructions or advice based on the use of radar.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Inform the aircraft only if radar identification has been achieved without availability of SSR.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "not advise the aircraft before issuing instructions.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 160,
+    "code": "",
+    "type": "MulChoice",
+    "question": "When 'Secondary Radar' is used, an aircraft may be identified by one of the following procedures:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "To request pilot to set transponder on position 'OFF'.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "To request pilot to set transponder on position 'ON'.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "To request pilot to switch from 'ON' to 'STDBY'.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Observation of compliance with an instruction to operate transponder from 'ON' to 'STBY' and back to 'ON'.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 161,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Where a 'Secondary Surveillance Radar' (SSR) is not available, radar identification may be achieved by one of the following procedures:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "To instruct the pilot to execute one or more changes of 20° or more.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "To instruct the pilot to execute one or more changes of 10°.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "To instruct the pilot to execute one or more changes of 30° or more.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "To instruct the pilot to execute one or more changes of 45°.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 162,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which does ATC Term 'Radar contact' signify?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "Your aircraft has been identified and you will receive separation from all aircraft while in contact with this radar facility.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Your aircraft has been identified on the radar display and radar flight instructions will be provided until radar identification is terminated.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "ATC is receiving your transponder and will furnish vectors and traffic advisories until you are advised that contact has been lost.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "You will be given traffic advisories until advised that the service has been terminated or that radar contact has been lost.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 163,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which of the following statements regarding aerodrome control service is correct?",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "An aircraft entering the traffic circuit without permission of ATC, will be cleared to land if this is desirable ;",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "ATC permission is required for entering the apron with a vehicle",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Suspension of VFR operations can not be initiated by the aerodrome controller;",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "The aerodrome control service is a service provided for the purpose of preventing collisions between aircraft on the movement area;",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 164,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which statement is correct? During an IFR approach in Controlled Airspace (Class C):",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "the pilot to apply separation with other traffic;",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "ATC will apply separation with other traffic",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "ATC will apply separation with other arriving traffic",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "ATC will apply separation only with other IFR-traffic",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 165,
+    "code": "",
+    "type": "MulChoice",
+    "question": "A checklist of NOTAM currently in force shall be issued at the AFTN at intervals of:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "No more than 15 days",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Not more than one month",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Not more than 10 days",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Not more than 28 days",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 166,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Wake turbulence separation will be provided from ATC at controlled aerodromes. Between MEDIUM and LIGHT aircraft departing from the same position on the runway, this time will be.",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "1 min",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "2 min",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "3 min",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "4 min",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 167,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Wake turbulence separation will be provided from ATC at controlled aerodromes. Between HEAVY and LIGHT aircraft departing from the same position on the runway, this time will be.",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "1 min",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "2 min",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "3 min",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "4 min",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 168,
+    "code": "",
+    "type": "MulChoice",
+    "question": "ADS-B stands for:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "Aviation Data Service – Broadcast",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Automatic Dependant Surveillance – Broadcast",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Autonomous Detection System – Broadcast",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Aviation Domain Surveillance - Broadcast",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 169,
+    "code": "",
+    "type": "MulChoice",
+    "question": "ADS-B is dependent upon:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "Position of an aircraft determined by GPS",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Primary Surveillance Radar",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Secondary Surveillance Radar – Mode A",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Secondary Surveillance Radar – Mode C",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 170,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The general level of SSR tolerance for Mode C (altitude) is:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "± 300ft",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "± 400ft",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "± 500ft",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "± 600ft",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 171,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Select the appropriate reason for a NOTAM to be issued.",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "Routine maintenance work on aprons and taxiways",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "The lack of apron marshalling services and road traffic control",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Unserviceable location, destination and instruction signs",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Significant changes to prohibited, restricted or danger areas",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 172,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which part contains a brief description of areas and/or routes for which meteorological service is provided?",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "METEO",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "ENR",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "AD",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "GEN",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 173,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which part of the AIP gives detailed information about refuelling facilities and the fuel grades available?",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "AD",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "FAL",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "GEN",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "ENR",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 174,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which part of the AIP contains information relating to existing prohibited, restricted and danger areas?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "GEN",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "AD",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "ENR",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "The AIP does not contain this information",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 175,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which part of the AIP contains a list with 'Location Indicators'?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "ENR",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "AD",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "GEN",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "LOC",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 176,
+    "code": "",
+    "type": "MulChoice",
+    "question": "An integrated aeronautical information package consists of the following elements",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "AIP, including amendment service; supplements to AIP, NOTAM, AIC and checklist summaries",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "AIP, supplements to AIP; NOTAM and PIB; AIC and checklist summaries",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "AIP, including amendment service; supplements to AIP; NOTAM and pre-flight information bulletin (PIB); AIC; checklists and summaries",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "AIP including amendment service; supplements to AIP; NOTAM, AIC; AIRAC",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 177,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The identification of each prohibited, restricted and danger area shall be composed by:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "The nationality letters for location indicators assigned to the state or territory, followed the letters P. R and D and figures",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "The letters P (Prohibited), R (Restricted) and D (Dangerous) followed by figures",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "The nationality letters for the location indicators assigned to the state, followed by P, R and D",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "The letters P (Prohibited), R (Restricted) and D (Dangerous) for the area concerned and figures",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 178,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Temporary changes on specifications for AIP supplements of long duration and information of short duration which contains extensive text and/or graphics shall be published as AIP supplements. It is considered a long duration.",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "Six months or longer",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Three months or longer",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Two months or longer",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "One year or longer",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 179,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Operationally significant changes to the AIP shall be published in accordance with:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "AIP supplements and shall be clearly identified",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "NOTAM procedures and identified by acronym NOTAM followed by a number",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "AIC procedures and identified by the acronym AIC followed by a number",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "AIRAC procedures and identified by the acronym AIRAC",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 180,
+    "code": "",
+    "type": "MulChoice",
+    "question": "A checklist of AIP supplements currently in force shall be issued at intervals of:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "Not more than one month",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Not more than 2 months",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Not more than 28 days",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Not more than three months",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 181,
+    "code": "",
+    "type": "MulChoice",
+    "question": "SIGMET information can be found in which part of the AIP?",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "AD",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "ENR",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "MET",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "GEN",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 182,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which part of the AIP contains a brief description of the service(s) responsible for search and rescue?",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "GEN",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "SAR",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "AD",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "ENR",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 183,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which part of the AIP contains information about holding, approach and departure procedures?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "GEN",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "ENR",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "MAP",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "AD",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 184,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The temporary, long-term modification (3 months or more) and the short-term extensive or graphical information are published as follows:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "NOTAM",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "AIP Amendments",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Trigger NOTAM",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "AIP Supplements",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 185,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What is the magnetic direction of RWY 14 at Chu Lai aerodrome?",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "130° M",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "140° M",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "316° M",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "136° M",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 186,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Aerodrome elevation at Chu Lai:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "Measured at Aerodrome Reference Point, and is 8 m",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Measured at the threshold, and is 8 m",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Measured at Aerodrome Reference Point, and is 40 m",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Measured at the threshold, and is 40 m",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 187,
+    "code": "",
+    "type": "MulChoice",
+    "question": "An aircraft is following magnetic track of 340, VFR, above transition altitude. Select the most appropriate flight level:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "Flight Level FL060",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Flight Level FL065",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Flight Level FL070",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Flight Level FL075",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 188,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Each State of ICAO Annex 17 shall ensure the establishment of a security programme,",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "At each airport",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "only for administrative staff of airport",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "for every airline operating in the State",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "That is common for all airports within State",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 189,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The ICAO Annex 17 comprise rules in order to establish security measures for passengers and:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "checked baggage, cargo and other goods",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "baggage",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "checked baggage, cargo and other goods, access control and airport design",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "cabin baggage, checked baggage, cargo and other goods, access control and airport design",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 190,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The national civil aviation security programme shall be established by:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "ECAC",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "ICAO",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "ICAO and other organisations including the contracting state concerned",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Each contracting state",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 191,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The sole objective of the investigation of an accident or incident shall be the:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "prevention of accidents or incidents and to provide legal evidence for subsequent court cases.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "prevention of accidents or incidents and establish the liability.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "prevention of accidents or incidents and provide the manufacturer with investigation data for the improvement of the design.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "prevention of accidents or incidents.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 192,
+    "code": "",
+    "type": "MulChoice",
+    "question": "After landing, while taxiing towards the apron the landing gear sinks into a hole. Nobody gets injured, but the aircraft sustains a structural failure. This obliges the crew to delay the departure.",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "This is an irregularity in the operation. The crew must inform the operator of the aerodrome and establish a report.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Since there is no person injured and the flight is terminated, a damage report has to be made out with the services of the aerodrome in charge of the runway and taxiways for the insurance company.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "This is an incident and the pilot-in-command must report it to the airport authority within the next 48 h.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "This is an accident and the crew must follow the procedure relevant to this case.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 193,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Who is responsible for the initiation of an accident investigation?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "The Operators of the same aircraft type.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "The Authority of the State in which the accident took place.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "The State of design and manufacturer.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "The aircraft manufacturer.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 194,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Who is responsible, under Annex 13 of the Chicago convention for the initation of an accident investigation?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "The law enforcement authorities of the state in which the aircraft is registered",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Operators of the same aircraft type",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "The government of the state in which the accident took place",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "The aircraft manufacturer",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 195,
+    "code": "",
+    "type": "MulChoice",
+    "question": "A near collision is classed as a,",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "Serious incident",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Incident",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Accident",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Normal occurrence in aviation",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 196,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Flight crew incapacitation in flight is classed as a,",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "Serious incident",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Incident",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Accident",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Normal occurrence in aviation",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 197,
+    "code": "",
+    "type": "MulChoice",
+    "question": "A person seriously injured because of direct exposure to jet blast classed as a,",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Serious incident",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Incident",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Accident",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Normal occurrence in aviation",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 198,
+    "code": "",
+    "type": "MulChoice",
+    "question": "An aircraft sustains damage which would require major repair is classed as a,",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Serious incident",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Incident",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Accident",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Normal occurrence in aviation",
+        "explanation": ""
+      }
+    ]
+  }
+]

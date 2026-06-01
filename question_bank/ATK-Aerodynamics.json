@@ -1,0 +1,6005 @@
+[
+  {
+    "bankName": "ATK-Aerodynamics"
+  },
+  {
+    "id": 1,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Static pressure acts:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "only in direction of the flow",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "only perpendicular to the direction of the flow",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "in all directions",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "only in the direction of the total pressure",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which one of the following statements about Bernoulli's theorem is correct?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "The dynamic pressure decreases as static pressure decreases",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "The total pressure is zero when the velocity of the stream is zero",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "The dynamic pressure increases as static pressure decreases",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "The dynamic pressure is maximum in the stagnation point",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "code": "",
+    "type": "MulChoice",
+    "question": "In a convergent tube with an incompressible sub-sonic airflow, the following pressure changes will occur: Ps = static pressure; Pdyn = dynamic pressure; Ptot = total pressure.",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Ps increases, Pdyn decreases, Ptot remains constant",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Ps decreases, Pdyn increases, static temperature increases",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Ps decreases, Pdyn increases, Ptot remains constant",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Ps decreases, Ptot increases, static temperature decreases",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Consider subsonic incompressible airflow through a venturi: I. The dynamic pressure in the undisturbed airflow is higher than in the throat; II. The total pressure in the undisturbed airflow is higher than in the throat.",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "I is incorrect, II is incorrect.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "I is correct, II is incorrect.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "I is correct, II is correct.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "I is incorrect, II is correct.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The lift formula is:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "L= W",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "L= CL 1/2 q V2 S",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "L= n W",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "L= CL 2 q V2 S",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The terms 'q' and 'S' in the lift formula are:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "dynamic pressure and the area of the wing",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "static pressure and dynamic pressure",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "static pressure and wing surface area",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "square root of surface and wing loading",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "code": "",
+    "type": "MulChoice",
+    "question": "An aeroplane performs a straight and level horizontal flight at the same angle of attack at two different altitudes. (all other factors of importance being constant, assume ISA conditions and no compressibility effects)",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "the TAS at the higher altitude cannot be determined",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "the TAS at both altitudes is the same",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "the TAS at the higher altitude is lower",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "the TAS at the higher altitude is higher",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Total pressure is:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "measured at a small hole in a surface, parallel to the local stream",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "static pressure minus the dynamic pressure",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "static pressure plus the dynamic pressure",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "1/2 rho V2",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What are the two main properties of air used to ascertain air density?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "Pressure and Density altitiude.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Pressure and Temperature.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Temperature and Pressure altitude.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Temperature and Humidity.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "code": "",
+    "type": "MulChoice",
+    "question": "When an aeroplane with the centre of gravity forward of the centre of pressure of the combined wing / fuselage is in straight and level flight, the vertical load on the tailplane will be:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "zero because in steady flight all loads are in equilibrium.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "upwards.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "downwards because it is always negative regardless of the position of the centre of gravity.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "downwards.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Following a disturbance, an aeroplane oscillates about the lateral axis at a constant amplitude. The aeroplane is:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "statically stable - dynamically neutral",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "statically unstable - dynamically neutral",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "statically stable - dynamically unstable",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "statically unstable - dynamically stable",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which part of an aeroplane provides the greatest positive contribution to the static longitudinal stability?",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "The fuselage.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "The engine.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "The wing.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "The horizontal tailplane.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Rolling is the rotation of the aeroplane about the:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "vertical axis",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "lateral axis",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "longitudinal axis",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "wing axis",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Differential aileron deflection:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "equals the drag of the right and left aileron",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "is required to achieve the required roll-rate",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "increases the CLmax",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "is required to keep the total lift constant when ailerons are deflected",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "code": "",
+    "type": "MulChoice",
+    "question": "An example of differential aileron deflection during initiation of left turn is:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "Left aileron: 2° up; Right aileron: 5° down",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Left aileron: 5° up; Right aileron: 2° down",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Left aileron: 2° down; Right aileron: 5° up",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Left aileron: 5° down; Right aileron: 2° up",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "code": "",
+    "type": "MulChoice",
+    "question": "One method to compensate adverse yaw is:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "a differential aileron.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "a balance panel.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "an anti-balance tab.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "a balance tab.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which of the following statements concerning control is correct?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "On some aeroplanes, the servo tab also serves as a trim tab",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Hydraulically powered control surfaces do not need mass balancing",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "In a differential aileron control system the control surfaces have a larger upward than downward maximum deflection",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "In general the maximum downward elevator deflection is larger than upward",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Mass-balancing of control surfaces is used to:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "limit the stick forces.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "ensure that the control surfaces are in the mid-position during taxiing .",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "prevent flutter of control surfaces",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "increase the stick force stability.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "code": "",
+    "type": "MulChoice",
+    "question": "If the elevator trim tab is deflected up, the cockpit trim indicator presents:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "neutral",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "nose-down",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "nose-left",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "nose-up",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "code": "",
+    "type": "MulChoice",
+    "question": "In straight and level flight, as speed is increased:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "the elevator and trim tab do not move.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "both elevator and trim tab are deflected further downwards.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "the elevator is deflected further upwards and the trim tab further downwards.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "the elevator is deflected further downwards and the trim tab further upwards.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "code": "",
+    "type": "MulChoice",
+    "question": "VA is:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "the maximum speed at which rolls are allowed.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "the speed at which a heavy transport aeroplane should fly in turbulence.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "the maximum speed at which maximum elevator deflection up is allowed.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "the speed that should not be exceeded in the climb.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What can happen to the aeroplane structure flying at a speed just exceeding VA?",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "It may suffer permanent deformation if the elevator is fully deflected upwards",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "It will collapse if a turn is made.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "It may suffer permanent deformation because the flight is performed at too large dynamic pressure.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "It may break if the elevator is fully deflected upwards.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "code": "",
+    "type": "MulChoice",
+    "question": "How can wing flutter be prevented?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "By increasing the aspect ratio of the wing",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "By mounting the engines on the fuselage",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "By locating mass in front of the torsion axis of the wing",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "By installing the fuel tanks in the fuselage",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "code": "",
+    "type": "MulChoice",
+    "question": "If the nose of an aeroplane yaws left, this causes:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "a decrease in relative airspeed on the right wing.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "an increase in lift on the left wing.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "a roll to the left.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "a roll to the right.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which phenomenon is counteracted with differential aileron deflection?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Aileron reversal.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Sensitivity for spiral dive.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Adverse yaw.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Turn co-ordination.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "code": "",
+    "type": "MulChoice",
+    "question": "How is adverse yaw compensated for during entry into and roll out from a turn ?",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "Differential aileron deflection",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Servo tabs",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Anti-balanced rudder control",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Horn-balanced controls",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "code": "",
+    "type": "MulChoice",
+    "question": "If the sum of all the moments in flight is not zero, the aeroplane will rotate about the:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "neutral point of the aeroplane.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "centre of gravity.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "centre of pressure of the wing.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "aerodynamic centre of the wing.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Positive static stability of an aeroplane means that following a disturbance from the equilibrium condition:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "the initial tendency is to return towards its equilibrium condition.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "the tendency is to move with an oscillatory motion of increasing amplitude.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "the tendency is to move with an oscillatory motion of decreasing amplitude.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "the initial tendency is to diverge further from its equilibrium condition.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "code": "",
+    "type": "MulChoice",
+    "question": "If the control stick of an aircraft is moved forward and to the right, the left aileron will move:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "up, and the elevator will move down.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "up, and the elevator will move up.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "down, and the elevator will move down.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "down, and the elevator will move up.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "code": "",
+    "type": "MulChoice",
+    "question": "During flight the yaw pedals are used to control:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "turning, balance, direction and slip.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "aircraft direction, slip and skid.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "direction of movement and heading.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "aircraft heading, balance, slip and skid.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "code": "",
+    "type": "MulChoice",
+    "question": "In order to perform a steady level turn at constant speed in an aeroplane, the pilot must:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "increase thrust/power and keep angle of attack unchanged.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "increase thrust/power and decrease angle of attack.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "increase thrust/power and angle of attack.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "increase angle of attack and keep thrust/power unchanged.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The angle of attack (aerodynamic angle of incidence) of an aerofoil is the angle between the:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "chord line and the relative undisturbed airflow",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "bottom surface and the chord line",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "bottom surface and the relative airflow",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "bottom surface and the horizontal",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The angle of attack of a two dimensional wing section is the angle between:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "the chord line of the aerofoil and the fuselage centreline",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "the chord line of the aerofoil and the free stream direction",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "the chord line and the camber line of the aerofoil",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "the fuselage centreline and the free stream direction",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The angle between the airflow (relative wind) and the chord line of an aerofoil is:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "angle of attack",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "same as the angle between chord line and fuselage axis",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "climb path angle",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "glide path angle",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The angle between the aeroplane longitudinal axis and the chord line is the:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "angle of incidence",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "climb path angle",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "angle of attack",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "glide path angle",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The lift force, acting on an aerofoil:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "increases, proportional to the angle of attack until 40 degrees",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "is mainly caused by overpressure at the underside of the aerofoil",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "is mainly caused by suction on the upperside of the aerofoil",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "is maximum at an angle of attack of 2 degrees",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Total Drag consists of",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "Drag associated with all lift producing airframe elements",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Induced and Parasite Drag",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Induced and Form Drag",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Just Interference Drag",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Skin Friction Drag relates to;",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "Viscosity and Boundary Layer",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Viscosity and Angle of Attack",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Angle of Attack and airspeed",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Airspeed only",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "code": "",
+    "type": "MulChoice",
+    "question": "On an asymmetrical, single curve aerofoil, in subsonic airflow, at low angle of attack, when the angle of attack is increased, the centre of pressure will (assume a conventional transport aeroplane):",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "move aft",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "remain matching the airfoil aerodynamic centre",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "move forward",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "remain unaffected",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The location of the centre of pressure of a positive cambered wing at increasing angle of attack will:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "not shift",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "shift forward",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "shift in spanwise direction",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "shift aft",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The point, where the single resultant aerodynamic force acts on an aerofoil, is called:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "neutral point",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "centre of gravity",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "aerodynamic centre",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "centre of pressure",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Consider an aerofoil with a certain camber and a positive angle of attack. At which location will the highest flow velocities occur?",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "Upper side",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "In the stagnation point",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "In front of the stagnation point",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Lower side",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Interference drag is the result of:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "separation of the induced vortex",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "downwash behind the wing",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "the addition of induced and parasite drag",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "aerodynamic interaction between aeroplane parts (e.g. wing / fuselage)",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which line represents the total drag line of an aeroplane?",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "Line c",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Line d",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Line b",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Line a",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The diagram shows the parameter X versus TAS. If a horizontal flight is considered the axis X shows",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "the induced drag",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "the parasite drag",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "the lift force",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "the total drag",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Induced drag at constant IAS is affected by:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "aeroplane wing location",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "aeroplane weight",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "engine thrust",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "angle between wing chord and fuselage centre line",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Induced drag is created by the:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "spanwise flow pattern resulting in the tip vortices",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "propeller wash blowing across the wing",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "separation of the boundary layer over the wing",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "interference of the air stream between wing and fuselage",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The induced drag:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "increases as the aspect ratio increases",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "has no relation to the lift coefficient",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "increases as the lift coefficient increases",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "increases as the magnitude of the tip vortices decreases",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The span-wise flow is caused by the difference between the air pressure on top and beneath the wing and its direction of movement goes from:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "beneath to the top of the wing via the wing tip",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "the top to beneath the wing via the leading edge",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "beneath to the top of the wing via the trailing edge",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "the top to beneath the wing via the wing's trailing edge",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The relationship between induced drag and the aspect ratio is:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "there is no relationship",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "a decrease in the aspect ratio increases the induced drag",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "an increase in the aspect ratio increases the induced drag",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "induced drag = 1.3 aspect ratio value",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "code": "",
+    "type": "MulChoice",
+    "question": "A high aspect ratio wing produces:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "a decrease in stall speed",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "less sensitivity to gust effects",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "an increase in induced drag",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "a decrease in induced drag",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which of the following aeroplane parts affect induced drag most?",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "Wing root junction",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Engine cowling",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Landing gear",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Wing tip",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Winglets:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "decrease the static lateral stability",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "increase the manoeuvrability",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "decrease the induced drag",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "create an elliptical lift distribution",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Fairings are used to reduce",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "Induced Drag",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Form Drag",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Temperature changes across the engine",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Interference Drag",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Induced Drag effects can be useful",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "To overcome the effects of weight",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "To slow an aircraft down in a turn",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "To help improve the descent rate",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "No use at all",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The aerodynamic drag of a body, placed in a certain airstream depends amongst others on:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "The airstream velocity",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "The CG location of the body",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "The weight of the body",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "The specific mass of the body",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Increasing dynamic pressure will have the following effect on the total drag of an aeroplane:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "total drag decreases across the whole speed range.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "at speeds below the minimum drag speed, total drag decreases.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "total drag increases across the whole speed range.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "at speeds above the minimum drag speed, total drag increases.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The aeroplane drag in straight and level flight is lowest when the:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "induced drag is equal to zero",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "parasite drag equals twice the induced drag",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "induced drag is lowest",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "parasite drag is equal to the induced drag",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "code": "",
+    "type": "MulChoice",
+    "question": "To ensure maximum glide range",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "The aircraft has to be at its minimum weight",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "The Lift to Drag ratio has to be at its maximum",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "The faster the better",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "The aircraft needs to be flown at Va",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which of the following situations leads to a decreasing stall speed (IAS)?",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "increasing air density",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "increasing altitude",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "increasing load factor",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "decreasing weight",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The stall speed:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "decreases with an increased weight",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "increases with an increased weight",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "increases with the length of the wingspan",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "does not depend on weight",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "code": "",
+    "type": "MulChoice",
+    "question": "When a pilot makes a turn in horizontal flight, the stall speed:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "decreases with increasing bank angle",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "increases with flap extension",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "increases with the load factor squared",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "increases with the square root of load factor",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The stall speed in a 60° banked turn increases by the following factor:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "1.41",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "2",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "1.3",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "1.07",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Stalling an aircraft results in",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Engine stoppage",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Loss of control",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Loss of Lift",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Loss of Drag",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The wing of an aeroplane will never stall at low subsonic speeds as long as:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "the angle of attack is smaller than the value at which the stall occurs",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "there is a nose-down attitude",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "the CAS exceeds the power-on stall speed",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "the IAS exceeds the power-on stall speed",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The stall speed increases, when: (all other factors of importance being constant)",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "minor altitude changes occur e.g. 0-10000'",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "weight decreases",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "spoilers are retracted",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "pulling out of a dive",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The following factors increase stall speed:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "increasing bank angle, increasing thrust, slat extension",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "a higher weight, selecting a higher flap setting, a forward CG shift",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "a lower weight, decreasing bank angle, a smaller flap setting",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "an increase in load factor, a forward CG shift, decrease in thrust",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The stalling speed in IAS will change according to the following factors:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "Will decrease with a forward c.g. location, lower altitude and due to the slip stream from a propeller on an engine located forward of the wing",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Will increase during turn, increased mass and an aft c.g. location",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Will increase with increased load factor, icing conditions and more flaps",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "May increase during turbulence and will always increase when banking in a turn",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The aircraft attitude relative to the horizon in a glide",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "Is similar to Straight and Level Flight",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "A low nose attitude",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "A high nose attitude",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Depends on the weight",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "code": "",
+    "type": "MulChoice",
+    "question": "To operate at best Lift to Drag Ratio in a Glide, you need to",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "Shut the engine down to reduce drag",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Consult the manual for the correct airspeed",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Trim nose up",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Reduce weight",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The maximum ground distance during a glide with zero thrust increases:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "in a headwind at a constant aeroplane mass compared with zero wind.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "with an increase in aeroplane mass in zero wind.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "in a tailwind at a constant aeroplane mass compared with zero wind.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "with a decrease in aeroplane mass in zero wind.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "code": "",
+    "type": "MulChoice",
+    "question": "At a constant angle of attack, which of the following factors will lead to an increase of ground distance during a glide and with zero thrust ?",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "Increase of aeroplane mass",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Headwind",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Decrease of aeroplane mass",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Tailwind",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Amongst the following factors, which will decrease the ground distance covered during a glide (assume zero power/thrust)?",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "An increase in aeroplane mass.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Tailwind.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "A decrease in aeroplane mass.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Headwind.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Turning motion in a steady, level co-ordinated turn is created by:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "the centrifugal force",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "the centripetal force",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "the drag",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "the thrust",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Lift is the:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Vertical component of the total aerodynamic force, perpendicular to the undisturbed airflow",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Component of the total aerodynamic force, perpendicular to the undisturbed airflow",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Component of the total aerodynamic force, perpendicular to the local flow",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Component of the total aerodynamic force, perpendicular to the mean aerodynamic chord",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which one of the following statements about the lift-to-drag ratio in straight and level flight is correct?",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "At the highest value of the lift / drag ratio the total drag is lowest",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "The highest value of the lift / drag ratio is reached when the lift is equal to the aircraft weight",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "The lift / drag ratio always increases as the lift decreases",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "The highest value of the lift / drag ratio is reached when the lift is zero",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "code": "",
+    "type": "MulChoice",
+    "question": "In a straight, steady climb the thrust must be:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "greater than the drag because it must also balance a component of weight.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "equal to the drag.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "lower than the drag because it is assisted by a component of weight.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "greater than drag because more lift has to be produced.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The speed for maximum lift/drag ratio will result in:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "The maximum endurance for a propeller driven aeroplane",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "The maximum range for a jet aeroplane",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "The maximum angle of climb for a propeller driven aeroplane",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "The maximum range for a propeller driven aeroplane",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Density Altitude:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "is equal to the pressure altitude",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "is used to establish minimum clearance of 2000' over mountains",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "is used to determine the aeroplane performance",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "is used to calculate the FL above the Transition Altitude",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which one of the following statements about the lift-to-drag ratio in straight and level flight is correct?",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "At the highest value of the lift / drag ratio the total drag is lowest",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "The highest value of the lift / drag ratio is reached when the lift is equal to the aircraft weight",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "The lift / drag ratio always increases as the lift decreases",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "The highest value of the lift / drag ratio is reached when the lift is zero",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The altimeter is fed by:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "Differential pressure.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Dynamic pressure.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Total pressure.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Static pressure.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "code": "",
+    "type": "MulChoice",
+    "question": "If the static vent becomes blocked during a descent, the altimeter will:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "not change its reading.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "read correctly.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "read too low.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "fluctuate.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The airspeed indicator uses readings from:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "the input vent only.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "the pitot tube only.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "the static vent only.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "both the pitot tube and the static vent.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which of these is NOT a pressure-operated instrument?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Airspeed Indicator.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Altimeter.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Heading indicator.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Vertical speed indicator.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The alternate static source, if used, takes static pressure from inside the cockpit and this is usually (1) ________ than the outside static pressure. After switching to the alternate static source, both the altimeter and the airspeed indicator may read (2) ________",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "(1) slightly higher (2) slightly low",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "(1) slightly lower (2) slightly high",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "(1) the same (2) the same",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "(1) the same (2) slightly low",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The asymmetric blade effect on an single engine aeroplane with a clockwise rotating propeller:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "does not produce any yaw.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "produces left yaw.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "is also called the gyroscopic effect.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "produces right yaw.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The torque effect during the take off run in respect of a right hand propeller, when viewed from behind, will tend to:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "roll the aeroplane to the right",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "pitch the aeroplane nose down",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "pitch the aeroplane nose up",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "roll the aeroplane to the left",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "code": "",
+    "type": "MulChoice",
+    "question": "An engine failure can result in a windmilling (1) propeller and a feathered (2) propeller. Which statement about propeller drag is correct?",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "(2) is larger than (1).",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "(1) is equal to (2).",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "impossible to say which one is largest.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "(1) is larger than (2).",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Fixed pitch propellers are usually designed for maximum efficiency at:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "idling.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "cruising speed.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "take-off.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "full throttle.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "code": "",
+    "type": "MulChoice",
+    "question": "A propeller blade is twisted, so as to:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "decrease the blade tangential velocity from the blade root to the tip.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "avoid the appearance of sonic phenomena.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "allow a higher mechanical stress.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "keep the local Angle of Attack constant along the blade.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The slipstream effect of a propeller is most prominent at:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "high airspeeds with low power setting.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "low airspeeds with high power setting.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "low airspeeds with low power setting.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "high airspeeds with high power setting.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The main advantage of a constant speed propeller as compared to a fixed pitch propeller is a:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "constant efficiency in the whole speed range of the aeroplane.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "lower propeller blade stress.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "high efficiency in a much wider speed range of the aeroplane.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "higher efficiency in cruising range.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Fixed-pitch propellers are usually designed for maximum efficiency at:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "full throttle",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "idling",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "take-off",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "cruising speed",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The angle of attack for a propeller blade is the angle between the blade chord line and the:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "direction of propeller axis.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "local air speed vector.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "principal direction of the propeller blade.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "aeroplane heading.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "code": "",
+    "type": "MulChoice",
+    "question": "During the retraction of the flaps at a constant angle of attack the aeroplane starts to (all other factors of importance being constant):",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "climb",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "bank",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "yaw",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "sink suddenly",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which statement is correct?",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "Flap extension causes a reduction in stall speed and the maximum glide distance",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Spoiler extension causes a reduction in stall speed and the minimum rate of descent, but increases the minimum descent angle",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Flap extension has no influence on the minimum rate of descent, as only TAS has to be taken into account",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Flap extension will increase (CL/CD) max thus causing a reduction in the minimum rate of descent",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "code": "",
+    "type": "MulChoice",
+    "question": "During the extension of the flaps at a constant angle of attack the aeroplane starts to (all other factors of importance being constant)",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "bank.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "climb.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "yaw.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "sink suddenly.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "code": "",
+    "type": "MulChoice",
+    "question": "A plain flap will increase CLmax by",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "increasing angle of attack.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "boundary layer control.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "increasing the camber of the aerofoil.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "centre of lift movement.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The high lift device shown in the figure is a:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "Slat",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Krueger flap",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Slotted flap",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Fowler flap",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which type of flap is shown in the picture?",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "Double slotted flap",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Fowler flap",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Split flap",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Plain flap",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which type of flap is shown in the picture?",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "Split flap",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Plain flap",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Fowler flap",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Single slotted flap",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The high lift device shown in the figure below is a:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "Slotted flap",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Fowler flap",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Slot or slat",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Krueger flap",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The trailing edge flaps when extended:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "degrade the best angle of glide",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "significantly lower the drag",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "significantly increase the angle of attack for maximum lift",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "increase the zero lift angle of attack",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "code": "",
+    "type": "MulChoice",
+    "question": "When trailing edge flaps are selected down whilst maintaining straight and level flight at constant IAS:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "the lift coefficient and the drag coefficient increase",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "the stall speed increases",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "the centre of pressure moves aft",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "the total boundary layer becomes laminar",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "code": "",
+    "type": "MulChoice",
+    "question": "In order to maintain straight and level flight at a constant airspeed, whilst the flaps are being retracted, the angle of attack must be:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "held constant",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "decreased",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "increased or decreased depending upon the type of flap",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "increased",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "code": "",
+    "type": "MulChoice",
+    "question": "When flaps are deployed at constant angle of attack the lift coefficient will:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "increase",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "vary as the square of IAS",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "remain the same",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "decrease",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The fuselage of an aircraft consists, among others, of stringers whose purpose is to:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "provide sound and thermal isolation",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "withstand the shear stresses",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "integrate the strains due to pressurization to which the skin is subjected and convert them into a tensile stress",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "assist the skin in absorbing the longitudinal traction-compression stresses",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Composite Airframes",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Are prone to effects of corrosion",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Do not suffer from delamination",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Are less prone to fatigue",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Are easier to clean",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Stressed Skin Airframes usually consist of:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Reinforced paper",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Copper alloy",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Aluminum alloy",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Reinforced Fabic",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Popped, loose or missing Rivets",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Are normal for older aircraft",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Are usually replaced at the 100 hour check",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Are signs of potential failure",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Cause corrosion",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Fabric Covered Airframes",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Are suitable for all aircraft",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Are suitable for fast moving aircraft",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Are suitable for low wing loadings",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Are no longer used",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "code": "",
+    "type": "MulChoice",
+    "question": "To Picket an aircraft correctly, a Pilot must",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "Consult the Pilot’s Operating Handbook",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Ask the owner how it’s done",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Avoid grassy areas",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Use non stretch rope",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "code": "",
+    "type": "MulChoice",
+    "question": "One function of a rib is:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "to maintain the aerodynamic shape of the wing.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "to stabilise the fuselage skin against buckling.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "to carry tensile load of the fuselage pressure hull.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "to be the primary structural member to carry wings loads.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Pre Flight Checks are:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Useful for long flights",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Need to be done at least once every week",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Are part of the maintenance programme",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Are no longer required with modern aircraft",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "code": "",
+    "type": "MulChoice",
+    "question": "A structure in which the skin takes all of the load is:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "a box structure.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "a monocoque structure.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "a semi-monocoque structure.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "a semi-braced structure.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The function of ribs in a wing is to:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "withstand the torsional loads.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "withstand all the structural loads.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "give the wing the desired aerodynamic shape.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "allow installation of fuel cells in the wing.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "code": "",
+    "type": "MulChoice",
+    "question": "A ‘Spinner’",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "Protects the propeller from bird strike",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Has a cosmetic effect only",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Is part of the Trimming system",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Can help cool the engine in flight",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "code": "",
+    "type": "MulChoice",
+    "question": "If the Pitot Heat Cover is left on",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "The aircraft cannot get airborne",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "The pressure on the static vent increases",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "The airspeed cannot be measured",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "The drag will increase slowing the aircraft down",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Fuel tank air pressure is maintained at ambient by:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "the fuel tank drains.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "the fuel top off unit.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "the fuel vent system.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "the fuel dump system.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "code": "",
+    "type": "MulChoice",
+    "question": "If a fuel sample is cloudy and clears slowly from the top it is an indication of:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "cold soaked fuel.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "air in the fuel.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "water in the fuel.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "wax in the fuel.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The fuel tanks in small aircraft are mainly located:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "in the wings.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "close to the engine.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "in the fuselage.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "in the tail section of the aircraft.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 122,
+    "code": "",
+    "type": "MulChoice",
+    "question": "When checking the fuel for possible water content, the presence of water will be indicated by:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "change in the color of the fuel.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "impossible to tell because they will mix.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "the water will be found at the bottom of the strainer, because it is heavier than the fuel.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "the water will be on top of the fuel in the fuel strainer because the water is lighter than the fuel.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 123,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Fuel stored in aircraft tanks will accumulate moisture. The most practical way to minimize this when a plane is used every day or so is to:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "drain tanks at end of each day's flight.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "keep tanks topped off (full) when plane is not in use.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "keep tank vents plugged and filler cap tight.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "use only high octane gasoline.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 124,
+    "code": "",
+    "type": "MulChoice",
+    "question": "On small aircraft the fuel content is typically measured by:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "calculation of the centre of gravity of the aircraft.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "the volume of fuel in the tank.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "the level of fuel in the tank.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "the weight of fuel in the tank.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 125,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The ventilation system in a fuel tank:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "prevents fuel freezing during flight in icing conditions",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "can be used to drain the tanks, for daily checks.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "prevents vapour locking in the fuel lines.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "prevents low pressure or excessive overpressure in the tank.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 126,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The octane rating of a fuel characterises the:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "quantity of heat generated by its combustion",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "fuel volatility",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "fuel electrical conductivity",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "the anti-knock capability",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 127,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The task of the primer pump is to",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "provide additional fuel for an engine start.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "inject additional fuel during engine acceleration.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "to serve as main supply pump in a fuel injection system.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "serve as an alternate pump in case of an engine driven pump failure.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 128,
+    "code": "",
+    "type": "MulChoice",
+    "question": "In addition to the fire hazard introduced, excessive priming should be avoided because:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "it drains the carburettor float chamber",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "it fouls the spark plugs",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "the gasoline dilutes the oil and necessitates changing oil",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "it washes the lubricant of cylinder walls",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 129,
+    "code": "",
+    "type": "MulChoice",
+    "question": "A piston engine may use a fuel of a different grade than the recommended:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "provided that the grade is lower",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "never",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "provided that the grade is higher",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "provided that it is an aeronautical petrol",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 130,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The capacity of a battery is the:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "intensity withstood by the battery during charging.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "amount of ampere-hours that a fully charged battery can supply.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "no-load voltage of the battery multiplied by its rated output current.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "number of cycles (charging and discharging) that a battery can withstand without deterioration of its cells.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 131,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The rating of electrical fuses is expressed in:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "volts",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "ohms",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "watts",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "amperes",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 132,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The most common overload protection device used in aircraft is:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "fuses.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "circuit breakers.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "relays.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "diodes.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 133,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Immediately after starting engine(s) with no other electrical services switched on, an ammeter is showing a high charge rate to the battery:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "indicates a faulty reverse current relay.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "would be normal and is only cause for concern if the high charge rate persists.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "indicates a generator failure, thus requiring the engine to be shut down immediately.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "indicates a battery failure since there should be no immediate charging.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 134,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Modern aircraft can have many different types of circuit breakers (CB). Generally speaking a CB is an electric component that:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "when excessive current flows through it, it will open the circuit. It has to be replaced to regain a closed electrical circuit.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "when excessive current flows through it, it will open the circuit, but a closed circuit is regained when it is reset.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "prevents high voltage, but can not handle high values of current.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "is seldom used in electrical systems.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 135,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Assuming the initiating cause is removed, which of these statements about resetting are correct or incorrect? 1) A fuse is not resettable; 2) A circuit breaker is resettable.",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "1) is correct, 2) is incorrect.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "1) is incorrect, 2) is correct.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "1) is correct, 2) is correct.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "1) is incorrect, 2) is incorrect.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 136,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Assuming the initiating cause is removed, which of these statements about resetting are correct or incorrect? 1) A fuse is resettable; 2) A circuit breaker is not resettable.",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "1) is correct, 2) is incorrect.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "1) is incorrect, 2) is correct.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "1) is incorrect, 2) is incorrect.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "1) is correct, 2) is correct.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 137,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Batteries are rated in:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "watts.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "amperes / volts.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "ohms.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "amperes x hours.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 138,
+    "code": "",
+    "type": "MulChoice",
+    "question": "If one of the 12 cells of a Lead-acid battery has a broken connection rendering it inoperable, the battery:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "has 1/12 less voltage, but can still be used.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "has 1/12 less capacity, but can still be used.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "has 1/12 less voltage and less capacity, but can still be used.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "is unserviceable.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 139,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The capacity of a battery is given in:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "watts.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "ampere hours.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "internal resistance.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "volts.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 140,
+    "code": "",
+    "type": "MulChoice",
+    "question": "A \"bus bar\" is:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "a device which may only be used in DC circuits.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "the stator of a moving coil instrument.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "a device permitting operation of two or more switches together.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "a distribution means for electrical power.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 141,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The purpose of static wick dischargers is to:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "dissipate static charge from the aircraft skin after landing.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "provide a path to ground for static charges when refuelling.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "dissipate static charge of the aircraft in flight thus avoiding radio interference as a result of static electricity.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "be able to fly higher because of less electrical friction.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 142,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The purpose of static discharge wicks is to:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "reduce the likelihood of lightning strikes.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "safely dissipate the static charge of the aircraft in flight.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "discharge static from the skin after landing.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "eliminate radio interference.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 143,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The purpose of a distributor in the ignition system of a piston engine is to distribute:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "secondary current to the condenser.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "primary current to the condenser.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "primary current to the sparking plugs.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "secondary current to the sparking plugs.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 144,
+    "code": "",
+    "type": "MulChoice",
+    "question": "If the ground wire between the magnetos and the ignition switch becomes disconnected the most noticeable result will be that:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "the engine cannot be shut down by turning the ignition switch to the \"OFF\" position.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "the power developed by the engine will be strongly reduced.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "a still operating engine will shut down.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "the engine cannot be started with the ignition switch in the \"ON\" position.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 145,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The illumination of the green landing gear light indicates that the landing gear is:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "locked-down and its door is locked.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "in the required position.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "not in the required position.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "locked-down.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 146,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Nose wheel shimmy' may be described as:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "the oscillatory movement of the nose wheel when extended prior to landing.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "a possibly damaging vibration of the nose wheel when moving on the ground.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "aircraft vibration caused by the nose wheel upon extension of the gear.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "the amount of free movement of the nose wheel before steering takes effect.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 147,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Nose wheel steering for Tricycle undercarriages is controlled by",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "A mini steering wheel in the cockpit",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Throttle changes",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Rudder pedals",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Differential Braking",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 148,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Retractable Undercarriages",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "Improve performance by reducing drag",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Reduce performance by increasing weight",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Cannot be relied on",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Are used to overcome rough surfaces",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 149,
+    "code": "",
+    "type": "MulChoice",
+    "question": "A tailwheel Aircraft is",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "Useful for overcoming obstacles after takeoff",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Easier to start",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Is more difficult to start",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Is inherently unstable on the ground",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 150,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Taxiing speeds should be kept",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "At a slow and even pace",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Slight faster than normal running speed",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Variable depending on distance",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "At a fast walking pace",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 151,
+    "code": "",
+    "type": "MulChoice",
+    "question": "A red or an amber light on an undercarriage position indicator signifies:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "All wheels are up and locked.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "At least one wheel is in the travelling or unlocked condition.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "The landing has been selected down using the emergency extension system.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "All wheels are down and locked.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 152,
+    "code": "",
+    "type": "MulChoice",
+    "question": "For undercarriage faults in flight, the Pilot should",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Ask the Tower for guidance",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Consult with a Flight Instructor",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Check the Pilot’s Operating Handbook",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Rely on experience and instinct to make good decisions",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 153,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Proper tyre inflation prevents",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Tyre blow out",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Poor braking action",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Increased wear",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Loss of control",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 154,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The correct formula to calculate the multi-cylinder engine displacement is:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "cylinder volume * number of cylinders",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "piston area * piston stroke",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "cylinder length * cylinder diameter",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "piston area * piston stroke * number of cylinders",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 155,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Ignition occurs in each cylinder of a four stroke engine (TDC = Top Dead Centre):",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "before TDC at each second crankshaft revolution.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "behind TDC at each second crankshaft revolution.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "behind TDC at each crankshaft revolution.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "before TDC at each crankshaft revolution.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 156,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The power of a piston engine decreases during a climb with a constant power lever setting because of the decreasing:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "engine temperature.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "humidity.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "air density.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "temperature.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 157,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The conditions under which you obtain the highest engine power are:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "warm and humid air at low pressure.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "cold and humid air at high pressure.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "cold and dry air at high pressure.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "warm and dry air at high pressure.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 158,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The crank assembly consists of",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "Crankcase, crankshaft, connecting rods and pistons.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "propeller, crankshaft, pistons and connecting rods.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "crankshaft, camshaft, valves, valve springs and push rods.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "crankshaft, connecting rods and pistons.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 159,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Ignition systems of piston engines are:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "dependent on the battery.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "dependent on the DC-Generator.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "independent of the electrical system of the aircraft.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "dependent on the AC-Generator.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 160,
+    "code": "",
+    "type": "MulChoice",
+    "question": "In a four-stroke piston engine, the only 'driving' stroke is:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "compression",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "intake",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "exhaust",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "firing-expansion",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 161,
+    "code": "",
+    "type": "MulChoice",
+    "question": "For internal cooling, reciprocating engines are especially dependent on:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "the circulation of lubricating oil",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "a lean fuel/air mixture",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "a properly functioning thermostat",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "a rich fuel/air mixture",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 162,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Pre-ignition refers to the condition that may arise when:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "a rich mixture is ignited by the sparking plugs.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "the mixture is ignited before the piston has reached top dead centre.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "the sparking plug ignites the mixture too early.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "the mixture is ignited by abnormal conditions within the cylinder before the spark occurs at the plug",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 163,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Prolonged running at low rpm can have an adverse effect on the functioning of the:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "carburettor.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "sparking plugs.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "fuel filter.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "oil pump.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 164,
+    "code": "",
+    "type": "MulChoice",
+    "question": "With respect to a piston engine aircraft, ice in the carburettor:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "will only form at OAT's below +10°C.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "will only form at outside air temperatures (OAT's) below the freezing point of water.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "may form at OAT's higher than +10°C.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "will only form at OAT's below the freezing point of fuel.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 165,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Which one of the following factors would be most likely to increase the possibility of detonation occurring within a piston engine?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "the use of a fuel with a high octane rating as compared to the use of one with a low octane rating",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "using an engine with a low compression ratio",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "using too lean a fuel/air mixture",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "slightly retarding the ignition timing",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 166,
+    "code": "",
+    "type": "MulChoice",
+    "question": "As the flight altitude increases, if no leaning is made with the mixture control:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "the density of air entering the carburettor decreases and the amount of fuel remains constant",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "the density of air entering the carburettor decreases and the amount of fuel increases.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "the volume of air entering the carburettor decreases and the amount of fuel decreases",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "the volume of air entering the carburettor remains constant and the amount of fuel decreases",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 167,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The lubricating system of an aircraft engine is used to",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "keep the engine warm",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "prevent inter-crystalline corrosion",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "aid in dissipation of heat",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "operate ground adjustable propellers.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 168,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Spark plug fouling is more likely to happen if:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "power is increased too abruptly.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "the aircraft descends without a mixture adjustment.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "the engine runs at the authorized maximum continuous power for too long.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "the aircraft climbs without mixture adjustment.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 169,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Engine compartment decking and firewalls are manufactured from:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "Stainless steel or titanium sheet.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Asbestos blankets.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Composite materials such as carbon, kevlar and fibre glass.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Aluminium alloy sheet.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 170,
+    "code": "",
+    "type": "MulChoice",
+    "question": "In very cold weather, a slightly higher than normal engine oil pressure during startup:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "is unacceptable but does not require the engine to be shut down.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "is unacceptable and requires the engine to be shut down.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "requires an oil change.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "is acceptable, if it decreases after startup.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 171,
+    "code": "",
+    "type": "MulChoice",
+    "question": "In very cold weather, the pilot notices during startup, a slightly higher than normal engine oil pressure. This higher pressure:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "is abnormal and requires the engine to be shut down.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "is normal, if it decreases after startup.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "requires an oil change.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "is abnormal but does not require the engine to be shut down.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 172,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Diesel engines always produce a certain amount of soot, because:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "the intake air is too cold.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "the fuel droplets are too small.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "the mixture is always too rich.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "the fuel droplets coming from the atomiser do not burn completely.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 173,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The power output of a diesel engine without a turbo charger is regulated by:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "mixture.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "fuel flow and airflow.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "airflow only.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "fuel flow only.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 174,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The part of a piston engine that transforms reciprocating movement into rotary motion is called the:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "piston.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "crankshaft.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "reduction gear.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "camshaft.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 175,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Given the following statements about diesel engines: 1) power is set by the mixture control; 2) there is no mixture control; 3) the amount of power is determined by the fuel flow only; 4) thermal efficiency is higher than that for a petrol engine; 5) diesel fuel is more inflammable than petrol.The combination that regroups all of the correct statements is:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "1, 2, 2003",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "2, 4, 2005",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "1, 3, 2005",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "2, 3, 2004",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 176,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The crankcase is the component which:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "provides a mounting for an oil cooler.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "converts reciprocating motion into rotary motion.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "provides a mounting point for most of the engine components and in which are the main rotating assemblies located.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "operates within the float chamber.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 177,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The crank assembly of a piston engine comprises the:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "Crankcase, crankshaft, pistons and connecting rods.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Crankshaft, camshaft, valve springs.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Propeller, crankshaft, connecting rods.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Crankshaft, pistons and connecting rods.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 178,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The best power mixture is that fuel/air ratio at which:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "cylinder head temperatures are the coolest.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "climbs or descents can be made without adjusting the mixture control.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "a given power can be obtained with the highest manifold pressure or throttle setting.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "the most power can be obtained for any given throttle setting.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 179,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The Cam shafts are responsible for:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Piston displacement",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Compression",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Volumetric efficiency",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Propeller torque",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 180,
+    "code": "",
+    "type": "MulChoice",
+    "question": "What are the functions of the lubricating oil in an aircraft engine?",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Lubricates, cools, cleans and prevents fatigue of parts.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Lubricates, cools, seals and prevents internal pressure build-up.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Lubricates, seals, cools, cleans and prevents corrosion.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Lubricates and increases friction between moving parts.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 181,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Overheating of a piston engine is likely to result from an excessively:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "weak mixture.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "high barometric pressure.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "low barometric pressure.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "rich mixture.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 182,
+    "code": "",
+    "type": "MulChoice",
+    "question": "To cool an overheated engine in flight, the Pilot must",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Synchronise the engine controls",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Prevent detonation",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Increase airflow over the engine",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Close all cowl flaps",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 183,
+    "code": "",
+    "type": "MulChoice",
+    "question": "An impulse coupling is installed on a magneto of a piston engine to:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "facilitate quick removal and installation.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "advance the ignition timing.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "absorb starting loads.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "provide a retarded spark for engine starting.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 184,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The Battery is used",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "To run all the electrics in flight",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "To operate control surfaces such as elevators",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "To start the engine",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "To operate flaps for landing",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 185,
+    "code": "",
+    "type": "MulChoice",
+    "question": "With an aircraft fitted with a fixed pitch propeller, during flight at normal cruising speed, one magneto fails completely. This will first cause:",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "an additional load on the other magneto.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "excessive vibration.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "loss of approximately 100 RPM.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "the engine to overheat.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 186,
+    "code": "",
+    "type": "MulChoice",
+    "question": "When performing a magneto ground check on an engine, correct operation is indicated by:",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "an increase in RPM.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "a decrease in manifold pressure.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "no drop in RPM.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "a slight drop in RPM.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 187,
+    "code": "",
+    "type": "MulChoice",
+    "question": "When an RPM drop exceeding 100 is indicated on a Mag Check",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "The pilot should lean the mixture",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "The pilot should avoid getting airborne",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Not a problem as long as 200 RPM is not reached",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Cycle the carburetor heat",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 188,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Magnetos",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "Are an important part of the electrical system",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Are not part of the electrical system",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Cannot be operated in icing conditions",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Are connected to the camshaft",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 189,
+    "code": "",
+    "type": "MulChoice",
+    "question": "A dead cut check is used at low power to",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "Check for adequate fuel",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "To check that both magnetos are operating",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "To check for full power on line up",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "To ensure the starter motor has disengaged after starting",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 190,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The engine will run",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "Without magnetos",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "On only one magneto",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "On two magnetos only",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Continuously providing both magnetos are operating",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 191,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The operating principle of float-type carburettors is based on the:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "difference in air pressure at the venturi throat and the air inlet.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "measurement of the fuel flow into the induction system.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "automatic metering of air at the venturias the aircraft gains altitude.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "increase in air velocity in the throat of a venturi causing an increase in air pressure.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 192,
+    "code": "",
+    "type": "MulChoice",
+    "question": "When the pilot moves the mixture lever of a piston engine towards a lean position the:",
+    "explanation": "",
+    "answer": 1,
+    "options": [
+      {
+        "id": 1,
+        "text": "amount of fuel entering the combustion chamber is reduced.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "volume of air entering the carburettor is increased.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "amount of fuel entering the combustion chamber is increased.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "volume of air entering the carburettor is reduced.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 193,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Fuel/air ratio is the ratio between the:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "volume of fuel and volume of air entering the carburettor.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "mass of fuel and mass of air entering the cylinder.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "mass of fuel and mass of air entering the carburettor",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "volume of fuel and volume of air entering the cylinder.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 194,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Using the mixture when in the climb",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "Is not recommended",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Will overheat the engine",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Will cause rough running",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Is recommended",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 195,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The application of carburettor heat reduces",
+    "explanation": "",
+    "answer": 4,
+    "options": [
+      {
+        "id": 1,
+        "text": "it reduces the density of air entering the carburettor, thus leaning the fuel/air mixture",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "the volume of air entering the carburettor, thus leaning the fuel/air mixture",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "the volume of air entering the carburettor, thus enriching the fuel/air mixture.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "the density of air entering the carburettor, thus enriching the fuel/air mixture",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 196,
+    "code": "",
+    "type": "MulChoice",
+    "question": "An EGT Gauge is useful for",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Determining Carburettor icing",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Determining range",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Leaning the mixture",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Improving power output",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 197,
+    "code": "",
+    "type": "MulChoice",
+    "question": "As altitude increases, if the mixture is not leaned:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "the volume of air entering the carburettor remains constant and the fuel flow decreases.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "the density of air entering the carburettor decreases and the amount of fuel remains constant.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "the density of air entering the carburettor decreases and the fuel flow increases.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "the volume of air entering the carburettor decreases and the amount of fuel decreases.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 198,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Air flowing through a venturi of a carburettor causes:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "a reduction of air velocity at the throat.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "a decrease in pressure at the throat.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "an increase in velocity and pressure.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "an increase in pressure at the throat.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 199,
+    "code": "",
+    "type": "MulChoice",
+    "question": "Regarding carburettor ice, state the environmental caution areas most conducive for the formation of this type of ice.",
+    "explanation": "",
+    "answer": 3,
+    "options": [
+      {
+        "id": 1,
+        "text": "Temperature between +5°C and +18°C, visible moisture or relative humidity greater than 60%.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "Temperature less than 0°C, and clouds present.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "Temperature between -5°C and +18°C, visible moisture or relative humidity greater than 60%.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "Temperature between +5°C and +18°C and clouds present.",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": 200,
+    "code": "",
+    "type": "MulChoice",
+    "question": "The mixture controller of a carburettor:",
+    "explanation": "",
+    "answer": 2,
+    "options": [
+      {
+        "id": 1,
+        "text": "alters the pressure drop at the main discharge nozzle.",
+        "explanation": ""
+      },
+      {
+        "id": 2,
+        "text": "varies the fuel supply to the main discharge nozzle.",
+        "explanation": ""
+      },
+      {
+        "id": 3,
+        "text": "varies the air supply at the main discharge nozzle.",
+        "explanation": ""
+      },
+      {
+        "id": 4,
+        "text": "moves the butterfly valve through a separate linkage to the main throttle control.",
+        "explanation": ""
+      }
+    ]
+  }
+]
