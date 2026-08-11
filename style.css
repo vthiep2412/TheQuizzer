@@ -1128,7 +1128,7 @@ h1, h2, h3, h4, h5, h6 {
   display: inline-block;
 }
 .swatch.unanswered { border: 1px solid var(--border-color); background-color: var(--bg-primary); }
-.swatch.answered { background-color: var(--text-muted); }
+.swatch.answered { background-color: var(--accent-color); }
 .swatch.correct { background-color: var(--color-success); }
 .swatch.incorrect { background-color: var(--color-error); }
 .swatch.flagged { background-color: var(--color-flag); }
@@ -1163,20 +1163,19 @@ h1, h2, h3, h4, h5, h6 {
   position: relative;
 }
 .map-grid-btn:hover {
-  border-color: var(--text-primary);
-  color: var(--text-primary);
-}
-
-.map-grid-btn.active {
   border-color: var(--accent-color);
   color: var(--accent-color);
-  box-shadow: 0 0 0 2px var(--accent-light);
+}
+
+.map-grid-btn:focus, .map-grid-btn:focus-visible {
+  outline: none;
 }
 
 .map-grid-btn.answered {
-  background-color: var(--border-color);
-  color: var(--text-primary);
-  border-color: var(--border-color);
+  background-color: var(--accent-color);
+  color: var(--bg-primary);
+  border-color: var(--accent-color);
+  font-weight: 700;
 }
 
 .map-grid-btn.correct {
@@ -1193,6 +1192,19 @@ h1, h2, h3, h4, h5, h6 {
 
 .map-grid-btn.flagged {
   border-color: var(--color-flag);
+}
+
+.map-grid-btn.active {
+  border-color: var(--accent-color) !important;
+  color: var(--accent-color);
+  box-shadow: 0 0 0 2px var(--accent-light);
+}
+
+.map-grid-btn.answered.active {
+  background-color: var(--accent-color);
+  color: var(--bg-primary);
+  border-color: var(--accent-color) !important;
+  box-shadow: inset 0 0 0 2px var(--bg-primary), inset 0 0 0 10px var(--accent-color);
 }
 
 /* Flag icon wrap — hidden by default, shown on .flagged buttons */
@@ -1708,7 +1720,7 @@ h1, h2, h3, h4, h5, h6 {
   background-color: var(--accent-light);
   border: 1px solid var(--border-color);
   border-radius: 20px;
-  max-width: 480px;
+  max-width: 360px;
   margin: 0 auto;
 }
 

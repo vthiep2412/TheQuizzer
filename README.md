@@ -6,7 +6,9 @@ A modern, high-performance web application designed for aviation students to pra
 
 - **Dynamic Question Bank Parsing**: Seamlessly loads subjects from JSON question banks.
 - **Diagram & Image Support**: Automatically detects questions with diagrams (`img` property), dynamically adjusting the interface into a 2-column layout with constrained aspect-ratio scaling (`object-fit: contain`) for diagrams.
+- **Interactive Diagram Lightbox**: Opens diagrams in a full-screen viewer with cursor-centered wheel zoom (up to 4×), drag panning, and keyboard close.
 - **Crypto-Secure Question Sampling & Shuffling**: Utilizes `crypto.getRandomValues()` with Fisher-Yates shuffle to pick random sub-sets (e.g. 20 out of 200+ questions) uniformly from the entire question bank.
+- **Session History**: Stores the 30 newest completed sessions in `localStorage` and reloads them into the results and review screens.
 - **Study & Exam Modes**: Practice with instant feedback and explanations, or test knowledge under timed exam conditions.
 - **Keyboard Shortcuts & Accessibility**: Quick navigation using keys `A-D` / `1-4`, `Enter`, `Arrow keys`, and `F` to flag questions.
 - **Bilingual Interface**: Full support for English (`EN`) and Vietnamese (`VI`).

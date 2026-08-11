@@ -167,7 +167,7 @@ const TRANSLATIONS = {
     btn_submit: "Submit Exam",
     btn_end_practice: "End Practice",
     btn_check: "Check Answer",
-    keyboard_tip: "Tip: Keyboard A-D / 1-4 to select • Enter to check • Arrow keys to navigate • F to flag",
+    keyboard_tip: "Tip: Keyboard A-D / 1-4 to select • Enter to check  Arrow keys to navigate • F to flag",
     results_title: "Quiz Complete!",
     stat_subject: "Subject",
     stat_time: "Time Spent",
@@ -381,7 +381,7 @@ function updateLanguageUI() {
       const isPass = DOM.resultVerdict.classList.contains("pass");
       DOM.resultVerdict.textContent = isPass ? TRANSLATIONS[lang].results_pass : TRANSLATIONS[lang].results_fail;
     }
-    buildReviewAccordion("all");
+    buildReviewAccordion(appState.activeReviewFilter || "all");
     setupReviewFilters();
   }
 }
@@ -705,8 +705,6 @@ function handleKeyboardControls(e) {
 
   // Only register inputs when the quiz screen is active
   if (!DOM.screenQuiz.classList.contains("active")) return;
-  // Only register inputs when the quiz screen is active
-  if (!DOM.screenQuiz.classList.contains("active")) return;
   
   const key = e.key;
   const keyLower = key.toLowerCase();
@@ -913,7 +911,7 @@ function renderQuestion(index) {
   }
   
   // Text content
-  DOM.questionText.textContent = question.question;
+  DOM.questionText.textContent = `${index + 1}. ${question.question}`;
   
   // Handle Question Image & 2-column Layout Space Allocation
   const questionContainer = DOM.screenQuiz.querySelector(".question-container");
@@ -1518,7 +1516,7 @@ function initLightbox() {
     }
   });
 
-  // Mouse wheel zoom centered on cursor
+  // Mouse wheel zoom (center-based)
   if (DOM.lightboxViewport) {
     DOM.lightboxViewport.addEventListener("wheel", (e) => {
       e.preventDefault();
@@ -1531,6 +1529,7 @@ function initLightbox() {
           lightboxState.panX = 0;
           lightboxState.panY = 0;
         }
+        clampLightboxPan();
         applyLightboxTransform();
       }
     }, { passive: false });
@@ -1549,6 +1548,7 @@ function initLightbox() {
       if (lightboxState.isDragging && lightboxState.scale > 1) {
         lightboxState.panX = e.clientX - lightboxState.startX;
         lightboxState.panY = e.clientY - lightboxState.startY;
+        clampLightboxPan();
         applyLightboxTransform();
       }
     });
@@ -1558,6 +1558,20 @@ function initLightbox() {
       if (DOM.lightboxImg) DOM.lightboxImg.classList.remove("is-panning");
     });
   }
+}
+
+function clampLightboxPan() {
+  if (lightboxState.scale <= 1) {
+    lightboxState.panX = 0;
+    lightboxState.panY = 0;
+    return;
+  }
+  if (!DOM.lightboxViewport) return;
+  const rect = DOM.lightboxViewport.getBoundingClientRect();
+  const maxPanX = (rect.width * (lightboxState.scale - 1)) / 2;
+  const maxPanY = (rect.height * (lightboxState.scale - 1)) / 2;
+  lightboxState.panX = Math.min(Math.max(-maxPanX, lightboxState.panX), maxPanX);
+  lightboxState.panY = Math.min(Math.max(-maxPanY, lightboxState.panY), maxPanY);
 }
 
 function openLightbox(imgSrc, triggerEl = null) {
@@ -1698,14 +1712,35 @@ function getStoredHistory() {
 
 function saveQuizToHistory(sessionRecord) {
   let history = getStoredHistory();
-  // Store newest session first, max 30 entries
-  history.unshift(sessionRecord);
+  
+  // Clean minimal questions payload
+  const cleanQuestions = (sessionRecord.quizQuestions || []).map(q => ({
+    id: q.id,
+    question: q.question,
+    options: q.options,
+    answer: q.answer,
+    explanation: q.explanation,
+    img: q.img
+  }));
+
+  const minimalRecord = { ...sessionRecord, quizQuestions: cleanQuestions };
+  history.unshift(minimalRecord);
   history = history.slice(0, 30);
-  try {
-    localStorage.setItem(HISTORY_STORAGE_KEY, JSON.stringify(history));
-  } catch (e) {
-    console.warn("Unable to save session history to localStorage", e);
+
+  let saved = false;
+  while (history.length > 0 && !saved) {
+    try {
+      localStorage.setItem(HISTORY_STORAGE_KEY, JSON.stringify(history));
+      saved = true;
+    } catch (e) {
+      history.pop(); // Remove oldest entry on quota error and retry
+    }
   }
+
+  if (!saved) {
+    console.warn("Unable to save session history to localStorage due to quota limits");
+  }
+
   renderHistoryGrid();
 }
 
@@ -1849,6 +1884,13 @@ function loadHistorySessionView(record) {
   const offset = circ - (circ * record.scorePercent) / 100;
   DOM.ringFill.style.strokeDasharray = `${circ}`;
   DOM.ringFill.style.strokeDashoffset = `${offset}`;
+
+  appState.activeReviewFilter = "all";
+  if (DOM.reviewFilters) {
+    DOM.reviewFilters.querySelectorAll(".filter-pill").forEach(p => {
+      p.classList.toggle("active", p.getAttribute("data-filter") === "all");
+    });
+  }
 
   buildReviewAccordion("all");
   setupReviewFilters();
