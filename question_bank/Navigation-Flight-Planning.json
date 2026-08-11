@@ -2705,6 +2705,7 @@
   {
     "id": 91,
     "code": "",
+    "img": "./img/Navigation-Flight-Planning1.png",
     "type": "MulChoice",
     "question": "What is the meaning of aeronautical chart symbol No. 15?",
     "explanation": "",
@@ -2735,6 +2736,7 @@
   {
     "id": 92,
     "code": "",
+    "img": "./img/Navigation-Flight-Planning2.png",
     "type": "MulChoice",
     "question": "What is the meaning of aeronautical chart symbol No. 16?",
     "explanation": "",
@@ -5465,6 +5467,7 @@
   {
     "id": 183,
     "code": "",
+    "img": "./img/Navigation-Flight-Planning3.png",
     "type": "MulChoice",
     "question": "Complete line 2 of the FLIGHT NAVIGATION LOG, position \"C\" to \"D\". What is the HDG° (M) and ETA?",
     "explanation": "",
@@ -5495,6 +5498,7 @@
   {
     "id": 184,
     "code": "",
+    "img": "./img/Navigation-Flight-Planning4.png",
     "type": "MulChoice",
     "question": "Complete line 5 of the FLIGHT NAVIGATION LOG, positions \"J\" to \"K\". What is the HDG° (M) and ETA?",
     "explanation": "",
@@ -5555,6 +5559,7 @@
   {
     "id": 186,
     "code": "",
+    "img": "./img/Navigation-Flight-Planning5.png",
     "type": "MulChoice",
     "question": "Complete line 1 of the 'FLIGHT NAVIGATION LOG'; positions 'A' to 'B'. What is the HDG°(M) and ETA?",
     "explanation": "",
@@ -5585,6 +5590,7 @@
   {
     "id": 187,
     "code": "",
+    "img": "./img/Navigation-Flight-Planning6.png",
     "type": "MulChoice",
     "question": "Complete line 6 of the 'FLIGHT NAVIGATION LOG', positions 'L' to 'M'. What is the HDG°(M) and ETA?",
     "explanation": "",

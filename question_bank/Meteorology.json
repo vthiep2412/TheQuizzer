@@ -1025,6 +1025,7 @@
   {
     "id": 35,
     "code": "",
+    "img": "./img/Meteorology1.png",
     "type": "MulChoice",
     "question": "This symbol means:",
     "explanation": "",
@@ -1085,6 +1086,7 @@
   {
     "id": 37,
     "code": "",
+    "img": "./img/Meteorology2.png",
     "type": "MulChoice",
     "question": "The following diagram represents what?",
     "explanation": "",
@@ -4085,6 +4087,7 @@
   {
     "id": 137,
     "code": "",
+    "img": "./img/Meteorology3.png",
     "type": "MulChoice",
     "question": "Which one of the displayed cloud forms is representative of altocumulus lenticularis?",
     "explanation": "",
@@ -4115,6 +4118,7 @@
   {
     "id": 138,
     "code": "",
+    "img": "./img/Meteorology4.png",
     "type": "MulChoice",
     "question": "Which one of the displayed cloud forms is representative of a cumulonimbus capillatus?",
     "explanation": "",

@@ -77,6 +77,8 @@ const DOM = {
   quizProgressBar: document.getElementById("quiz-progress-bar"),
   btnFlagQuestion: document.getElementById("btn-flag-question"),
   questionText: document.getElementById("question-text"),
+  questionMainLayout: document.querySelector(".question-main-layout"),
+  questionImageContainer: document.getElementById("question-image-container"),
   optionsGrid: document.getElementById("options-grid"),
   explanationBox: document.getElementById("explanation-box"),
   explanationStatus: document.getElementById("explanation-status"),
@@ -102,7 +104,26 @@ const DOM = {
   countCorrect: document.getElementById("count-correct"),
   countIncorrect: document.getElementById("count-incorrect"),
   countFlagged: document.getElementById("count-flagged"),
-  reviewFilters: document.querySelector(".review-filters")
+  reviewFilters: document.querySelector(".review-filters"),
+  
+  // History elements
+  historyContainer: document.getElementById("session-history-container"),
+  historyList: document.getElementById("history-list"),
+  historySelectBtn: document.getElementById("btn-history-select"),
+  historySelectActions: document.getElementById("history-select-actions"),
+  btnSelectAll: document.getElementById("btn-history-select-all"),
+  btnUnselectAll: document.getElementById("btn-history-unselect-all"),
+  btnCancelSelect: document.getElementById("btn-history-cancel"),
+  historyStickyBar: document.getElementById("history-sticky-bar"),
+  stickyCountText: document.getElementById("history-selected-count"),
+  btnStickyCancel: document.getElementById("btn-sticky-cancel"),
+  btnStickyDelete: document.getElementById("btn-sticky-delete"),
+  
+  // Lightbox elements
+  lightboxModal: document.getElementById("image-lightbox-modal"),
+  lightboxImg: document.getElementById("lightbox-img"),
+  lightboxViewport: document.getElementById("lightbox-viewport"),
+  btnLightboxClose: document.getElementById("btn-lightbox-close")
 };
 
 // ==========================================================================
@@ -113,6 +134,8 @@ document.addEventListener("DOMContentLoaded", () => {
   initLanguage();
   populateSubjectsGrid();
   initCustomSelects();
+  initHistory();
+  initLightbox();
   setupEventListeners();
 });
 
@@ -134,7 +157,7 @@ const TRANSLATIONS = {
     question_limit: "Question Limit",
     pass_mark_label: "Pass Mark",
     limit_all: "All Questions",
-    shuffle_questions: "Shuffle questions order",
+    shuffle_questions: "Shuffle questions",
     shuffle_options: "Shuffle answer choices",
     immediate_grading: "Immediate grading",
     btn_start_quiz: "Start Quiz",
@@ -157,7 +180,17 @@ const TRANSLATIONS = {
     filter_incorrect: "Incorrect",
     filter_flagged: "Flagged",
     
-    // Legend keys
+    // Legend & History keys
+    history_title: "Practice & Exam History",
+    btn_history_select_delete: "Select Delete",
+    btn_history_select_all: "Select All",
+    btn_history_unselect_all: "Unselect All",
+    btn_history_cancel: "Cancel",
+    btn_history_delete: "Delete",
+    history_empty: "No quiz history recorded yet. Complete a quiz to view past sessions!",
+    lightbox_tip: "Scroll wheel to Zoom • Drag to Pan • Click outside to Close",
+    question_limit_all: "All Questions",
+    question_limit_unit: "Questions",
     legend_unanswered: "Unanswered",
     legend_answered: "Answered",
     legend_correct: "Correct",
@@ -206,7 +239,7 @@ const TRANSLATIONS = {
     question_limit: "Số lượng câu hỏi",
     pass_mark_label: "Điểm Đạt",
     limit_all: "Tất cả câu hỏi",
-    shuffle_questions: "Xáo trộn thứ tự câu hỏi",
+    shuffle_questions: "Xáo trộn câu hỏi",
     shuffle_options: "Xáo trộn các đáp án",
     immediate_grading: "Hiển thị đáp án ngay",
     btn_start_quiz: "Bắt Đầu",
@@ -229,7 +262,17 @@ const TRANSLATIONS = {
     filter_incorrect: "Sai",
     filter_flagged: "Đã Lưu",
     
-    // Legend keys
+    // Legend & History keys
+    history_title: "Lịch Sử Thi & Luyện Tập",
+    btn_history_select_delete: "Chọn Xóa",
+    btn_history_select_all: "Chọn Tất Cả",
+    btn_history_unselect_all: "Bỏ Chọn Tất Cả",
+    btn_history_cancel: "Hủy",
+    btn_history_delete: "Xóa",
+    history_empty: "Chưa có lịch sử làm bài. Hãy hoàn thành một bài thi để xem lại!",
+    lightbox_tip: "Cuộn chuột để Phóng to • Kéo để Di chuyển • Nhấp bên ngoài để Đóng",
+    question_limit_all: "Tất cả câu hỏi",
+    question_limit_unit: "Câu hỏi",
     legend_unanswered: "Chưa trả lời",
     legend_answered: "Đã trả lời",
     legend_correct: "Đúng",
@@ -320,7 +363,27 @@ function updateLanguageUI() {
   });
   
   updateTimerDropdownTexts();
+  updateQuestionDropdownTexts();
   updateMapLegend();
+  renderHistoryGrid();
+
+  // Dynamically refresh progress label if currently on quiz screen
+  if (DOM.screenQuiz.classList.contains("active") && appState.quizQuestions.length > 0) {
+    const idx = appState.currentIndex;
+    DOM.quizProgressLabel.textContent = lang === "vi"
+      ? `Câu hỏi ${idx + 1}/${appState.quizQuestions.length}`
+      : `Question ${idx + 1}/${appState.quizQuestions.length}`;
+  }
+
+  // Dynamically refresh results screen if currently on results screen
+  if (DOM.screenResults && DOM.screenResults.classList.contains("active")) {
+    if (DOM.resultVerdict) {
+      const isPass = DOM.resultVerdict.classList.contains("pass");
+      DOM.resultVerdict.textContent = isPass ? TRANSLATIONS[lang].results_pass : TRANSLATIONS[lang].results_fail;
+    }
+    buildReviewAccordion("all");
+    setupReviewFilters();
+  }
 }
 
 function updateTimerDropdownTexts() {
@@ -339,6 +402,36 @@ function updateTimerDropdownTexts() {
   const hiddenInput = customSelect.querySelector("input[type='hidden']");
   if (triggerText && hiddenInput) {
     triggerText.textContent = `${hiddenInput.value} ${isVi ? "Phút" : "Minutes"}`;
+  }
+}
+
+function updateQuestionDropdownTexts() {
+  const lang = appState.language || "en";
+  const customSelect = document.getElementById("question-custom-select");
+  if (!customSelect) return;
+  
+  const allText = TRANSLATIONS[lang].question_limit_all || "All Questions";
+  const unitText = TRANSLATIONS[lang].question_limit_unit || "Questions";
+
+  const options = customSelect.querySelectorAll(".select-option");
+  options.forEach(opt => {
+    const val = opt.getAttribute("data-value");
+    if (val === "all") {
+      opt.textContent = allText;
+    } else {
+      opt.textContent = `${val} ${unitText}`;
+    }
+  });
+  
+  const triggerText = customSelect.querySelector(".select-trigger-text");
+  const hiddenInput = customSelect.querySelector("input[type='hidden']");
+  if (triggerText && hiddenInput) {
+    const val = hiddenInput.value;
+    if (val === "all") {
+      triggerText.textContent = allText;
+    } else {
+      triggerText.textContent = `${val} ${unitText}`;
+    }
   }
 }
 
@@ -442,8 +535,7 @@ function populateSubjectsGrid() {
     btn.style.marginBottom = "12px";
     
     const titleSpan = document.createElement("span");
-    const lang = appState.language || "en";
-    const displayName = TRANSLATIONS[lang]?.subjects?.[subject.id] || subject.name;
+    const displayName = subject.name;
     titleSpan.textContent = displayName;
     
     const arrowSpan = document.createElement("span");
@@ -602,6 +694,17 @@ function setupEventListeners() {
 
 // Keyboard controls handler
 function handleKeyboardControls(e) {
+  // Ignore modifier key combinations (Ctrl+A, Alt+A, Cmd+A)
+  if (e.ctrlKey || e.altKey || e.metaKey) return;
+  
+  // Allow key repeat ONLY for ArrowRight and ArrowLeft keys
+  if (e.repeat && !["ArrowRight", "ArrowLeft"].includes(e.key)) return;
+
+  // Ignore quiz shortcuts while the image lightbox is open
+  if (DOM.lightboxModal && !DOM.lightboxModal.classList.contains("hide")) return;
+
+  // Only register inputs when the quiz screen is active
+  if (!DOM.screenQuiz.classList.contains("active")) return;
   // Only register inputs when the quiz screen is active
   if (!DOM.screenQuiz.classList.contains("active")) return;
   
@@ -644,11 +747,28 @@ function handleKeyboardControls(e) {
 }
 
 // ==========================================================================
-// SHUFFLE / RANDOMIZATION HELPER
+// SHUFFLE / RANDOMIZATION HELPER (CRYPTO RANDOM)
 // ==========================================================================
+function getRandomInt(max) {
+  if (max <= 0) return 0;
+  if (window.crypto && window.crypto.getRandomValues) {
+    const randomArray = new Uint32Array(1);
+    const maxUint32 = 4294967296;
+    const limit = maxUint32 - (maxUint32 % max);
+    let val;
+    do {
+      window.crypto.getRandomValues(randomArray);
+      val = randomArray[0];
+    } while (val >= limit);
+    return val % max;
+  }
+  // Fallback to Math.random
+  return Math.floor(Math.random() * max);
+}
+
 function shuffleArray(array) {
   for (let i = array.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1));
+    const j = getRandomInt(i + 1);
     [array[i], array[j]] = [array[j], array[i]];
   }
   return array;
@@ -667,12 +787,12 @@ function startQuiz() {
   
   let baseQuestions = [...appState.rawQuestions];
   
-  // 1. Shuffle Questions if configured
+  // 1. Shuffle ENTIRE question bank using crypto random if shuffle questions is enabled
   if (appState.shuffleQuestions) {
     shuffleArray(baseQuestions);
   }
   
-  // 2. Apply question limit (Exam Mode only)
+  // 2. Apply question limit (Exam Mode only) after full-bank shuffle
   if (appState.selectedMode === "exam" && DOM.questionLimitSelect) {
     const limitVal = DOM.questionLimitSelect.value;
     if (limitVal !== "all") {
@@ -794,6 +914,30 @@ function renderQuestion(index) {
   
   // Text content
   DOM.questionText.textContent = question.question;
+  
+  // Handle Question Image & 2-column Layout Space Allocation
+  const questionContainer = DOM.screenQuiz.querySelector(".question-container");
+  if (question.img && question.img.trim() !== "") {
+    if (questionContainer) questionContainer.classList.add("has-image");
+    if (DOM.questionImageContainer) {
+      DOM.questionImageContainer.classList.remove("hide");
+      DOM.questionImageContainer.innerHTML = "";
+      const imgEl = document.createElement("img");
+      imgEl.src = question.img;
+      imgEl.className = "question-img-el";
+      imgEl.alt = "Question Diagram";
+      imgEl.title = "Click to view larger image";
+      imgEl.style.cursor = "zoom-in";
+      imgEl.addEventListener("click", (e) => openLightbox(question.img, e.currentTarget));
+      DOM.questionImageContainer.appendChild(imgEl);
+    }
+  } else {
+    if (questionContainer) questionContainer.classList.remove("has-image");
+    if (DOM.questionImageContainer) {
+      DOM.questionImageContainer.classList.add("hide");
+      DOM.questionImageContainer.innerHTML = "";
+    }
+  }
   
   // Build and render Choice Options
   DOM.optionsGrid.innerHTML = "";
@@ -1069,7 +1213,8 @@ function submitQuiz() {
   DOM.resultPercent.textContent = `${scorePercent}%`;
   DOM.resultRatio.textContent = `${correctCount} / ${totalQuestions}`;
   
-  const displayName = TRANSLATIONS[lang]?.subjects?.[appState.activeSubjectId] || appState.bankName;
+  const currentSubjectObj = SUBJECTS.find(s => s.id === appState.activeSubjectId);
+  const displayName = currentSubjectObj ? currentSubjectObj.name : appState.bankName;
   DOM.resultStatSubject.textContent = displayName;
   
   // Show the selected pass mark in the results stat
@@ -1088,8 +1233,26 @@ function submitQuiz() {
   DOM.ringFill.style.strokeDasharray = `${circ}`;
   DOM.ringFill.style.strokeDashoffset = `${offset}`;
   
+  // Save session record to LocalStorage
+  saveQuizToHistory({
+    subjectId: appState.activeSubjectId,
+    bankName: displayName,
+    mode: appState.selectedMode,
+    isPass: isPass,
+    scorePercent: scorePercent,
+    correctCount: correctCount,
+    totalQuestions: totalQuestions,
+    timeSpent: appState.timeSpent,
+    passMark: passMark,
+    quizQuestions: appState.quizQuestions,
+    userAnswers: appState.userAnswers,
+    flaggedQuestions: appState.flaggedQuestions,
+    timestamp: new Date().toISOString()
+  });
+  
   // Build Accordion question review list
-  buildReviewAccordion("all");
+  const activeFilter = appState.activeReviewFilter || "all";
+  buildReviewAccordion(activeFilter);
   setupReviewFilters();
   
   showScreen(DOM.screenResults);
@@ -1127,7 +1290,9 @@ function setupReviewFilters() {
     newPill.addEventListener("click", () => {
       DOM.reviewFilters.querySelectorAll(".filter-pill").forEach(p => p.classList.remove("active"));
       newPill.classList.add("active");
-      buildReviewAccordion(newPill.getAttribute("data-filter"));
+      const selectedFilter = newPill.getAttribute("data-filter") || "all";
+      appState.activeReviewFilter = selectedFilter;
+      buildReviewAccordion(selectedFilter);
     });
   });
 }
@@ -1299,4 +1464,394 @@ function buildReviewAccordion(filter = "all") {
     
     DOM.accordionList.appendChild(item);
   });
+}
+
+// ==========================================================================
+// INTERACTIVE IMAGE LIGHTBOX (PAN & SCROLL ZOOM)
+// ==========================================================================
+let lightboxState = {
+  scale: 1,
+  panX: 0,
+  panY: 0,
+  isDragging: false,
+  startX: 0,
+  startY: 0
+};
+
+let lastActiveElement = null;
+
+function initLightbox() {
+  if (!DOM.lightboxModal) return;
+
+  // Prevent default browser drag ghost image preview
+  if (DOM.lightboxImg) {
+    DOM.lightboxImg.addEventListener("dragstart", (e) => e.preventDefault());
+  }
+
+  // Close triggers
+  if (DOM.btnLightboxClose) {
+    DOM.btnLightboxClose.addEventListener("click", closeLightbox);
+  }
+  
+  const overlay = DOM.lightboxModal.querySelector(".lightbox-overlay");
+  if (overlay) {
+    overlay.addEventListener("click", closeLightbox);
+  }
+  
+  // Close on Escape key press & trap Tab key inside modal
+  document.addEventListener("keydown", (e) => {
+    if (DOM.lightboxModal.classList.contains("hide")) return;
+    if (e.key === "Escape") {
+      closeLightbox();
+    } else if (e.key === "Tab") {
+      const focusable = DOM.lightboxModal.querySelectorAll("button, [tabindex]:not([tabindex='-1'])");
+      if (focusable.length === 0) return;
+      const first = focusable[0];
+      const last = focusable[focusable.length - 1];
+      if (e.shiftKey && document.activeElement === first) {
+        e.preventDefault();
+        last.focus();
+      } else if (!e.shiftKey && document.activeElement === last) {
+        e.preventDefault();
+        first.focus();
+      }
+    }
+  });
+
+  // Mouse wheel zoom centered on cursor
+  if (DOM.lightboxViewport) {
+    DOM.lightboxViewport.addEventListener("wheel", (e) => {
+      e.preventDefault();
+      const zoomFactor = e.deltaY < 0 ? 1.15 : 0.85;
+      const newScale = Math.min(Math.max(1, lightboxState.scale * zoomFactor), 4);
+
+      if (newScale !== lightboxState.scale) {
+        lightboxState.scale = newScale;
+        if (newScale === 1) {
+          lightboxState.panX = 0;
+          lightboxState.panY = 0;
+        }
+        applyLightboxTransform();
+      }
+    }, { passive: false });
+
+    // Drag / Pan mouse events
+    DOM.lightboxViewport.addEventListener("mousedown", (e) => {
+      if (lightboxState.scale > 1) {
+        lightboxState.isDragging = true;
+        lightboxState.startX = e.clientX - lightboxState.panX;
+        lightboxState.startY = e.clientY - lightboxState.panY;
+        if (DOM.lightboxImg) DOM.lightboxImg.classList.add("is-panning");
+      }
+    });
+
+    window.addEventListener("mousemove", (e) => {
+      if (lightboxState.isDragging && lightboxState.scale > 1) {
+        lightboxState.panX = e.clientX - lightboxState.startX;
+        lightboxState.panY = e.clientY - lightboxState.startY;
+        applyLightboxTransform();
+      }
+    });
+
+    window.addEventListener("mouseup", () => {
+      lightboxState.isDragging = false;
+      if (DOM.lightboxImg) DOM.lightboxImg.classList.remove("is-panning");
+    });
+  }
+}
+
+function openLightbox(imgSrc, triggerEl = null) {
+  if (!DOM.lightboxModal || !DOM.lightboxImg) return;
+  lastActiveElement = triggerEl || document.activeElement;
+  DOM.lightboxImg.src = imgSrc;
+  lightboxState = { scale: 1, panX: 0, panY: 0, isDragging: false, startX: 0, startY: 0 };
+  applyLightboxTransform();
+  DOM.lightboxModal.classList.remove("hide");
+  DOM.lightboxModal.setAttribute("aria-hidden", "false");
+  if (DOM.btnLightboxClose) DOM.btnLightboxClose.focus();
+}
+
+function closeLightbox() {
+  if (!DOM.lightboxModal) return;
+  DOM.lightboxModal.classList.add("hide");
+  DOM.lightboxModal.setAttribute("aria-hidden", "true");
+  if (lastActiveElement && typeof lastActiveElement.focus === "function") {
+    lastActiveElement.focus();
+  }
+}
+
+function applyLightboxTransform() {
+  if (DOM.lightboxImg) {
+    DOM.lightboxImg.style.transform = `translate(${lightboxState.panX}px, ${lightboxState.panY}px) scale(${lightboxState.scale})`;
+  }
+}
+// ==========================================================================
+// SESSION HISTORY & BATCH DELETION MANAGEMENT
+// ==========================================================================
+const HISTORY_STORAGE_KEY = "thequizzer_history_v1";
+
+let historyState = {
+  isSelectionMode: false,
+  selectedIndices: new Set()
+};
+
+function initHistory() {
+  if (DOM.historySelectBtn) {
+    DOM.historySelectBtn.addEventListener("click", () => enterHistorySelectionMode());
+  }
+  if (DOM.btnSelectAll) {
+    DOM.btnSelectAll.addEventListener("click", () => selectAllHistory());
+  }
+  if (DOM.btnUnselectAll) {
+    DOM.btnUnselectAll.addEventListener("click", () => unselectAllHistory());
+  }
+  if (DOM.btnCancelSelect) {
+    DOM.btnCancelSelect.addEventListener("click", () => exitHistorySelectionMode());
+  }
+  if (DOM.btnStickyCancel) {
+    DOM.btnStickyCancel.addEventListener("click", () => exitHistorySelectionMode());
+  }
+  if (DOM.btnStickyDelete) {
+    DOM.btnStickyDelete.addEventListener("click", () => deleteSelectedHistory());
+  }
+  renderHistoryGrid();
+}
+
+function enterHistorySelectionMode() {
+  historyState.isSelectionMode = true;
+  historyState.selectedIndices.clear();
+  if (DOM.historySelectBtn) DOM.historySelectBtn.classList.add("hide");
+  if (DOM.historySelectActions) DOM.historySelectActions.classList.remove("hide");
+  renderHistoryGrid();
+  updateStickyBarUI();
+}
+
+function exitHistorySelectionMode() {
+  historyState.isSelectionMode = false;
+  historyState.selectedIndices.clear();
+  if (DOM.historySelectBtn) DOM.historySelectBtn.classList.remove("hide");
+  if (DOM.historySelectActions) DOM.historySelectActions.classList.add("hide");
+  if (DOM.historyStickyBar) DOM.historyStickyBar.classList.add("hide");
+  renderHistoryGrid();
+}
+
+function selectAllHistory() {
+  const history = getStoredHistory();
+  historyState.selectedIndices.clear();
+  history.forEach((_, idx) => historyState.selectedIndices.add(idx));
+  renderHistoryGrid();
+  updateStickyBarUI();
+}
+
+function unselectAllHistory() {
+  historyState.selectedIndices.clear();
+  renderHistoryGrid();
+  updateStickyBarUI();
+}
+
+function updateStickyBarUI() {
+  if (!DOM.historyStickyBar) return;
+  const count = historyState.selectedIndices.size;
+  const lang = appState.language || "en";
+
+  if (historyState.isSelectionMode && count > 0) {
+    DOM.historyStickyBar.classList.remove("hide");
+    if (DOM.stickyCountText) {
+      DOM.stickyCountText.textContent = lang === "vi" 
+        ? `${count} Đã chọn` 
+        : `${count} Selected`;
+    }
+  } else {
+    DOM.historyStickyBar.classList.add("hide");
+  }
+}
+
+function deleteSelectedHistory() {
+  const count = historyState.selectedIndices.size;
+  if (count === 0) return;
+
+  const lang = appState.language || "en";
+  const confirmMsg = lang === "vi"
+    ? `Bạn có chắc chắn muốn xóa ${count} mục lịch sử đã chọn?`
+    : `Are you sure you want to delete ${count} selected history item(s)?`;
+
+  if (confirm(confirmMsg)) {
+    const history = getStoredHistory();
+    const remainingHistory = history.filter((_, idx) => !historyState.selectedIndices.has(idx));
+    try {
+      localStorage.setItem(HISTORY_STORAGE_KEY, JSON.stringify(remainingHistory));
+    } catch (e) {
+      console.warn("Error updating history in localStorage", e);
+    }
+    exitHistorySelectionMode();
+  }
+}
+
+function getStoredHistory() {
+  try {
+    const raw = localStorage.getItem(HISTORY_STORAGE_KEY);
+    return raw ? JSON.parse(raw) : [];
+  } catch (e) {
+    return [];
+  }
+}
+
+function saveQuizToHistory(sessionRecord) {
+  let history = getStoredHistory();
+  // Store newest session first, max 30 entries
+  history.unshift(sessionRecord);
+  history = history.slice(0, 30);
+  try {
+    localStorage.setItem(HISTORY_STORAGE_KEY, JSON.stringify(history));
+  } catch (e) {
+    console.warn("Unable to save session history to localStorage", e);
+  }
+  renderHistoryGrid();
+}
+
+function renderHistoryGrid() {
+  if (!DOM.historyList) return;
+  const history = getStoredHistory();
+  const lang = appState.language || "en";
+  DOM.historyList.innerHTML = "";
+
+  if (history.length === 0) {
+    if (DOM.historySelectBtn) DOM.historySelectBtn.classList.add("hide");
+    if (DOM.historySelectActions) DOM.historySelectActions.classList.add("hide");
+    if (DOM.historyStickyBar) DOM.historyStickyBar.classList.add("hide");
+    historyState.isSelectionMode = false;
+    DOM.historyList.innerHTML = `<p class="history-empty-text" data-i18n="history_empty">${TRANSLATIONS[lang].history_empty}</p>`;
+    return;
+  }
+
+  if (!historyState.isSelectionMode) {
+    if (DOM.historySelectBtn) DOM.historySelectBtn.classList.remove("hide");
+    if (DOM.historySelectActions) DOM.historySelectActions.classList.add("hide");
+  } else {
+    if (DOM.historySelectBtn) DOM.historySelectBtn.classList.add("hide");
+    if (DOM.historySelectActions) DOM.historySelectActions.classList.remove("hide");
+  }
+
+  history.forEach((record, index) => {
+    const btn = document.createElement("button");
+    const isSelected = historyState.selectedIndices.has(index);
+    btn.className = "history-item-btn" + (isSelected ? " selected" : "");
+
+    const modeText = record.mode === "exam" 
+      ? (lang === "vi" ? "Thi Thử" : "Exam Mode") 
+      : (lang === "vi" ? "Luyện Tập" : "Practice Mode");
+    const verdictText = record.isPass ? TRANSLATIONS[lang].results_pass : TRANSLATIONS[lang].results_fail;
+
+    const formattedDate = record.timestamp 
+      ? new Date(record.timestamp).toLocaleDateString(lang === "vi" ? "vi-VN" : "en-US", { month: "short", day: "numeric", hour: "2-digit", minute: "2-digit" }) 
+      : "";
+
+    const flexLeft = document.createElement("div");
+    flexLeft.style.display = "flex";
+    flexLeft.style.alignItems = "center";
+
+    if (historyState.isSelectionMode) {
+      const squircleBox = document.createElement("div");
+      squircleBox.className = "history-squircle-check";
+      squircleBox.innerHTML = `<svg class="history-squircle-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>`;
+      flexLeft.appendChild(squircleBox);
+    }
+
+    const itemLeft = document.createElement("div");
+    itemLeft.className = "history-item-left";
+
+    const bankNameSpan = document.createElement("span");
+    bankNameSpan.className = "history-bank-name";
+    bankNameSpan.textContent = record.bankName || "";
+
+    const itemSub = document.createElement("span");
+    itemSub.className = "history-item-sub";
+
+    const modeSpan = document.createElement("span");
+    modeSpan.textContent = modeText;
+
+    const dotSpan = document.createElement("span");
+    dotSpan.textContent = "•";
+
+    const dateSpan = document.createElement("span");
+    dateSpan.textContent = formattedDate;
+
+    itemSub.appendChild(modeSpan);
+    itemSub.appendChild(dotSpan);
+    itemSub.appendChild(dateSpan);
+
+    itemLeft.appendChild(bankNameSpan);
+    itemLeft.appendChild(itemSub);
+    flexLeft.appendChild(itemLeft);
+
+    const itemRight = document.createElement("div");
+    itemRight.className = "history-item-right";
+
+    const verdictChip = document.createElement("span");
+    verdictChip.className = `history-verdict-chip ${record.isPass ? "pass" : "fail"}`;
+    verdictChip.textContent = verdictText;
+
+    const scorePercentSpan = document.createElement("span");
+    scorePercentSpan.className = "history-score-percent";
+    scorePercentSpan.textContent = `${record.scorePercent}%`;
+
+    itemRight.appendChild(verdictChip);
+    itemRight.appendChild(scorePercentSpan);
+
+    btn.appendChild(flexLeft);
+    btn.appendChild(itemRight);
+
+    btn.addEventListener("click", () => {
+      if (historyState.isSelectionMode) {
+        if (historyState.selectedIndices.has(index)) {
+          historyState.selectedIndices.delete(index);
+        } else {
+          historyState.selectedIndices.add(index);
+        }
+        renderHistoryGrid();
+        updateStickyBarUI();
+      } else {
+        loadHistorySessionView(record);
+      }
+    });
+
+    DOM.historyList.appendChild(btn);
+  });
+}
+
+function loadHistorySessionView(record) {
+  // Load session state into appState and trigger submission/review display matching picture 3
+  appState.activeSubjectId = record.subjectId;
+  appState.bankName = record.bankName;
+  appState.selectedMode = record.mode;
+  appState.quizQuestions = record.quizQuestions || [];
+  appState.userAnswers = record.userAnswers || [];
+  appState.flaggedQuestions = record.flaggedQuestions || [];
+  appState.checkedAnswers = new Array(appState.quizQuestions.length).fill(true);
+  appState.timeSpent = record.timeSpent || 0;
+
+  const lang = appState.language || "en";
+  DOM.resultVerdict.textContent = record.isPass ? TRANSLATIONS[lang].results_pass : TRANSLATIONS[lang].results_fail;
+  DOM.resultVerdict.className = "result-verdict " + (record.isPass ? "pass" : "fail");
+
+  DOM.resultPercent.textContent = `${record.scorePercent}%`;
+  DOM.resultRatio.textContent = `${record.correctCount} / ${record.totalQuestions}`;
+  DOM.resultStatSubject.textContent = record.bankName;
+
+  const passMarkStatEl = document.querySelector(".stat-value[data-stat='pass-mark']");
+  if (passMarkStatEl) passMarkStatEl.textContent = `${record.passMark || 75}%`;
+
+  const mins = Math.floor((record.timeSpent || 0) / 60).toString().padStart(2, "0");
+  const secs = ((record.timeSpent || 0) % 60).toString().padStart(2, "0");
+  DOM.resultStatTime.textContent = `${mins}:${secs}`;
+
+  const circ = 339.292;
+  const offset = circ - (circ * record.scorePercent) / 100;
+  DOM.ringFill.style.strokeDasharray = `${circ}`;
+  DOM.ringFill.style.strokeDashoffset = `${offset}`;
+
+  buildReviewAccordion("all");
+  setupReviewFilters();
+  updateLanguageUI();
+  showScreen(DOM.screenResults);
 }

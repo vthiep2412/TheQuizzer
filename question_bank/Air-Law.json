@@ -4115,6 +4115,7 @@
   {
     "id": 138,
     "code": "",
+    "img": "./img/air-law1.png",
     "type": "MulChoice",
     "question": "When joining overhead at an unattended aerodrome you see two white arrows at the end of the runway. This means:",
     "explanation": "",
@@ -4145,6 +4146,7 @@
   {
     "id": 139,
     "code": "",
+    "img": "./img/air-law2.png",
     "type": "MulChoice",
     "question": "What is the meaning of this aerodrome chart symbol?",
     "explanation": "",
@@ -5520,6 +5522,7 @@
   {
     "id": 185,
     "code": "",
+    "img": "./img/air-law3.png",
     "type": "MulChoice",
     "question": "What is the magnetic direction of RWY 14 at Chu Lai aerodrome?",
     "explanation": "",
@@ -5550,6 +5553,7 @@
   {
     "id": 186,
     "code": "",
+    "img":"./img/air-law4.png",
     "type": "MulChoice",
     "question": "Aerodrome elevation at Chu Lai:",
     "explanation": "",

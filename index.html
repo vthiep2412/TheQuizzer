@@ -4,10 +4,11 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>The Quizzer - Aviation Exam Prep</title>
+  <link rel="icon" type="image/png" href="LOGO.png">
   <!-- Google Fonts: Outfit (headings) & Inter (UI/text) -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;500;600;700;800&display=swap&subset=vietnamese,latin-ext" rel="stylesheet">
   <link rel="stylesheet" href="style.css?v=4">
 </head>
 <body>
@@ -26,6 +27,9 @@
           <!-- Sun Icon (Light Mode active) -->
           <svg class="sun-icon" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="4"/><path d="M12 2v2"/><path d="M12 20v2"/><path d="m4.93 4.93 1.41 1.41"/><path d="m17.66 17.66 1.41 1.41"/><path d="M2 12h2"/><path d="M20 12h2"/><path d="m6.34 17.66-1.41 1.41"/><path d="m19.07 4.93-1.41 1.41"/></svg>
         </button>
+        <a id="github-link" href="https://github.com/vthiep2412/TheQuizzer/" target="_blank" rel="noopener noreferrer" class="github-link-btn" aria-label="Open GitHub Repository">
+          <svg class="github-icon" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 22v-4a4.8 4.8 0 0 0-1-3.5c3 0 6-2 6-5.5.08-1.25-.27-2.48-1-3.5.28-1.15.28-2.35 0-3.5 0 0-1 0-3 1.5-2.64-.5-5.36-.5-8 0C6 2 5 2 5 2c-.3 1.15-.3 2.35 0 3.5A5.403 5.403 0 0 0 4 9c0 3.5 3 5.5 6 5.5-.39.49-.68 1.05-.85 1.65-.17.6-.22 1.23-.15 1.85v4"></path><path d="M9 18c-4.51 2-5-2-7-2"></path></svg>
+        </a>
       </div>
     </div>
   </header>
@@ -41,6 +45,22 @@
         
         <div class="subjects-grid" id="subjects-grid">
           <!-- Buttons populated dynamically by app.js -->
+        </div>
+      </div>
+
+      <!-- History Section Area -->
+      <div id="session-history-container" class="history-card card glass">
+        <div class="history-header">
+          <h2 class="history-title" data-i18n="history_title">Practice & Exam History</h2>
+          <button id="btn-history-select" class="btn btn-outline btn-sm hide" data-i18n="btn_history_select_delete">Select Delete</button>
+          <div id="history-select-actions" class="history-select-actions hide">
+            <button id="btn-history-select-all" class="btn btn-outline btn-sm" data-i18n="btn_history_select_all">Select All</button>
+            <button id="btn-history-unselect-all" class="btn btn-outline btn-sm" data-i18n="btn_history_unselect_all">Unselect All</button>
+            <button id="btn-history-cancel" class="btn btn-outline btn-sm" data-i18n="btn_history_cancel">Cancel</button>
+          </div>
+        </div>
+        <div id="history-list" class="history-list">
+          <p class="history-empty-text" data-i18n="history_empty">No quiz history recorded yet. Complete a quiz to view past sessions!</p>
         </div>
       </div>
     </section>
@@ -153,7 +173,7 @@
               <!-- Options Switches -->
               <div class="switches-group">
                 <div class="switch-row">
-                  <span class="switch-label" data-i18n="shuffle_questions">Shuffle questions order</span>
+                  <span class="switch-label" data-i18n="shuffle_questions">Shuffle questions</span>
                   <label class="switch">
                     <input type="checkbox" id="shuffle-questions" checked>
                     <span class="slider"></span>
@@ -215,26 +235,36 @@
               </button>
             </div>
 
-            <!-- Question Text -->
-            <h2 id="question-text" class="question-text">Loading question...</h2>
+            <!-- Main Question Wrapper (Grid container when image present) -->
+            <div class="question-main-layout">
+              <div class="question-content-column">
+                <!-- Question Text -->
+                <h2 id="question-text" class="question-text">Loading question...</h2>
 
-            <!-- Options Grid -->
-            <div id="options-grid" class="options-grid">
-              <!-- Choices populated dynamically by app.js -->
-            </div>
+                <!-- Options Grid -->
+                <div id="options-grid" class="options-grid">
+                  <!-- Choices populated dynamically by app.js -->
+                </div>
 
-            <!-- Check Answer Button (Immediate Practice Mode Only) -->
-            <button id="btn-quiz-check" class="btn btn-primary btn-block hide">
-              <svg class="btn-svg" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg>
-              <span data-i18n="btn_check">Check Answer</span>
-            </button>
+                <!-- Check Answer Button (Immediate Practice Mode Only) -->
+                <button id="btn-quiz-check" class="btn btn-primary btn-block hide">
+                  <svg class="btn-svg" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg>
+                  <span data-i18n="btn_check">Check Answer</span>
+                </button>
 
-            <!-- Practice Feedback Area -->
-            <div id="explanation-box" class="explanation-box card glass hide">
-              <div class="explanation-header">
-                <span id="explanation-status" class="status-badge">Correct!</span>
+                <!-- Practice Feedback Area -->
+                <div id="explanation-box" class="explanation-box card glass hide">
+                  <div class="explanation-header">
+                    <span id="explanation-status" class="status-badge">Correct!</span>
+                  </div>
+                  <p id="explanation-text" class="explanation-desc">No explanation available for this question.</p>
+                </div>
               </div>
-              <p id="explanation-text" class="explanation-desc">No explanation available for this question.</p>
+
+              <!-- Question Image Container -->
+              <div id="question-image-container" class="question-image-container hide">
+                <!-- Image element dynamically inserted by app.js -->
+              </div>
             </div>
           </div>
 
@@ -346,6 +376,32 @@
     </section>
 
   </main>
+
+  <!-- Image Lightbox Modal -->
+  <div id="image-lightbox-modal" class="lightbox-modal hide" role="dialog" aria-modal="true" aria-hidden="true">
+    <div class="lightbox-overlay"></div>
+    <div class="lightbox-content">
+      <button id="btn-lightbox-close" class="lightbox-close-btn" aria-label="Close image preview">
+        <!-- Lucide X Icon -->
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M18 6 6 18"/><path d="m6 6 12 12"/></svg>
+      </button>
+      <div class="lightbox-viewport" id="lightbox-viewport">
+        <img id="lightbox-img" class="lightbox-img" src="" alt="Enlarged Diagram View" draggable="false" />
+      </div>
+      <div class="lightbox-tip" data-i18n="lightbox_tip">Scroll wheel to Zoom • Drag to Pan • Click outside to Close</div>
+    </div>
+  </div>
+
+  <!-- Sticky Bottom Deletion Bar -->
+  <div id="history-sticky-bar" class="history-sticky-bar card glass hide">
+    <div class="sticky-bar-content">
+      <span id="history-selected-count" class="sticky-count-text">0 Selected</span>
+      <div class="sticky-bar-actions">
+        <button id="btn-sticky-cancel" class="btn btn-secondary btn-sm" data-i18n="btn_history_cancel">Cancel</button>
+        <button id="btn-sticky-delete" class="btn btn-danger btn-sm" data-i18n="btn_history_delete">Delete</button>
+      </div>
+    </div>
+  </div>
 
   <script src="app.js?v=4"></script>
 </body>

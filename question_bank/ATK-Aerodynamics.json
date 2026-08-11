@@ -1295,6 +1295,7 @@
   {
     "id": 44,
     "code": "",
+    "img": "./img/ATK-Aerodynamics1.png",
     "type": "MulChoice",
     "question": "Which line represents the total drag line of an aeroplane?",
     "explanation": "",
@@ -1325,6 +1326,7 @@
   {
     "id": 45,
     "code": "",
+    "img": "./img/ATK-Aerodynamics2.png",
     "type": "MulChoice",
     "question": "The diagram shows the parameter X versus TAS. If a horizontal flight is considered the axis X shows",
     "explanation": "",
@@ -2945,6 +2947,7 @@
   {
     "id": 99,
     "code": "",
+    "img": "./img/ATK-Aerodynamics3.png",
     "type": "MulChoice",
     "question": "The high lift device shown in the figure is a:",
     "explanation": "",
@@ -2975,6 +2978,7 @@
   {
     "id": 100,
     "code": "",
+    "img": "./img/ATK-Aerodynamics4.png",
     "type": "MulChoice",
     "question": "Which type of flap is shown in the picture?",
     "explanation": "",
@@ -3005,6 +3009,7 @@
   {
     "id": 101,
     "code": "",
+    "img": "./img/ATK-Aerodynamics5.png",
     "type": "MulChoice",
     "question": "Which type of flap is shown in the picture?",
     "explanation": "",
@@ -3035,6 +3040,7 @@
   {
     "id": 102,
     "code": "",
+    "img": "./img/ATK-Aerodynamics6.png",
     "type": "MulChoice",
     "question": "The high lift device shown in the figure below is a:",
     "explanation": "",
