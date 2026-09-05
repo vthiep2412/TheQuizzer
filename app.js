@@ -838,7 +838,7 @@ function startQuiz() {
   updateLanguageUI();
   updateMapLegend();
   buildQuestionMap();
-  renderQuestion(0);
+  renderQuestion(0, true);
   showScreen(DOM.screenQuiz);
 }
 
@@ -881,7 +881,7 @@ function updateTimerUI() {
 }
 
 // Render Question to layout
-function renderQuestion(index) {
+function renderQuestion(index, shouldScroll = false) {
   if (index < 0 || index >= appState.quizQuestions.length) return;
   
   appState.currentIndex = index;
@@ -1048,7 +1048,9 @@ function renderQuestion(index) {
   const currentMapBtn = mapButtons[index];
   if (currentMapBtn) {
     currentMapBtn.classList.add("active");
-    currentMapBtn.scrollIntoView({ behavior: "smooth", block: "nearest" });
+    if (shouldScroll) {
+      currentMapBtn.scrollIntoView({ behavior: "smooth", block: "nearest" });
+    }
   }
 }
 
@@ -1069,7 +1071,7 @@ function selectOption(optionId) {
   }
   
   // Re-render display layout and sidebar updates
-  renderQuestion(idx);
+  renderQuestion(idx, false);
   updateQuestionMapNode(idx);
 }
 
@@ -1078,7 +1080,7 @@ function checkAnswer() {
   const idx = appState.currentIndex;
   if (appState.userAnswers[idx] !== null) {
     appState.checkedAnswers[idx] = true;
-    renderQuestion(idx);
+    renderQuestion(idx, false);
     updateQuestionMapNode(idx);
   }
 }
@@ -1086,7 +1088,7 @@ function checkAnswer() {
 // Navigation back and forth
 function navigateQuestion(direction) {
   const nextIdx = appState.currentIndex + direction;
-  renderQuestion(nextIdx);
+  renderQuestion(nextIdx, true);
 }
 
 // Bookmark / Flag toggle
@@ -1130,7 +1132,7 @@ function buildQuestionMap() {
     flagWrap.innerHTML = FLAG_SVG;
     btn.appendChild(flagWrap);
     
-    btn.addEventListener("click", () => renderQuestion(idx));
+    btn.addEventListener("click", () => renderQuestion(idx, true));
     
     DOM.questionMapGrid.appendChild(btn);
     syncQuestionMapNodeStyle(btn, idx);
