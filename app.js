@@ -1036,9 +1036,14 @@ function renderQuestion(index, shouldScroll = false) {
   }
   
   // Manage Check Answer button visibility
+  DOM.btnQuizCheck.classList.add("hide");
+  DOM.btnQuizCheck.disabled = true;
   if (appState.selectedMode === "practice" && appState.onTheFly) {
     if (!isChecked) {
       DOM.btnQuizCheck.classList.remove("hide");
+      if (selectedAnswer !== null) {
+        DOM.btnQuizCheck.disabled = false;
+      }
       DOM.btnQuizCheck.disabled = (selectedAnswer === null);
     } else {
       DOM.btnQuizCheck.classList.add("hide");
@@ -1059,6 +1064,7 @@ function renderQuestion(index, shouldScroll = false) {
   if (currentMapBtn) {
     currentMapBtn.classList.add("active");
     if (shouldScroll) {
+      currentMapBtn.scrollIntoView({ behavior: "smooth", block: "nearest" });
       scrollQuestionMapToActive(index);
     }
   }
@@ -1098,16 +1104,15 @@ function selectOption(optionId) {
     appState.userAnswers[idx] = optionId;
   }
   
+  // Re-render display layout and sidebar updates
+  renderQuestion(idx, false);
   const currentAnswer = appState.userAnswers[idx];
   
   // Update option button styles in-place without rebuilding DOM
   const optionButtons = DOM.optionsGrid.querySelectorAll(".option-btn");
   optionButtons.forEach(btn => {
-    if (btn.dataset.optionId === currentAnswer) {
-      btn.classList.add("selected");
-    } else {
-      btn.classList.remove("selected");
-    }
+    const isSelected = currentAnswer !== null && String(btn.dataset.optionId) === String(currentAnswer);
+    btn.classList.toggle("selected", isSelected);
   });
   
   // Update Practice Mode Check Answer button state
@@ -1189,6 +1194,7 @@ function buildQuestionMap() {
     flagWrap.innerHTML = FLAG_SVG;
     btn.appendChild(flagWrap);
     
+    btn.addEventListener("click", () => renderQuestion(idx, true));
     btn.addEventListener("click", () => {
       renderQuestion(idx, true);
       if (window.innerWidth <= 900) {
