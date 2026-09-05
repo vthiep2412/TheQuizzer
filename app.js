@@ -85,6 +85,8 @@ const DOM = {
   explanationText: document.getElementById("explanation-text"),
   btnQuizPrev: document.getElementById("btn-quiz-prev"),
   btnQuizNext: document.getElementById("btn-quiz-next"),
+  btnQuizPrevMobile: document.getElementById("btn-quiz-prev-mobile"),
+  btnQuizNextMobile: document.getElementById("btn-quiz-next-mobile"),
   btnQuizSubmit: document.getElementById("btn-quiz-submit"),
   btnQuizCheck: document.getElementById("btn-quiz-check"),
   questionMapGrid: document.getElementById("question-map-grid"),
@@ -666,6 +668,8 @@ function setupEventListeners() {
   // Quiz controls
   DOM.btnQuizPrev.addEventListener("click", () => navigateQuestion(-1));
   DOM.btnQuizNext.addEventListener("click", () => navigateQuestion(1));
+  if (DOM.btnQuizPrevMobile) DOM.btnQuizPrevMobile.addEventListener("click", () => navigateQuestion(-1));
+  if (DOM.btnQuizNextMobile) DOM.btnQuizNextMobile.addEventListener("click", () => navigateQuestion(1));
   DOM.btnQuizQuit.addEventListener("click", quitQuiz);
   DOM.btnQuizSubmit.addEventListener("click", () => {
     const lang = appState.language || "en";
@@ -945,6 +949,7 @@ function renderQuestion(index, shouldScroll = false) {
   question.options.forEach((opt, arrayIdx) => {
     const btn = document.createElement("button");
     btn.className = "option-btn";
+    btn.dataset.optionId = opt.id;
     
     const indexSpan = document.createElement("span");
     indexSpan.className = "option-index";
@@ -1019,24 +1024,29 @@ function renderQuestion(index, shouldScroll = false) {
   
   // Navigation controls visibility & disabled conditions
   DOM.btnQuizPrev.disabled = index === 0;
+  if (DOM.btnQuizPrevMobile) DOM.btnQuizPrevMobile.disabled = index === 0;
   
   const isLast = index === appState.quizQuestions.length - 1;
   if (isLast) {
     DOM.btnQuizNext.classList.add("hide");
+    if (DOM.btnQuizNextMobile) DOM.btnQuizNextMobile.classList.add("hide");
   } else {
     DOM.btnQuizNext.classList.remove("hide");
+    if (DOM.btnQuizNextMobile) DOM.btnQuizNextMobile.classList.remove("hide");
   }
   
   // Manage Check Answer button visibility
-  DOM.btnQuizCheck.classList.add("hide");
-  DOM.btnQuizCheck.disabled = true;
   if (appState.selectedMode === "practice" && appState.onTheFly) {
     if (!isChecked) {
       DOM.btnQuizCheck.classList.remove("hide");
-      if (selectedAnswer !== null) {
-        DOM.btnQuizCheck.disabled = false;
-      }
+      DOM.btnQuizCheck.disabled = (selectedAnswer === null);
+    } else {
+      DOM.btnQuizCheck.classList.add("hide");
+      DOM.btnQuizCheck.disabled = true;
     }
+  } else {
+    DOM.btnQuizCheck.classList.add("hide");
+    DOM.btnQuizCheck.disabled = true;
   }
   
   // Sidebar submit button is always visible during active quiz
@@ -1049,8 +1059,26 @@ function renderQuestion(index, shouldScroll = false) {
   if (currentMapBtn) {
     currentMapBtn.classList.add("active");
     if (shouldScroll) {
-      currentMapBtn.scrollIntoView({ behavior: "smooth", block: "nearest" });
+      scrollQuestionMapToActive(index);
     }
+  }
+}
+
+// Scroll question map grid internally without moving the document window
+function scrollQuestionMapToActive(index) {
+  const grid = DOM.questionMapGrid;
+  if (!grid) return;
+  const currentMapBtn = grid.querySelectorAll(".map-grid-btn")[index];
+  if (!currentMapBtn) return;
+  
+  // Only scroll internally inside the grid if the grid container itself is scrollable (e.g. desktop sidebar)
+  // Never scroll document window
+  if (grid.scrollHeight > grid.clientHeight) {
+    const topPos = currentMapBtn.offsetTop - grid.offsetTop;
+    grid.scrollTo({
+      top: topPos - grid.clientHeight / 2 + currentMapBtn.clientHeight / 2,
+      behavior: "smooth"
+    });
   }
 }
 
@@ -1070,8 +1098,24 @@ function selectOption(optionId) {
     appState.userAnswers[idx] = optionId;
   }
   
-  // Re-render display layout and sidebar updates
-  renderQuestion(idx, false);
+  const currentAnswer = appState.userAnswers[idx];
+  
+  // Update option button styles in-place without rebuilding DOM
+  const optionButtons = DOM.optionsGrid.querySelectorAll(".option-btn");
+  optionButtons.forEach(btn => {
+    if (btn.dataset.optionId === currentAnswer) {
+      btn.classList.add("selected");
+    } else {
+      btn.classList.remove("selected");
+    }
+  });
+  
+  // Update Practice Mode Check Answer button state
+  if (appState.selectedMode === "practice" && appState.onTheFly) {
+    DOM.btnQuizCheck.disabled = (currentAnswer === null);
+  }
+  
+  // Update Question Map sidebar node
   updateQuestionMapNode(idx);
 }
 
@@ -1088,7 +1132,20 @@ function checkAnswer() {
 // Navigation back and forth
 function navigateQuestion(direction) {
   const nextIdx = appState.currentIndex + direction;
+  if (nextIdx < 0 || nextIdx >= appState.quizQuestions.length) return;
+  
   renderQuestion(nextIdx, true);
+  
+  // Keep question visible at the top on mobile view if scrolled
+  if (window.innerWidth <= 768) {
+    const nav = DOM.screenQuiz.querySelector(".quiz-navbar");
+    if (nav) {
+      const topOffset = nav.getBoundingClientRect().top + window.scrollY;
+      if (window.scrollY > topOffset) {
+        window.scrollTo({ top: topOffset - 12, behavior: "smooth" });
+      }
+    }
+  }
 }
 
 // Bookmark / Flag toggle
@@ -1132,7 +1189,16 @@ function buildQuestionMap() {
     flagWrap.innerHTML = FLAG_SVG;
     btn.appendChild(flagWrap);
     
-    btn.addEventListener("click", () => renderQuestion(idx, true));
+    btn.addEventListener("click", () => {
+      renderQuestion(idx, true);
+      if (window.innerWidth <= 900) {
+        const nav = DOM.screenQuiz.querySelector(".quiz-navbar");
+        if (nav) {
+          const topOffset = nav.getBoundingClientRect().top + window.scrollY;
+          window.scrollTo({ top: topOffset - 12, behavior: "smooth" });
+        }
+      }
+    });
     
     DOM.questionMapGrid.appendChild(btn);
     syncQuestionMapNodeStyle(btn, idx);
